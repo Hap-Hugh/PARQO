@@ -5,7 +5,7 @@ https://github.com/Hap-Hugh/PG16
 ## Full Paper Link
 https://github.com/Hap-Hugh/PARQO/blob/main/PARQO-Full-Paper.pdf
 
-Arxiv: 
+[Jun 3 Updated]Arxiv is available now: https://arxiv.org/abs/2406.01526
 
 
 ## Instructions to run PARQO
@@ -17,7 +17,7 @@ Arxiv:
 
 5. Make database (JOB, DSB and STATS)
 - JOB: please follow Balsa <https://github.com/balsa-project/balsa> to download and load data to your database
-- DSB: please follow https://github.com/microsoft/dsb to generate data and workload
+- DSB: please follow https://github.com/Hap-Hugh/dsb-linux-pg/tree/main/scripts to generate data and workload
 - STATS: please follow https://github.com/Nathaniel-Han/End-to-End-CardEst-Benchmark to download data and load data to your database
 
 6. Run PARQO's code:
