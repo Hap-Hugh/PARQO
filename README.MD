@@ -5,7 +5,8 @@ https://github.com/Hap-Hugh/PG16
 ## Full Paper Link
 https://github.com/Hap-Hugh/PARQO/blob/main/PARQO-Full-Paper.pdf
 
-[Jun 3 Updated]Arxiv is available now: https://arxiv.org/abs/2406.01526
+[Jun 3 Updated] Arxiv is available now: https://arxiv.org/abs/2406.01526
+[Jul 1 Updated] Our paper is accepted with shepherding by VLDB 2024 (Vol 17)!
 
 
 ## Instructions to run PARQO
