@@ -1,0 +1,28 @@
+                                                            QUERY PLAN                                                            
+----------------------------------------------------------------------------------------------------------------------------------
+ Finalize Aggregate  (cost=20180.70..20180.71 rows=1 width=68)
+   ->  Gather  (cost=20180.48..20180.69 rows=2 width=68)
+         Workers Planned: 2
+         ->  Partial Aggregate  (cost=19180.48..19180.49 rows=1 width=68)
+               ->  Hash Join  (cost=4.35..19173.49 rows=932 width=45)
+                     Hash Cond: (mc.company_type_id = ct.id)
+                     ->  Nested Loop  (cost=3.29..19152.27 rows=3729 width=49)
+                           Join Filter: (t.id = mc.movie_id)
+                           ->  Nested Loop  (cost=2.86..18220.15 rows=1435 width=29)
+                                 ->  Hash Join  (cost=2.43..15253.60 rows=5089 width=4)
+                                       Hash Cond: (mi_idx.info_type_id = it.id)
+                                       ->  Parallel Seq Scan on movie_info_idx mi_idx  (cost=0.00..13685.15 rows=575015 width=8)
+                                       ->  Hash  (cost=2.41..2.41 rows=1 width=4)
+                                             ->  Seq Scan on info_type it  (cost=0.00..2.41 rows=1 width=4)
+                                                   Filter: ((info)::text = 'bottom 10 rank'::text)
+                                 ->  Index Scan using title_pkey on title t  (cost=0.43..0.58 rows=1 width=25)
+                                       Index Cond: (id = mi_idx.movie_id)
+                                       Filter: ((production_year >= 2005) AND (production_year <= 2010))
+                           ->  Index Scan using movie_id_movie_companies on movie_companies mc  (cost=0.43..0.61 rows=3 width=32)
+                                 Index Cond: (movie_id = mi_idx.movie_id)
+                                 Filter: (note !~~ '%(as Metro-Goldwyn-Mayer Pictures)%'::text)
+                     ->  Hash  (cost=1.05..1.05 rows=1 width=4)
+                           ->  Seq Scan on company_type ct  (cost=0.00..1.05 rows=1 width=4)
+                                 Filter: ((kind)::text = 'production companies'::text)
+(24 rows)
+

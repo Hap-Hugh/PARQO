@@ -1,0 +1,20 @@
+{
+  "0": [
+    "/*+\nSeqScan(mc)\nIndexScan(t)\nIndexScan(mi)\nIndexScan(ct)\nIndexOnlyScan(it)\nNestLoop ( mc t )\nNestLoop ( mc t mi )\nNestLoop ( mc t mi ct )\nNestLoop ( mc t mi ct it )\nLeading ( ( ( ( ( mc t ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(ct)\nIndexScan(t)\nIndexScan(mi)\nIndexOnlyScan(it)\nHashJoin ( mc ct )\nNestLoop ( mc ct t )\nNestLoop ( mc ct t mi )\nNestLoop ( mc ct t mi it )\nLeading ( ( ( ( ( mc ct ) t ) mi ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(mc)\nIndexScan(mi)\nIndexScan(ct)\nIndexOnlyScan(it)\nHashJoin ( t mc )\nNestLoop ( t mc mi )\nNestLoop ( t mc mi ct )\nNestLoop ( t mc mi ct it )\nLeading ( ( ( ( ( t mc ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(t)\nIndexScan(mc)\nSeqScan(ct)\nIndexScan(mi)\nIndexOnlyScan(it)\nNestLoop ( t mc )\nHashJoin ( t mc ct )\nNestLoop ( t mc ct mi )\nNestLoop ( t mc ct mi it )\nLeading ( ( ( ( ( t mc ) ct ) mi ) it ) ) */",
+    "/*+\nSeqScan(mi)\nIndexScan(t)\nIndexScan(mc)\nSeqScan(ct)\nSeqScan(it)\nNestLoop ( mi t )\nNestLoop ( mi t mc )\nHashJoin ( mi t mc ct )\nHashJoin ( mi t mc ct it )\nLeading ( ( ( ( ( mi t ) mc ) ct ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(mc)\nSeqScan(ct)\nIndexScan(mi)\nIndexOnlyScan(it)\nHashJoin ( mc ct )\nHashJoin ( t mc ct )\nNestLoop ( t mc ct mi )\nNestLoop ( t mc ct mi it )\nLeading ( ( ( ( t ( mc ct ) ) mi ) it ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(t)\nSeqScan(ct)\nIndexScan(mi)\nIndexOnlyScan(it)\nHashJoin ( mc t )\nHashJoin ( mc t ct )\nNestLoop ( mc t ct mi )\nNestLoop ( mc t ct mi it )\nLeading ( ( ( ( ( mc t ) ct ) mi ) it ) ) */",
+    "/*+\nSeqScan(t)\nIndexScan(mc)\nIndexScan(mi)\nIndexScan(ct)\nIndexOnlyScan(it)\nNestLoop ( t mc )\nNestLoop ( t mc mi )\nNestLoop ( t mc mi ct )\nNestLoop ( t mc mi ct it )\nLeading ( ( ( ( ( t mc ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(mc)\nSeqScan(ct)\nIndexScan(mi)\nIndexOnlyScan(it)\nHashJoin ( t mc )\nHashJoin ( t mc ct )\nNestLoop ( t mc ct mi )\nNestLoop ( t mc ct mi it )\nLeading ( ( ( ( ( t mc ) ct ) mi ) it ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(t)\nIndexScan(mi)\nSeqScan(ct)\nIndexOnlyScan(it)\nHashJoin ( mc t )\nNestLoop ( mc t mi )\nHashJoin ( mc t mi ct )\nNestLoop ( mc t mi ct it )\nLeading ( ( ( ( ( mc t ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(mc)\nIndexScan(t)\nIndexScan(mi)\nIndexOnlyScan(it)\nSeqScan(ct)\nNestLoop ( mc t )\nNestLoop ( mc t mi )\nNestLoop ( mc t mi it )\nHashJoin ( mc t mi it ct )\nLeading ( ( ( ( ( mc t ) mi ) it ) ct ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(t)\nIndexScan(mi)\nIndexScan(ct)\nIndexOnlyScan(it)\nHashJoin ( mc t )\nNestLoop ( mc t mi )\nNestLoop ( mc t mi ct )\nNestLoop ( mc t mi ct it )\nLeading ( ( ( ( ( mc t ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(t)\nSeqScan(ct)\nIndexScan(mi)\nSeqScan(it)\nHashJoin ( mc t )\nHashJoin ( mc t ct )\nNestLoop ( mc t ct mi )\nHashJoin ( mc t ct mi it )\nLeading ( ( ( ( ( mc t ) ct ) mi ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(mc)\nIndexScan(mi)\nSeqScan(ct)\nSeqScan(it)\nHashJoin ( t mc )\nNestLoop ( t mc mi )\nHashJoin ( t mc mi ct )\nHashJoin ( t mc mi ct it )\nLeading ( ( ( ( ( t mc ) mi ) ct ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(mc)\nIndexScan(mi)\nIndexOnlyScan(it)\nSeqScan(ct)\nHashJoin ( t mc )\nNestLoop ( t mc mi )\nNestLoop ( t mc mi it )\nHashJoin ( t mc mi it ct )\nLeading ( ( ( ( ( t mc ) mi ) it ) ct ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(ct)\nIndexScan(mi)\nIndexScan(t)\nIndexOnlyScan(it)\nHashJoin ( mc ct )\nNestLoop ( mc ct mi )\nNestLoop ( mc ct mi t )\nNestLoop ( mc ct mi t it )\nLeading ( ( ( ( ( mc ct ) mi ) t ) it ) ) */"
+  ]
+}

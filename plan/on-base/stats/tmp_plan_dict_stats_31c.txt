@@ -1,0 +1,10 @@
+{
+  "0": [
+    "/*+\nIndexOnlyScan(c)\nIndexScan(u)\nIndexScan(v)\nIndexScan(ph)\nIndexScan(p)\nMergeJoin ( c u )\nMergeJoin ( v ph )\nMergeJoin ( v ph p )\nMergeJoin ( c u v ph p )\nLeading ( ( ( c u ) ( ( v ph ) p ) ) ) */",
+    "/*+\nIndexOnlyScan(c)\nIndexScan(u)\nIndexScan(p)\nIndexScan(v)\nIndexScan(ph)\nMergeJoin ( c u )\nMergeJoin ( v ph )\nMergeJoin ( p v ph )\nMergeJoin ( c u p v ph )\nLeading ( ( ( c u ) ( p ( v ph ) ) ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(u)\nIndexScan(p)\nIndexScan(v)\nIndexScan(ph)\nHashJoin ( c u )\nMergeJoin ( v ph )\nMergeJoin ( p v ph )\nMergeJoin ( c u p v ph )\nLeading ( ( ( c u ) ( p ( v ph ) ) ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(u)\nIndexScan(v)\nIndexScan(ph)\nIndexScan(p)\nHashJoin ( c u )\nMergeJoin ( v ph )\nMergeJoin ( v ph p )\nMergeJoin ( c u v ph p )\nLeading ( ( ( c u ) ( ( v ph ) p ) ) ) */",
+    "/*+\nIndexOnlyScan(c)\nIndexScan(u)\nIndexScan(v)\nIndexScan(p)\nIndexScan(ph)\nMergeJoin ( c u )\nMergeJoin ( v p )\nNestLoop ( v p ph )\nMergeJoin ( c u v p ph )\nLeading ( ( ( c u ) ( ( v p ) ph ) ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(u)\nIndexScan(v)\nIndexScan(p)\nIndexScan(ph)\nHashJoin ( c u )\nMergeJoin ( v p )\nNestLoop ( v p ph )\nMergeJoin ( c u v p ph )\nLeading ( ( ( c u ) ( ( v p ) ph ) ) ) */"
+  ]
+}

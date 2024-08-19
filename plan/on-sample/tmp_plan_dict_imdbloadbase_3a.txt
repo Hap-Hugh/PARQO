@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(mi)\nIndexScan(t)\nNestLoop ( k mk )\nNestLoop ( k mk mi )\nNestLoop ( k mk mi t )\nLeading ( ( ( ( k mk ) mi ) t ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(mi)\nSeqScan(t)\nNestLoop ( k mk )\nNestLoop ( k mk mi )\nMergeJoin ( k mk mi t )\nLeading ( ( ( ( k mk ) mi ) t ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(mi)\nSeqScan(t)\nNestLoop ( k mk )\nNestLoop ( k mk mi )\nNestLoop ( k mk mi t )\nLeading ( ( ( ( k mk ) mi ) t ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(mi)\nNestLoop ( k mk )\nNestLoop ( k mk t )\nNestLoop ( k mk t mi )\nLeading ( ( ( ( k mk ) t ) mi ) ) */",
+    "/*+\nSeqScan(mk)\nSeqScan(k)\nIndexScan(t)\nIndexScan(mi)\nHashJoin ( mk k )\nNestLoop ( mk k t )\nNestLoop ( mk k t mi )\nLeading ( ( ( ( mk k ) t ) mi ) ) */"
+  ]
+}

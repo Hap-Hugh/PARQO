@@ -1,0 +1,7 @@
+{
+  "0": [
+    "/*+\nSeqScan(rt)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(chn)\nIndexScan(mc)\nIndexScan(cn)\nIndexScan(t)\nNestLoop ( rt ci )\nNestLoop ( rt ci n )\nNestLoop ( rt ci n an )\nNestLoop ( rt ci n an chn )\nNestLoop ( rt ci n an chn mc )\nNestLoop ( rt ci n an chn mc cn )\nNestLoop ( rt ci n an chn mc cn t )\nLeading ( ( ( ( ( ( ( ( rt ci ) n ) an ) chn ) mc ) cn ) t ) ) */",
+    "/*+\nSeqScan(rt)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(mc)\nIndexScan(t)\nIndexScan(chn)\nIndexScan(cn)\nNestLoop ( rt ci )\nNestLoop ( rt ci n )\nNestLoop ( rt ci n an )\nNestLoop ( rt ci n an mc )\nNestLoop ( rt ci n an mc t )\nNestLoop ( rt ci n an mc t chn )\nNestLoop ( rt ci n an mc t chn cn )\nLeading ( ( ( ( ( ( ( ( rt ci ) n ) an ) mc ) t ) chn ) cn ) ) */",
+    "/*+\nSeqScan(rt)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(mc)\nIndexScan(cn)\nIndexScan(chn)\nIndexScan(t)\nNestLoop ( rt ci )\nNestLoop ( rt ci n )\nNestLoop ( rt ci n an )\nNestLoop ( rt ci n an mc )\nNestLoop ( rt ci n an mc cn )\nNestLoop ( rt ci n an mc cn chn )\nNestLoop ( rt ci n an mc cn chn t )\nLeading ( ( ( ( ( ( ( ( rt ci ) n ) an ) mc ) cn ) chn ) t ) ) */"
+  ]
+}

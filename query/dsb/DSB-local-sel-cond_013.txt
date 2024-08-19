@@ -1,0 +1,600 @@
+ca_country = 'United States' and ca_state in ('AK', 'AR', 'MI')
+ca_country = 'United States' and ca_state in ('AK', 'IN', 'TX')
+ca_country = 'United States' and ca_state in ('AK', 'MD', 'SC')
+ca_country = 'United States' and ca_state in ('AK', 'MO', 'OH')
+ca_country = 'United States' and ca_state in ('AK', 'NV', 'NY')
+ca_country = 'United States' and ca_state in ('AL', 'AR', 'GA')
+ca_country = 'United States' and ca_state in ('AL', 'AR', 'IL')
+ca_country = 'United States' and ca_state in ('AL', 'AR', 'NH')
+ca_country = 'United States' and ca_state in ('AL', 'CA', 'CO')
+ca_country = 'United States' and ca_state in ('AL', 'FL', 'NJ')
+ca_country = 'United States' and ca_state in ('AL', 'GA', 'IA')
+ca_country = 'United States' and ca_state in ('AL', 'GA', 'KS')
+ca_country = 'United States' and ca_state in ('AL', 'GA', 'NC')
+ca_country = 'United States' and ca_state in ('AL', 'IA', 'IN')
+ca_country = 'United States' and ca_state in ('AL', 'IA', 'NE')
+ca_country = 'United States' and ca_state in ('AL', 'IL', 'VA')
+ca_country = 'United States' and ca_state in ('AL', 'KS', 'MO')
+ca_country = 'United States' and ca_state in ('AL', 'KY', 'SD')
+ca_country = 'United States' and ca_state in ('AL', 'KY', 'TX')
+ca_country = 'United States' and ca_state in ('AL', 'MI', 'TX')
+ca_country = 'United States' and ca_state in ('AL', 'MN', 'NC')
+ca_country = 'United States' and ca_state in ('AL', 'MO', 'SD')
+ca_country = 'United States' and ca_state in ('AL', 'MS', 'MT')
+ca_country = 'United States' and ca_state in ('AL', 'MT', 'OR')
+ca_country = 'United States' and ca_state in ('AL', 'MT', 'WI')
+ca_country = 'United States' and ca_state in ('AL', 'ND', 'SC')
+ca_country = 'United States' and ca_state in ('AL', 'ND', 'WI')
+ca_country = 'United States' and ca_state in ('AL', 'NE', 'PA')
+ca_country = 'United States' and ca_state in ('AL', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('AL', 'OH', 'WY')
+ca_country = 'United States' and ca_state in ('AL', 'OK', 'WI')
+ca_country = 'United States' and ca_state in ('AL', 'SC', 'WI')
+ca_country = 'United States' and ca_state in ('AL', 'TX', 'WV')
+ca_country = 'United States' and ca_state in ('AL', 'WI', 'WV')
+ca_country = 'United States' and ca_state in ('AR', 'CA', 'MI')
+ca_country = 'United States' and ca_state in ('AR', 'GA', 'IL')
+ca_country = 'United States' and ca_state in ('AR', 'ID', 'VT')
+ca_country = 'United States' and ca_state in ('AR', 'IL', 'KS')
+ca_country = 'United States' and ca_state in ('AR', 'IL', 'MI')
+ca_country = 'United States' and ca_state in ('AR', 'IL', 'MI')
+ca_country = 'United States' and ca_state in ('AR', 'IL', 'MO')
+ca_country = 'United States' and ca_state in ('AR', 'IN', 'KS')
+ca_country = 'United States' and ca_state in ('AR', 'IN', 'TX')
+ca_country = 'United States' and ca_state in ('AR', 'LA', 'MN')
+ca_country = 'United States' and ca_state in ('AR', 'LA', 'TN')
+ca_country = 'United States' and ca_state in ('AR', 'MI', 'WA')
+ca_country = 'United States' and ca_state in ('AR', 'TX', 'WA')
+ca_country = 'United States' and ca_state in ('CA', 'FL', 'MT')
+ca_country = 'United States' and ca_state in ('CA', 'FL', 'SC')
+ca_country = 'United States' and ca_state in ('CA', 'FL', 'TX')
+ca_country = 'United States' and ca_state in ('CA', 'GA', 'ID')
+ca_country = 'United States' and ca_state in ('CA', 'GA', 'WI')
+ca_country = 'United States' and ca_state in ('CA', 'IA', 'OH')
+ca_country = 'United States' and ca_state in ('CA', 'KY', 'TX')
+ca_country = 'United States' and ca_state in ('CA', 'MD', 'UT')
+ca_country = 'United States' and ca_state in ('CA', 'MT', 'VA')
+ca_country = 'United States' and ca_state in ('CA', 'NC', 'TX')
+ca_country = 'United States' and ca_state in ('CA', 'SC', 'TX')
+ca_country = 'United States' and ca_state in ('CA', 'SD', 'TN')
+ca_country = 'United States' and ca_state in ('CO', 'IA', 'PA')
+ca_country = 'United States' and ca_state in ('CO', 'IN', 'MN')
+ca_country = 'United States' and ca_state in ('CO', 'IN', 'MO')
+ca_country = 'United States' and ca_state in ('CO', 'IN', 'ND')
+ca_country = 'United States' and ca_state in ('CO', 'IN', 'OK')
+ca_country = 'United States' and ca_state in ('CO', 'KY', 'MO')
+ca_country = 'United States' and ca_state in ('CO', 'KY', 'NY')
+ca_country = 'United States' and ca_state in ('CO', 'MO', 'TX')
+ca_country = 'United States' and ca_state in ('CO', 'NC', 'SC')
+ca_country = 'United States' and ca_state in ('CO', 'PA', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'GA', 'NE')
+ca_country = 'United States' and ca_state in ('FL', 'GA', 'TN')
+ca_country = 'United States' and ca_state in ('FL', 'GA', 'WV')
+ca_country = 'United States' and ca_state in ('FL', 'IA', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'ID', 'VA')
+ca_country = 'United States' and ca_state in ('FL', 'IL', 'NM')
+ca_country = 'United States' and ca_state in ('FL', 'IN', 'LA')
+ca_country = 'United States' and ca_state in ('FL', 'IN', 'MN')
+ca_country = 'United States' and ca_state in ('FL', 'IN', 'MO')
+ca_country = 'United States' and ca_state in ('FL', 'IN', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'IN', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'KS', 'WV')
+ca_country = 'United States' and ca_state in ('FL', 'KY', 'MO')
+ca_country = 'United States' and ca_state in ('FL', 'MA', 'MO')
+ca_country = 'United States' and ca_state in ('FL', 'MA', 'NC')
+ca_country = 'United States' and ca_state in ('FL', 'MN', 'OK')
+ca_country = 'United States' and ca_state in ('FL', 'MO', 'UT')
+ca_country = 'United States' and ca_state in ('FL', 'MS', 'PA')
+ca_country = 'United States' and ca_state in ('FL', 'ND', 'OR')
+ca_country = 'United States' and ca_state in ('FL', 'NE', 'OK')
+ca_country = 'United States' and ca_state in ('FL', 'NY', 'SC')
+ca_country = 'United States' and ca_state in ('FL', 'NY', 'WI')
+ca_country = 'United States' and ca_state in ('FL', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'OK', 'WV')
+ca_country = 'United States' and ca_state in ('FL', 'PA', 'VT')
+ca_country = 'United States' and ca_state in ('FL', 'PA', 'WY')
+ca_country = 'United States' and ca_state in ('FL', 'SD', 'TX')
+ca_country = 'United States' and ca_state in ('FL', 'TX', 'WI')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'MI')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'MS')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'ND')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'OH')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'TN')
+ca_country = 'United States' and ca_state in ('GA', 'IA', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'ID', 'WA')
+ca_country = 'United States' and ca_state in ('GA', 'IL', 'ME')
+ca_country = 'United States' and ca_state in ('GA', 'IL', 'ND')
+ca_country = 'United States' and ca_state in ('GA', 'IL', 'SC')
+ca_country = 'United States' and ca_state in ('GA', 'IL', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'IN', 'MO')
+ca_country = 'United States' and ca_state in ('GA', 'IN', 'MS')
+ca_country = 'United States' and ca_state in ('GA', 'IN', 'NC')
+ca_country = 'United States' and ca_state in ('GA', 'IN', 'WI')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'MN')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'OR')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'PA')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'SC')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'KY', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'MA', 'WI')
+ca_country = 'United States' and ca_state in ('GA', 'MI', 'NY')
+ca_country = 'United States' and ca_state in ('GA', 'MI', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'MN', 'MT')
+ca_country = 'United States' and ca_state in ('GA', 'MO', 'OH')
+ca_country = 'United States' and ca_state in ('GA', 'MO', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'MO', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'MO', 'WA')
+ca_country = 'United States' and ca_state in ('GA', 'MS', 'NY')
+ca_country = 'United States' and ca_state in ('GA', 'MS', 'PA')
+ca_country = 'United States' and ca_state in ('GA', 'MS', 'SC')
+ca_country = 'United States' and ca_state in ('GA', 'MT', 'NC')
+ca_country = 'United States' and ca_state in ('GA', 'MT', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'NC', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'NC', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'ND', 'OK')
+ca_country = 'United States' and ca_state in ('GA', 'NE', 'TN')
+ca_country = 'United States' and ca_state in ('GA', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('GA', 'OH', 'WI')
+ca_country = 'United States' and ca_state in ('GA', 'OK', 'SD')
+ca_country = 'United States' and ca_state in ('GA', 'OR', 'UT')
+ca_country = 'United States' and ca_state in ('GA', 'SC', 'WY')
+ca_country = 'United States' and ca_state in ('GA', 'SD', 'TX')
+ca_country = 'United States' and ca_state in ('HI', 'IL', 'IN')
+ca_country = 'United States' and ca_state in ('IA', 'KS', 'MI')
+ca_country = 'United States' and ca_state in ('IA', 'KS', 'NC')
+ca_country = 'United States' and ca_state in ('IA', 'KY', 'MS')
+ca_country = 'United States' and ca_state in ('IA', 'KY', 'TX')
+ca_country = 'United States' and ca_state in ('IA', 'KY', 'WI')
+ca_country = 'United States' and ca_state in ('IA', 'LA', 'MA')
+ca_country = 'United States' and ca_state in ('IA', 'LA', 'NM')
+ca_country = 'United States' and ca_state in ('IA', 'LA', 'VA')
+ca_country = 'United States' and ca_state in ('IA', 'MO', 'OK')
+ca_country = 'United States' and ca_state in ('IA', 'MT', 'NC')
+ca_country = 'United States' and ca_state in ('IA', 'ND', 'TX')
+ca_country = 'United States' and ca_state in ('IA', 'NE', 'TX')
+ca_country = 'United States' and ca_state in ('IA', 'TX', 'WA')
+ca_country = 'United States' and ca_state in ('IA', 'TX', 'WY')
+ca_country = 'United States' and ca_state in ('IA', 'VT', 'WA')
+ca_country = 'United States' and ca_state in ('ID', 'IN', 'OK')
+ca_country = 'United States' and ca_state in ('ID', 'MI', 'NC')
+ca_country = 'United States' and ca_state in ('ID', 'NC', 'OR')
+ca_country = 'United States' and ca_state in ('ID', 'NC', 'TX')
+ca_country = 'United States' and ca_state in ('ID', 'NV', 'OK')
+ca_country = 'United States' and ca_state in ('ID', 'SC', 'TX')
+ca_country = 'United States' and ca_state in ('IL', 'IN', 'TX')
+ca_country = 'United States' and ca_state in ('IL', 'KS', 'SC')
+ca_country = 'United States' and ca_state in ('IL', 'KS', 'TX')
+ca_country = 'United States' and ca_state in ('IL', 'ME', 'UT')
+ca_country = 'United States' and ca_state in ('IL', 'MO', 'WI')
+ca_country = 'United States' and ca_state in ('IL', 'MT', 'TN')
+ca_country = 'United States' and ca_state in ('IL', 'NC', 'SC')
+ca_country = 'United States' and ca_state in ('IL', 'ND', 'TX')
+ca_country = 'United States' and ca_state in ('IL', 'ND', 'VA')
+ca_country = 'United States' and ca_state in ('IL', 'NE', 'OH')
+ca_country = 'United States' and ca_state in ('IL', 'NJ', 'SD')
+ca_country = 'United States' and ca_state in ('IL', 'OH', 'VT')
+ca_country = 'United States' and ca_state in ('IL', 'PA', 'SC')
+ca_country = 'United States' and ca_state in ('IL', 'SC', 'SD')
+ca_country = 'United States' and ca_state in ('IL', 'TN', 'TX')
+ca_country = 'United States' and ca_state in ('IL', 'TX', 'VA')
+ca_country = 'United States' and ca_state in ('IN', 'KS', 'NV')
+ca_country = 'United States' and ca_state in ('IN', 'KS', 'TN')
+ca_country = 'United States' and ca_state in ('IN', 'KS', 'VA')
+ca_country = 'United States' and ca_state in ('IN', 'KY', 'WY')
+ca_country = 'United States' and ca_state in ('IN', 'MI', 'MN')
+ca_country = 'United States' and ca_state in ('IN', 'MI', 'WI')
+ca_country = 'United States' and ca_state in ('IN', 'MI', 'WI')
+ca_country = 'United States' and ca_state in ('IN', 'MN', 'TX')
+ca_country = 'United States' and ca_state in ('IN', 'MT', 'PA')
+ca_country = 'United States' and ca_state in ('IN', 'NE', 'VA')
+ca_country = 'United States' and ca_state in ('IN', 'OH', 'OR')
+ca_country = 'United States' and ca_state in ('IN', 'OH', 'PA')
+ca_country = 'United States' and ca_state in ('IN', 'TN', 'TX')
+ca_country = 'United States' and ca_state in ('IN', 'TX', 'WI')
+ca_country = 'United States' and ca_state in ('KS', 'LA', 'VA')
+ca_country = 'United States' and ca_state in ('KS', 'MO', 'TX')
+ca_country = 'United States' and ca_state in ('KS', 'MO', 'WV')
+ca_country = 'United States' and ca_state in ('KS', 'NC', 'NV')
+ca_country = 'United States' and ca_state in ('KS', 'NE', 'SD')
+ca_country = 'United States' and ca_state in ('KS', 'NE', 'WI')
+ca_country = 'United States' and ca_state in ('KS', 'NE', 'WV')
+ca_country = 'United States' and ca_state in ('KS', 'NJ', 'TX')
+ca_country = 'United States' and ca_state in ('KS', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('KS', 'OK', 'TX')
+ca_country = 'United States' and ca_state in ('KS', 'SD', 'TX')
+ca_country = 'United States' and ca_state in ('KS', 'TN', 'TX')
+ca_country = 'United States' and ca_state in ('KY', 'MD', 'WI')
+ca_country = 'United States' and ca_state in ('KY', 'MN', 'TN')
+ca_country = 'United States' and ca_state in ('KY', 'MS', 'NC')
+ca_country = 'United States' and ca_state in ('KY', 'MS', 'WI')
+ca_country = 'United States' and ca_state in ('KY', 'MT', 'VA')
+ca_country = 'United States' and ca_state in ('KY', 'NC', 'SD')
+ca_country = 'United States' and ca_state in ('KY', 'NE', 'TX')
+ca_country = 'United States' and ca_state in ('KY', 'NJ', 'PA')
+ca_country = 'United States' and ca_state in ('KY', 'NV', 'VA')
+ca_country = 'United States' and ca_state in ('KY', 'OK', 'TX')
+ca_country = 'United States' and ca_state in ('KY', 'SD', 'TX')
+ca_country = 'United States' and ca_state in ('KY', 'SD', 'WI')
+ca_country = 'United States' and ca_state in ('LA', 'MA', 'TN')
+ca_country = 'United States' and ca_state in ('LA', 'MD', 'NM')
+ca_country = 'United States' and ca_state in ('LA', 'ME', 'UT')
+ca_country = 'United States' and ca_state in ('LA', 'VA', 'WA')
+ca_country = 'United States' and ca_state in ('LA', 'WA', 'WI')
+ca_country = 'United States' and ca_state in ('MA', 'UT', 'VA')
+ca_country = 'United States' and ca_state in ('MD', 'NC', 'NM')
+ca_country = 'United States' and ca_state in ('MD', 'NC', 'TX')
+ca_country = 'United States' and ca_state in ('MD', 'NC', 'WV')
+ca_country = 'United States' and ca_state in ('MD', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('ME', 'ND', 'OK')
+ca_country = 'United States' and ca_state in ('MI', 'MN', 'WY')
+ca_country = 'United States' and ca_state in ('MI', 'MO', 'TX')
+ca_country = 'United States' and ca_state in ('MI', 'MS', 'OH')
+ca_country = 'United States' and ca_state in ('MI', 'NC', 'NV')
+ca_country = 'United States' and ca_state in ('MI', 'ND', 'TX')
+ca_country = 'United States' and ca_state in ('MI', 'NE', 'SD')
+ca_country = 'United States' and ca_state in ('MI', 'NY', 'TX')
+ca_country = 'United States' and ca_state in ('MI', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('MI', 'OK', 'PA')
+ca_country = 'United States' and ca_state in ('MI', 'OK', 'VA')
+ca_country = 'United States' and ca_state in ('MI', 'RI', 'VA')
+ca_country = 'United States' and ca_state in ('MI', 'SD', 'TN')
+ca_country = 'United States' and ca_state in ('MI', 'TN', 'WA')
+ca_country = 'United States' and ca_state in ('MI', 'TX', 'VA')
+ca_country = 'United States' and ca_state in ('MI', 'VA', 'WI')
+ca_country = 'United States' and ca_state in ('MN', 'NJ', 'TX')
+ca_country = 'United States' and ca_state in ('MN', 'NM', 'TN')
+ca_country = 'United States' and ca_state in ('MN', 'NM', 'TX')
+ca_country = 'United States' and ca_state in ('MN', 'NV', 'TX')
+ca_country = 'United States' and ca_state in ('MN', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('MN', 'OR', 'WY')
+ca_country = 'United States' and ca_state in ('MN', 'SC', 'TX')
+ca_country = 'United States' and ca_state in ('MN', 'TN', 'VA')
+ca_country = 'United States' and ca_state in ('MN', 'TX', 'UT')
+ca_country = 'United States' and ca_state in ('MN', 'UT', 'VA')
+ca_country = 'United States' and ca_state in ('MO', 'MS', 'ND')
+ca_country = 'United States' and ca_state in ('MO', 'NC', 'SC')
+ca_country = 'United States' and ca_state in ('MO', 'ND', 'SC')
+ca_country = 'United States' and ca_state in ('MO', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('MO', 'PA', 'TX')
+ca_country = 'United States' and ca_state in ('MO', 'VA', 'WV')
+ca_country = 'United States' and ca_state in ('MS', 'MT', 'WV')
+ca_country = 'United States' and ca_state in ('MS', 'NE', 'TX')
+ca_country = 'United States' and ca_state in ('MS', 'NH', 'TX')
+ca_country = 'United States' and ca_state in ('MS', 'NY', 'SC')
+ca_country = 'United States' and ca_state in ('MS', 'OH', 'OK')
+ca_country = 'United States' and ca_state in ('MS', 'OR', 'VA')
+ca_country = 'United States' and ca_state in ('MS', 'SC', 'TX')
+ca_country = 'United States' and ca_state in ('MS', 'TX', 'WY')
+ca_country = 'United States' and ca_state in ('MT', 'ND', 'VA')
+ca_country = 'United States' and ca_state in ('MT', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('MT', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('MT', 'SC', 'VA')
+ca_country = 'United States' and ca_state in ('MT', 'TN', 'VA')
+ca_country = 'United States' and ca_state in ('MT', 'TX', 'VA')
+ca_country = 'United States' and ca_state in ('NC', 'NE', 'OH')
+ca_country = 'United States' and ca_state in ('NC', 'NH', 'VA')
+ca_country = 'United States' and ca_state in ('NC', 'OH', 'PA')
+ca_country = 'United States' and ca_state in ('NC', 'PA', 'TX')
+ca_country = 'United States' and ca_state in ('NC', 'TN', 'UT')
+ca_country = 'United States' and ca_state in ('ND', 'NH', 'TX')
+ca_country = 'United States' and ca_state in ('ND', 'NY', 'OK')
+ca_country = 'United States' and ca_state in ('NE', 'NM', 'SC')
+ca_country = 'United States' and ca_state in ('NE', 'OR', 'TN')
+ca_country = 'United States' and ca_state in ('NE', 'TN', 'TX')
+ca_country = 'United States' and ca_state in ('NE', 'TN', 'WI')
+ca_country = 'United States' and ca_state in ('NJ', 'OH', 'VA')
+ca_country = 'United States' and ca_state in ('NJ', 'OK', 'TX')
+ca_country = 'United States' and ca_state in ('NM', 'OK', 'WA')
+ca_country = 'United States' and ca_state in ('NV', 'OH', 'TX')
+ca_country = 'United States' and ca_state in ('NY', 'TN', 'WI')
+ca_country = 'United States' and ca_state in ('OH', 'PA', 'WI')
+ca_country = 'United States' and ca_state in ('OH', 'VA', 'WI')
+ca_country = 'United States' and ca_state in ('OK', 'OR', 'WV')
+ca_country = 'United States' and ca_state in ('PA', 'UT', 'VA')
+ca_country = 'United States' and ca_state in ('SD', 'TN', 'VA')
+ca_country = 'United States' and ca_state in ('SD', 'TX', 'VA')
+ca_country = 'United States' and ca_state in ('SD', 'TX', 'WI')
+ca_country = 'United States' and ca_state in ('TN', 'TX', 'WV')
+ca_country = 'United States' and ca_state in ('TX', 'UT', 'WY')
+ca_country = 'United States' and ca_state in ('TX', 'WI', 'WV')
+ca_country = 'United States' and ca_state in ('TX', 'WI', 'WV')
+cd_marital_status = 'D' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Secondary'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'College'
+cd_marital_status = 'M' and cd_education_status = 'College'
+cd_marital_status = 'M' and cd_education_status = 'College'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Unknown'
+cd_marital_status = 'S' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'College'
+cd_marital_status = 'S' and cd_education_status = 'College'
+cd_marital_status = 'S' and cd_education_status = 'Primary'
+cd_marital_status = 'S' and cd_education_status = 'Primary'
+cd_marital_status = 'S' and cd_education_status = 'Primary'
+cd_marital_status = 'S' and cd_education_status = 'Primary'
+cd_marital_status = 'U' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'

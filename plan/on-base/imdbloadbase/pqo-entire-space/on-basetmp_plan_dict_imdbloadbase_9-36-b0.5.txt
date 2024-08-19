@@ -1,0 +1,5 @@
+{
+  "0": [
+    "/*+\nSeqScan(mc)\nIndexScan(cn)\nIndexScan(t)\nIndexScan(ci)\nIndexScan(rt)\nIndexScan(an)\nIndexScan(chn)\nIndexScan(n)\nNestLoop ( mc cn )\nNestLoop ( mc cn t )\nNestLoop ( mc cn t ci )\nNestLoop ( mc cn t ci rt )\nNestLoop ( mc cn t ci rt an )\nNestLoop ( mc cn t ci rt an chn )\nNestLoop ( mc cn t ci rt an chn n )\nLeading ( ( ( ( ( ( ( ( mc cn ) t ) ci ) rt ) an ) chn ) n ) ) */"
+  ]
+}

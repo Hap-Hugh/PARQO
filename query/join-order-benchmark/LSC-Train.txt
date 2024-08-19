@@ -1,0 +1,433 @@
+an.name IS NOT NULL AND (an.name LIKE '%a%' OR an.name LIKE 'A%')
+an.name LIKE '%a%'
+cct.kind != 'complete+verified'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'cast'
+cct.kind = 'complete'
+cct.kind = 'complete'
+cct.kind = 'complete+verified'
+cct.kind = 'complete+verified'
+cct.kind = 'complete+verified'
+cct.kind = 'complete+verified'
+cct.kind = 'complete+verified'
+cct.kind = 'complete+verified'
+cct.kind = 'crew'
+cct.kind IN ('cast','crew')
+cct.kind IN ('cast','crew')
+cct.kind LIKE '%complete%'
+cct.kind LIKE '%complete%'
+cct.kind LIKE '%complete%'
+cct.kind LIKE '%complete%'
+cct.kind LIKE 'complete%'
+chn.name = 'Queen'
+chn.name IS NOT NULL AND (chn.name LIKE '%man%' OR chn.name LIKE '%Man%')
+chn.name IS NOT NULL AND (chn.name LIKE '%man%' OR chn.name LIKE '%Man%')
+chn.name IS NOT NULL AND (chn.name LIKE '%man%'OR chn.name LIKE '%Man%')
+chn.name NOT LIKE '%Sherlock%' AND (chn.name LIKE '%Tony%Stark%' OR chn.name LIKE '%Iron%Man%')
+ci.note = '(voice: English version)'
+ci.note = '(voice)'
+ci.note = '(voice)'
+ci.note IN ('(voice)','(voice: Japanese version)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(voice)','(voice: Japanese version)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(voice)','(voice: Japanese version)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(voice)','(voice: Japanese version)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(voice)','(voice: Japanese version)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(voice)','(voice) (uncredited)','(voice: English version)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note IN ('(writer)','(head writer)','(written by)','(story)','(story editor)')
+ci.note LIKE '%(producer)%'
+ci.note LIKE '%(producer)%'
+cn.country_code != '[pl]'
+cn.country_code != '[pl]' AND (cn.name LIKE '%Film%' OR cn.name LIKE '%Warner%')
+cn.country_code != '[pl]' AND (cn.name LIKE '%Film%' OR cn.name LIKE '%Warner%')
+cn.country_code != '[pl]' AND (cn.name LIKE '%Film%' OR cn.name LIKE '%Warner%')
+cn.country_code != '[pl]' AND (cn.name LIKE '%Film%' OR cn.name LIKE '%Warner%')
+cn.country_code != '[pl]' AND (cn.name LIKE '%Film%' OR cn.name LIKE '%Warner%')
+cn.country_code != '[pl]' AND (cn.name LIKE '20th Century Fox%' OR cn.name LIKE 'Twentieth Century Fox%')
+cn.country_code != '[us]'
+cn.country_code != '[us]'
+cn.country_code != '[us]'
+cn.country_code != '[us]'
+cn.country_code != '[us]'
+cn.country_code != '[us]'
+cn.country_code = '[jp]'
+cn.country_code = '[nl]'
+cn.country_code = '[nl]'
+cn.country_code = '[ru]'
+cn.country_code = '[sm]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]'
+cn.country_code = '[us]' AND cn.name = 'YouTube'
+cn.name LIKE 'Lionsgate%'
+cn.name LIKE 'Lionsgate%'
+ct.kind != 'production companies' AND ct.kind IS NOT NULL
+ct.kind != 'production companies' AND ct.kind IS NOT NULL
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind = 'production companies'
+ct.kind IS NOT NULL AND (ct.kind = 'production companies' OR ct.kind = 'distributors')
+it.info = 'bottom 10 rank'
+it.info = 'bottom 10 rank'
+it.info = 'bottom 10 rank'
+it.info = 'budget'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'countries'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'genres'
+it.info = 'height'
+it.info = 'mini biography'
+it.info = 'mini biography'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'rating'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates'
+it.info = 'release dates' AND kt.kind = 'movie'
+it.info = 'top 250 rank'
+it.info = 'trivia'
+it.info = 'votes'
+it.info = 'votes'
+it.info = 'votes'
+it.info = 'votes'
+it.info = 'votes'
+it.info = 'votes'
+it.info = 'votes'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'character-name-in-title'
+k.keyword = 'computer-animation'
+k.keyword = 'computer-animation'
+k.keyword = 'marvel-cinematic-universe'
+k.keyword = 'marvel-cinematic-universe'
+k.keyword = 'sequel'
+k.keyword = 'sequel'
+k.keyword = 'sequel'
+k.keyword = 'sequel'
+k.keyword = 'sequel'
+k.keyword IN ('murder','blood','gore','death','female-nudity')
+k.keyword IN ('murder','murder-in-title','blood','violence')
+k.keyword IN ('murder','murder-in-title','blood','violence')
+k.keyword IN ('murder','murder-in-title','blood','violence')
+k.keyword IN ('murder','murder-in-title','blood','violence')
+k.keyword IN ('murder','murder-in-title','blood','violence')
+k.keyword IN ('murder','murder-in-title')
+k.keyword IN ('murder','violence','blood','gore','death','female-nudity','hospital')
+k.keyword IN ('murder','violence','blood','gore','death','female-nudity','hospital')
+k.keyword IN ('murder','violence','blood','gore','death','female-nudity','hospital')
+k.keyword IN ('murder','violence','blood','gore','death','female-nudity','hospital')
+k.keyword IN ('murder','violence','blood','gore','death','female-nudity','hospital')
+k.keyword IN ('nerd','loner','alienation','dignity')
+k.keyword IN ('sequel','revenge','based-on-novel')
+k.keyword IN ('sequel','revenge','based-on-novel')
+k.keyword IN ('superhero','marvel-comics','based-on-comic','fight')
+k.keyword IN ('superhero','marvel-comics','based-on-comic','tv-special','fight','violence','magnet','web','claw','laser')
+k.keyword IN ('superhero','marvel-comics','based-on-comic','tv-special','fight','violence','magnet','web','claw','laser')
+k.keyword IN ('superhero','sequel','second-part','marvel-comics','based-on-comic','tv-special','fight','violence')
+k.keyword IN ('superhero','sequel','second-part','marvel-comics','based-on-comic','tv-special','fight','violence')
+k.keyword IN ('superhero','sequel','second-part','marvel-comics','based-on-comic','tv-special','fight','violence')
+k.keyword IN ('superhero','sequel','second-part','marvel-comics','based-on-comic','tv-special','fight','violence')
+k.keyword IS NOT NULL AND k.keyword IN ('murder','murder-in-title', 'blood', 'violence')
+k.keyword LIKE '%sequel%'
+k.keyword LIKE '%sequel%'
+k.keyword LIKE '%sequel%'
+k.keyword LIKE '%sequel%'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind = 'movie'
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','episode')
+kt.kind IN ('movie','tv movie','video movie','video game')
+kt.kind IN ('movie')
+kt.kind IN ('tv series','episode')
+kt.kind IN ('tv series','episode')
+kt.kind IN ('tv series')
+kt.kind IN ('tv series')
+lt.link = 'features'
+lt.link IN ('references','referenced in','features','featured in')
+lt.link IN ('sequel','follows','followed by')
+lt.link LIKE '%follow%'
+lt.link LIKE '%follow%'
+lt.link LIKE '%follow%'
+lt.link LIKE '%follow%'
+lt.link LIKE '%follow%'
+lt.link LIKE '%follows%'
+mc.note IS NOT NULL
+mc.note IS NOT NULL
+mc.note IS NULL
+mc.note IS NULL
+mc.note IS NULL
+mc.note IS NULL
+mc.note IS NULL
+mc.note LIKE '%(1994)%'
+mc.note LIKE '%(200%)%'
+mc.note LIKE '%(200%)%'
+mc.note LIKE '%(200%)%' AND (mc.note LIKE '%(USA)%' OR mc.note LIKE '%(worldwide)%')
+mc.note LIKE '%(200%)%' AND (mc.note LIKE '%(USA)%' OR mc.note LIKE '%(worldwide)%')
+mc.note LIKE '%(200%)%' AND mc.note LIKE '%(worldwide)%'
+mc.note LIKE '%(Blu-ray)%'
+mc.note LIKE '%(co-production)%'
+mc.note LIKE '%(Japan)%' AND mc.note NOT LIKE '%(USA)%' AND (mc.note LIKE '%(2006)%' OR mc.note LIKE '%(2007)%')
+mc.note LIKE '%(USA)%'
+mc.note LIKE '%(USA)%'
+mc.note LIKE '%(VHS)%'
+mc.note NOT LIKE '%(as Metro-Goldwyn-Mayer Pictures)%'
+mc.note NOT LIKE '%(as Metro-Goldwyn-Mayer Pictures)%'
+mc.note NOT LIKE '%(as Metro-Goldwyn-Mayer Pictures)%'
+mc.note NOT LIKE '%(TV)%'
+mc.note NOT LIKE '%(USA)%'
+mc.note NOT LIKE '%(USA)%'
+mc.note NOT LIKE '%(USA)%' AND mc.note LIKE '%(200%)%'
+mc.note NOT LIKE '%(USA)%' AND mc.note LIKE '%(200%)%'
+mi_idx.info < '3.0'
+mi_idx.info < '3.5'
+mi_idx.info < '7.0'
+mi_idx.info < '8.5'
+mi_idx.info < '8.5'
+mi_idx.info < '8.5'
+mi_idx.info < '8.5'
+mi_idx.info > '2.0'
+mi_idx.info > '6.0'
+mi_idx.info > '6.5'
+mi_idx.info > '7.0'
+mi_idx.info > '8.0'
+mi_idx.info > '8.0'
+mi_idx.info > '9.0'
+mi.info = 'Horror'
+mi.info IN ('Bulgaria')
+mi.info IN ('Drama','Horror','Western','Family')
+mi.info IN ('Germany', 'German')
+mi.info IN ('Germany','German','USA','American')
+mi.info IN ('Horror', 'Thriller') AND mi.note IS NULL
+mi.info IN ('Horror','Action','Sci-Fi','Thriller','Crime','War')
+mi.info IN ('Horror','Action','Sci-Fi','Thriller','Crime','War')
+mi.info IN ('Horror','Action','Sci-Fi','Thriller','Crime','War')
+mi.info IN ('Horror','Action','Sci-Fi','Thriller','Crime','War')
+mi.info IN ('Horror','Thriller')
+mi.info IN ('Horror','Thriller')
+mi.info IN ('Sweden','Germany','Swedish','German')
+mi.info IN ('Sweden','Germany','Swedish','German')
+mi.info IN ('Sweden','Norway', 'Germany', 'Denmark', 'Swedish', 'Denish', 'Norwegian', 'German', 'USA', 'American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Danish','Norwegian','German','USA','American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Danish','Norwegian','German','USA','American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Danish','Norwegian','German','USA','American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Danish','Norwegian','German','USA','American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Denish','Norwegian','German','English')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Denish','Norwegian','German','English')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Denish','Norwegian','German','USA','American')
+mi.info IN ('Sweden','Norway','Germany','Denmark','Swedish','Denish','Norwegian','German','USA','American')
+mi.info IN ('USA','America')
+mi.info IS NOT NULL (mi.info LIKE 'Japan:%200%' OR mi.info LIKE 'USA:%200%')
+mi.info IS NOT NULL (mi.info LIKE 'USA:% 199%' OR mi.info LIKE 'USA:% 200%')
+mi.info IS NOT NULL AND (mi.info LIKE 'Japan:%200%' OR mi.info LIKE 'USA:%200%')
+mi.info IS NOT NULL AND (mi.info LIKE 'Japan:%2007%' OR mi.info LIKE 'USA:%2008%')
+mi.info LIKE 'USA:% 200%'
+mi.info LIKE 'USA:%200%'
+mi.note LIKE '%internet%'
+mi.note LIKE '%internet%'
+mi.note LIKE '%internet%'
+mi.note LIKE '%internet%' AND mi.info IS NOT NULL AND (mi.info LIKE 'USA:% 199%' OR mi.info LIKE 'USA:% 200%')
+mi.note LIKE '%internet%' AND mi.info LIKE 'USA:% 200%'
+n.country_code = '[us]'
+n.gender = 'f'
+n.gender = 'f'
+n.gender = 'f' AND n.name LIKE '%An%'
+n.gender = 'f' AND n.name LIKE '%An%'
+n.gender = 'f' and n.name LIKE '%An%'
+n.gender = 'f' and n.name LIKE '%An%'
+n.gender = 'f' AND n.name LIKE '%Angel%'
+n.gender = 'f' AND n.name LIKE '%Angel%'
+n.gender = 'm'
+n.gender = 'm'
+n.gender = 'm'
+n.gender = 'm'
+n.gender = 'm'
+n.gender = 'm'
+n.gender IS NOT NULL AND n.gender = 'f'
+n.gender= 'm'
+n.name LIKE '%B%'
+n.name LIKE '%Bert%'
+n.name LIKE '%Downey%Robert%'
+n.name LIKE '%Downey%Robert%'
+n.name LIKE '%Downey%Robert%'
+n.name LIKE '%Downey%Robert%'
+n.name LIKE '%Downey%Robert%'
+n.name LIKE '%Yo%' AND n.name NOT LIKE '%Yu%'
+n.name LIKE 'X%'
+n.name LIKE 'Z%'
+n.name_pcode_cf BETWEEN 'A' AND 'F' AND (n.gender= 'm' OR (n.gender = 'f' AND n.name LIKE 'A%'))
+n.name_pcode_cf LIKE 'D%'
+pi.note = 'Volker Boehm'
+pi.note IS NOT NULL
+rt.role = 'actor'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'actress'
+rt.role = 'costume designer'
+rt.role = 'writer'
+t.episode_nr < 100
+t.episode_nr >= 5 AND t.episode_nr < 100
+t.production_year = 1998
+t.production_year = 1998 AND t.title LIKE '%Money%'
+t.production_year > 1950
+t.production_year > 1950
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 1990
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000
+t.production_year > 2000 AND (t.title LIKE '%Freddy%' OR t.title LIKE '%Jason%' OR t.title LIKE 'Saw%')
+t.production_year > 2000 AND (t.title LIKE '%Freddy%' OR t.title LIKE '%Jason%' OR t.title LIKE 'Saw%')
+t.production_year > 2005
+t.production_year > 2005
+t.production_year > 2005
+t.production_year > 2005
+t.production_year > 2005
+t.production_year > 2005
+t.production_year > 2009
+t.production_year > 2010
+t.production_year > 2010
+t.production_year > 2010
+t.production_year > 2010
+t.production_year > 2010
+t.production_year > 2010 AND (t.title LIKE '%murder%' OR t.title LIKE '%Murder%' OR t.title LIKE '%Mord%')
+t.production_year > 2014
+t.production_year >2000
+t.production_year >2000 AND (t.title LIKE 'Birdemic%' OR t.title LIKE '%Movie%')
+t.production_year >2010
+t.production_year BETWEEN 1950 AND 2010
+t.production_year BETWEEN 1950 AND 2010
+t.production_year BETWEEN 1980 AND 1984
+t.production_year BETWEEN 1980 AND 2010
+t.production_year BETWEEN 2000 AND 2010
+t.production_year BETWEEN 2000 AND 2010
+t.production_year BETWEEN 2000 AND 2010
+t.production_year BETWEEN 2000 AND 2010
+t.production_year BETWEEN 2005 AND 2010
+t.production_year BETWEEN 2005 AND 2010
+t.production_year BETWEEN 2006 AND 2007 AND (t.title LIKE 'One Piece%' OR t.title LIKE 'Dragon Ball Z%')
+t.production_year BETWEEN 2007 AND 2008 AND t.title LIKE '%Kung%Fu%Panda%'
+t.production_year BETWEEN 2007 AND 2010
+t.production_year BETWEEN 2008 AND 2014
+t.title != '' AND (t.title LIKE '%Champion%' OR t.title LIKE '%Loser%')
+t.title != '' AND (t.title LIKE 'Champion%' OR t.title LIKE 'Loser%')
+t.title = 'Shrek 2' AND t.production_year BETWEEN 2000 AND 2005
+t.title LIKE 'Vampire%'

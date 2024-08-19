@@ -1,0 +1,8 @@
+{
+  "0": [
+    "/*+\nIndexScan(v)\nIndexScan(p)\nIndexScan(u)\nSeqScan(t)\nIndexScan(b)\nMergeJoin ( v p )\nMergeJoin ( v p u )\nHashJoin ( v p u t )\nNestLoop ( v p u t b )\nLeading ( ( ( ( ( v p ) u ) t ) b ) ) */",
+    "/*+\nIndexScan(v)\nIndexScan(b)\nSeqScan(p)\nSeqScan(t)\nIndexScan(u)\nMergeJoin ( v b )\nHashJoin ( p t )\nNestLoop ( p t u )\nMergeJoin ( v b p t u )\nLeading ( ( ( v b ) ( ( p t ) u ) ) ) */",
+    "/*+\nSeqScan(p)\nSeqScan(t)\nIndexScan(u)\nIndexScan(v)\nIndexScan(b)\nHashJoin ( p t )\nNestLoop ( p t u )\nNestLoop ( p t u v )\nNestLoop ( p t u v b )\nLeading ( ( ( ( ( p t ) u ) v ) b ) ) */",
+    "/*+\nIndexScan(v)\nIndexScan(p)\nIndexScan(b)\nIndexScan(u)\nSeqScan(t)\nMergeJoin ( v p )\nMergeJoin ( v p b )\nMergeJoin ( v p b u )\nHashJoin ( v p b u t )\nLeading ( ( ( ( ( v p ) b ) u ) t ) ) */"
+  ]
+}

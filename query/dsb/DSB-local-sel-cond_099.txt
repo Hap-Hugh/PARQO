@@ -1,0 +1,500 @@
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'medium'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cc_class = 'small'
+cs_list_price between 10 and 39
+cs_list_price between 105 and 134
+cs_list_price between 107 and 136
+cs_list_price between 107 and 136
+cs_list_price between 110 and 139
+cs_list_price between 111 and 140
+cs_list_price between 114 and 143
+cs_list_price between 114 and 143
+cs_list_price between 116 and 145
+cs_list_price between 116 and 145
+cs_list_price between 121 and 150
+cs_list_price between 123 and 152
+cs_list_price between 125 and 154
+cs_list_price between 125 and 154
+cs_list_price between 128 and 157
+cs_list_price between 136 and 165
+cs_list_price between 141 and 170
+cs_list_price between 150 and 179
+cs_list_price between 150 and 179
+cs_list_price between 152 and 181
+cs_list_price between 158 and 187
+cs_list_price between 160 and 189
+cs_list_price between 161 and 190
+cs_list_price between 161 and 190
+cs_list_price between 162 and 191
+cs_list_price between 164 and 193
+cs_list_price between 166 and 195
+cs_list_price between 166 and 195
+cs_list_price between 168 and 197
+cs_list_price between 169 and 198
+cs_list_price between 17 and 46
+cs_list_price between 174 and 203
+cs_list_price between 177 and 206
+cs_list_price between 183 and 212
+cs_list_price between 183 and 212
+cs_list_price between 186 and 215
+cs_list_price between 189 and 218
+cs_list_price between 19 and 48
+cs_list_price between 191 and 220
+cs_list_price between 195 and 224
+cs_list_price between 198 and 227
+cs_list_price between 204 and 233
+cs_list_price between 206 and 235
+cs_list_price between 209 and 238
+cs_list_price between 218 and 247
+cs_list_price between 22 and 51
+cs_list_price between 223 and 252
+cs_list_price between 228 and 257
+cs_list_price between 234 and 263
+cs_list_price between 240 and 269
+cs_list_price between 241 and 270
+cs_list_price between 243 and 272
+cs_list_price between 252 and 281
+cs_list_price between 254 and 283
+cs_list_price between 260 and 289
+cs_list_price between 266 and 295
+cs_list_price between 269 and 298
+cs_list_price between 27 and 56
+cs_list_price between 27 and 56
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 271 and 300
+cs_list_price between 300 and 329
+cs_list_price between 31 and 60
+cs_list_price between 32 and 61
+cs_list_price between 33 and 62
+cs_list_price between 33 and 62
+cs_list_price between 37 and 66
+cs_list_price between 42 and 71
+cs_list_price between 43 and 72
+cs_list_price between 45 and 74
+cs_list_price between 45 and 74
+cs_list_price between 48 and 77
+cs_list_price between 5 and 34
+cs_list_price between 53 and 82
+cs_list_price between 53 and 82
+cs_list_price between 58 and 87
+cs_list_price between 62 and 91
+cs_list_price between 62 and 91
+cs_list_price between 67 and 96
+cs_list_price between 68 and 97
+cs_list_price between 68 and 97
+cs_list_price between 71 and 100
+cs_list_price between 71 and 100
+cs_list_price between 73 and 102
+cs_list_price between 8 and 37
+cs_list_price between 91 and 120
+cs_list_price between 91 and 120
+cs_list_price between 95 and 124
+cs_list_price between 99 and 128
+d_month_seq between 1176 and 1176 + 23
+d_month_seq between 1176 and 1176 + 23
+d_month_seq between 1176 and 1176 + 23
+d_month_seq between 1177 and 1177 + 23
+d_month_seq between 1177 and 1177 + 23
+d_month_seq between 1177 and 1177 + 23
+d_month_seq between 1177 and 1177 + 23
+d_month_seq between 1178 and 1178 + 23
+d_month_seq between 1178 and 1178 + 23
+d_month_seq between 1179 and 1179 + 23
+d_month_seq between 1179 and 1179 + 23
+d_month_seq between 1179 and 1179 + 23
+d_month_seq between 1180 and 1180 + 23
+d_month_seq between 1180 and 1180 + 23
+d_month_seq between 1181 and 1181 + 23
+d_month_seq between 1181 and 1181 + 23
+d_month_seq between 1182 and 1182 + 23
+d_month_seq between 1182 and 1182 + 23
+d_month_seq between 1182 and 1182 + 23
+d_month_seq between 1182 and 1182 + 23
+d_month_seq between 1183 and 1183 + 23
+d_month_seq between 1183 and 1183 + 23
+d_month_seq between 1184 and 1184 + 23
+d_month_seq between 1184 and 1184 + 23
+d_month_seq between 1184 and 1184 + 23
+d_month_seq between 1184 and 1184 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1186 and 1186 + 23
+d_month_seq between 1186 and 1186 + 23
+d_month_seq between 1187 and 1187 + 23
+d_month_seq between 1187 and 1187 + 23
+d_month_seq between 1189 and 1189 + 23
+d_month_seq between 1189 and 1189 + 23
+d_month_seq between 1189 and 1189 + 23
+d_month_seq between 1189 and 1189 + 23
+d_month_seq between 1190 and 1190 + 23
+d_month_seq between 1190 and 1190 + 23
+d_month_seq between 1190 and 1190 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1192 and 1192 + 23
+d_month_seq between 1192 and 1192 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1193 and 1193 + 23
+d_month_seq between 1194 and 1194 + 23
+d_month_seq between 1194 and 1194 + 23
+d_month_seq between 1194 and 1194 + 23
+d_month_seq between 1195 and 1195 + 23
+d_month_seq between 1195 and 1195 + 23
+d_month_seq between 1195 and 1195 + 23
+d_month_seq between 1196 and 1196 + 23
+d_month_seq between 1196 and 1196 + 23
+d_month_seq between 1196 and 1196 + 23
+d_month_seq between 1196 and 1196 + 23
+d_month_seq between 1196 and 1196 + 23
+d_month_seq between 1197 and 1197 + 23
+d_month_seq between 1197 and 1197 + 23
+d_month_seq between 1198 and 1198 + 23
+d_month_seq between 1198 and 1198 + 23
+d_month_seq between 1199 and 1199 + 23
+d_month_seq between 1199 and 1199 + 23
+d_month_seq between 1199 and 1199 + 23
+d_month_seq between 1200 and 1200 + 23
+d_month_seq between 1200 and 1200 + 23
+d_month_seq between 1200 and 1200 + 23
+d_month_seq between 1201 and 1201 + 23
+d_month_seq between 1202 and 1202 + 23
+d_month_seq between 1202 and 1202 + 23
+d_month_seq between 1205 and 1205 + 23
+d_month_seq between 1205 and 1205 + 23
+d_month_seq between 1205 and 1205 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1207 and 1207 + 23
+d_month_seq between 1207 and 1207 + 23
+d_month_seq between 1209 and 1209 + 23
+d_month_seq between 1209 and 1209 + 23
+d_month_seq between 1210 and 1210 + 23
+d_month_seq between 1210 and 1210 + 23
+d_month_seq between 1210 and 1210 + 23
+d_month_seq between 1211 and 1211 + 23
+d_month_seq between 1211 and 1211 + 23
+d_month_seq between 1212 and 1212 + 23
+d_month_seq between 1212 and 1212 + 23
+sm_type = 'EXPRESS'
+sm_type = 'EXPRESS'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'LIBRARY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'NEXT DAY'
+sm_type = 'OVERNIGHT'
+sm_type = 'OVERNIGHT'
+sm_type = 'OVERNIGHT'
+sm_type = 'OVERNIGHT'
+sm_type = 'OVERNIGHT'
+sm_type = 'OVERNIGHT'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+sm_type = 'TWO DAY'
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5
+w_gmt_offset = -5

@@ -1,0 +1,14 @@
+{
+  "0": [
+    "/*+\nSeqScan(ml)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t2)\nSeqScan(lt)\nIndexScan(t1)\nNestLoop ( k mk )\nHashJoin ( ml k mk )\nNestLoop ( ml k mk t2 )\nHashJoin ( ml k mk t2 lt )\nNestLoop ( ml k mk t2 lt t1 )\nLeading ( ( ( ( ( ml ( k mk ) ) t2 ) lt ) t1 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */",
+    "/*+\nIndexScan(t1)\nIndexScan(ml)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t2)\nSeqScan(lt)\nMergeJoin ( t1 ml )\nNestLoop ( k mk )\nHashJoin ( t1 ml k mk )\nNestLoop ( t1 ml k mk t2 )\nHashJoin ( t1 ml k mk t2 lt )\nLeading ( ( ( ( ( t1 ml ) ( k mk ) ) t2 ) lt ) ) */",
+    "/*+\nSeqScan(ml)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t2)\nIndexScan(t1)\nSeqScan(lt)\nNestLoop ( k mk )\nHashJoin ( ml k mk )\nNestLoop ( ml k mk t2 )\nNestLoop ( ml k mk t2 t1 )\nHashJoin ( ml k mk t2 t1 lt )\nLeading ( ( ( ( ( ml ( k mk ) ) t2 ) t1 ) lt ) ) */",
+    "/*+\nIndexScan(mk)\nIndexScan(k)\nSeqScan(ml)\nSeqScan(lt)\nIndexScan(t2)\nIndexScan(t1)\nNestLoop ( mk k )\nHashJoin ( ml lt )\nMergeJoin ( mk k ml lt )\nNestLoop ( mk k ml lt t2 )\nNestLoop ( mk k ml lt t2 t1 )\nLeading ( ( ( ( ( mk k ) ( ml lt ) ) t2 ) t1 ) ) */",
+    "/*+\nIndexScan(ml)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t2)\nIndexScan(t1)\nSeqScan(lt)\nNestLoop ( k mk )\nMergeJoin ( ml k mk )\nNestLoop ( ml k mk t2 )\nNestLoop ( ml k mk t2 t1 )\nHashJoin ( ml k mk t2 t1 lt )\nLeading ( ( ( ( ( ml ( k mk ) ) t2 ) t1 ) lt ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t2)\nIndexScan(lt)\nIndexScan(t1)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml t2 )\nNestLoop ( k mk ml t2 lt )\nNestLoop ( k mk ml t2 lt t1 )\nLeading ( ( ( ( ( ( k mk ) ml ) t2 ) lt ) t1 ) ) */",
+    "/*+\nIndexScan(t1)\nIndexScan(ml)\nIndexScan(t2)\nSeqScan(k)\nIndexScan(mk)\nSeqScan(lt)\nMergeJoin ( t1 ml )\nNestLoop ( t1 ml t2 )\nNestLoop ( k mk )\nHashJoin ( t1 ml t2 k mk )\nHashJoin ( t1 ml t2 k mk lt )\nLeading ( ( ( ( ( t1 ml ) t2 ) ( k mk ) ) lt ) ) */",
+    "/*+\nIndexScan(ml)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t2)\nSeqScan(lt)\nIndexScan(t1)\nNestLoop ( k mk )\nMergeJoin ( ml k mk )\nNestLoop ( ml k mk t2 )\nHashJoin ( ml k mk t2 lt )\nNestLoop ( ml k mk t2 lt t1 )\nLeading ( ( ( ( ( ml ( k mk ) ) t2 ) lt ) t1 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t2)\nSeqScan(lt)\nIndexScan(t1)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml t2 )\nNestLoop ( k mk ml t2 lt )\nNestLoop ( k mk ml t2 lt t1 )\nLeading ( ( ( ( ( ( k mk ) ml ) t2 ) lt ) t1 ) ) */"
+  ]
+}

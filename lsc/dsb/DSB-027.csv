@@ -1,0 +1,89 @@
+Table,Condition,Frequency
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree',6
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree',14
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College',5
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary',5
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Secondary',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Unknown',4
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree',7
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Advanced Degree',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Primary',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Unknown',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = '4 yr Degree',2
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'Advanced Degree',4
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'College',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'U' AND cd_education_status = 'College',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '2 yr Degree',1
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree',14
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree',9
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College',11
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary',9
+customer_demographics,cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Unknown',2
+customer_demographics,cd_gender = 'M' AND cd_marital_status = 'D' AND cd_education_status = 'College',1
+date_dim,d_year = 1998,24
+date_dim,d_year = 1999,15
+date_dim,d_year = 2000,19
+date_dim,d_year = 2001,15
+date_dim,d_year = 2002,27
+item,i_category = 'Books',3
+item,i_category = 'Children',26
+item,i_category = 'Electronics',20
+item,i_category = 'Home',10
+item,i_category = 'Jewelry',19
+item,i_category = 'Men',10
+item,i_category = 'Sports',1
+item,i_category = 'Women',11
+store,s_state = 'AK',1
+store,s_state = 'AL',2
+store,s_state = 'AR',3
+store,s_state = 'CA',3
+store,s_state = 'CT',1
+store,s_state = 'FL',2
+store,s_state = 'GA',8
+store,s_state = 'IA',7
+store,s_state = 'IL',3
+store,s_state = 'IN',3
+store,s_state = 'KY',3
+store,s_state = 'LA',2
+store,s_state = 'MD',1
+store,s_state = 'ME',1
+store,s_state = 'MI',1
+store,s_state = 'MN',3
+store,s_state = 'MO',3
+store,s_state = 'MS',5
+store,s_state = 'NC',3
+store,s_state = 'ND',1
+store,s_state = 'NE',1
+store,s_state = 'NH',1
+store,s_state = 'NJ',2
+store,s_state = 'NM',1
+store,s_state = 'NY',2
+store,s_state = 'OH',6
+store,s_state = 'OK',1
+store,s_state = 'OR',2
+store,s_state = 'PA',3
+store,s_state = 'SC',6
+store,s_state = 'SD',2
+store,s_state = 'TN',2
+store,s_state = 'TX',7
+store,s_state = 'UT',1
+store,s_state = 'VA',2
+store,s_state = 'WA',2
+store,s_state = 'WI',1
+store,s_state = 'WV',1
+store,s_state = 'WY',1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

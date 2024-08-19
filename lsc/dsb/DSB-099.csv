@@ -1,0 +1,129 @@
+Table,Condition,Frequency
+call_center,cc_class = 'medium',47
+call_center,cc_class = 'small',53
+catalog_sales,cs_list_price between 10 and 39,1
+catalog_sales,cs_list_price between 105 and 134,1
+catalog_sales,cs_list_price between 107 and 136,2
+catalog_sales,cs_list_price between 110 and 139,1
+catalog_sales,cs_list_price between 111 and 140,1
+catalog_sales,cs_list_price between 114 and 143,2
+catalog_sales,cs_list_price between 116 and 145,2
+catalog_sales,cs_list_price between 121 and 150,1
+catalog_sales,cs_list_price between 123 and 152,1
+catalog_sales,cs_list_price between 125 and 154,2
+catalog_sales,cs_list_price between 128 and 157,1
+catalog_sales,cs_list_price between 136 and 165,1
+catalog_sales,cs_list_price between 141 and 170,1
+catalog_sales,cs_list_price between 150 and 179,2
+catalog_sales,cs_list_price between 152 and 181,1
+catalog_sales,cs_list_price between 158 and 187,1
+catalog_sales,cs_list_price between 160 and 189,1
+catalog_sales,cs_list_price between 161 and 190,2
+catalog_sales,cs_list_price between 162 and 191,1
+catalog_sales,cs_list_price between 164 and 193,1
+catalog_sales,cs_list_price between 166 and 195,2
+catalog_sales,cs_list_price between 168 and 197,1
+catalog_sales,cs_list_price between 169 and 198,1
+catalog_sales,cs_list_price between 17 and 46,1
+catalog_sales,cs_list_price between 174 and 203,1
+catalog_sales,cs_list_price between 177 and 206,1
+catalog_sales,cs_list_price between 183 and 212,2
+catalog_sales,cs_list_price between 186 and 215,1
+catalog_sales,cs_list_price between 189 and 218,1
+catalog_sales,cs_list_price between 19 and 48,1
+catalog_sales,cs_list_price between 191 and 220,1
+catalog_sales,cs_list_price between 195 and 224,1
+catalog_sales,cs_list_price between 198 and 227,1
+catalog_sales,cs_list_price between 204 and 233,1
+catalog_sales,cs_list_price between 206 and 235,1
+catalog_sales,cs_list_price between 209 and 238,1
+catalog_sales,cs_list_price between 218 and 247,1
+catalog_sales,cs_list_price between 22 and 51,1
+catalog_sales,cs_list_price between 223 and 252,1
+catalog_sales,cs_list_price between 228 and 257,1
+catalog_sales,cs_list_price between 234 and 263,1
+catalog_sales,cs_list_price between 240 and 269,1
+catalog_sales,cs_list_price between 241 and 270,1
+catalog_sales,cs_list_price between 243 and 272,1
+catalog_sales,cs_list_price between 252 and 281,1
+catalog_sales,cs_list_price between 254 and 283,1
+catalog_sales,cs_list_price between 260 and 289,1
+catalog_sales,cs_list_price between 266 and 295,1
+catalog_sales,cs_list_price between 269 and 298,1
+catalog_sales,cs_list_price between 27 and 56,2
+catalog_sales,cs_list_price between 271 and 300,13
+catalog_sales,cs_list_price between 300 and 329,1
+catalog_sales,cs_list_price between 31 and 60,1
+catalog_sales,cs_list_price between 32 and 61,1
+catalog_sales,cs_list_price between 33 and 62,2
+catalog_sales,cs_list_price between 37 and 66,1
+catalog_sales,cs_list_price between 42 and 71,1
+catalog_sales,cs_list_price between 43 and 72,1
+catalog_sales,cs_list_price between 45 and 74,2
+catalog_sales,cs_list_price between 48 and 77,1
+catalog_sales,cs_list_price between 5 and 34,1
+catalog_sales,cs_list_price between 53 and 82,2
+catalog_sales,cs_list_price between 58 and 87,1
+catalog_sales,cs_list_price between 62 and 91,2
+catalog_sales,cs_list_price between 67 and 96,1
+catalog_sales,cs_list_price between 68 and 97,2
+catalog_sales,cs_list_price between 71 and 100,2
+catalog_sales,cs_list_price between 73 and 102,1
+catalog_sales,cs_list_price between 8 and 37,1
+catalog_sales,cs_list_price between 91 and 120,2
+catalog_sales,cs_list_price between 95 and 124,1
+catalog_sales,cs_list_price between 99 and 128,1
+date_dim,d_month_seq between 1176 and 1176 + 23,3
+date_dim,d_month_seq between 1177 and 1177 + 23,4
+date_dim,d_month_seq between 1178 and 1178 + 23,2
+date_dim,d_month_seq between 1179 and 1179 + 23,3
+date_dim,d_month_seq between 1180 and 1180 + 23,2
+date_dim,d_month_seq between 1181 and 1181 + 23,2
+date_dim,d_month_seq between 1182 and 1182 + 23,4
+date_dim,d_month_seq between 1183 and 1183 + 23,2
+date_dim,d_month_seq between 1184 and 1184 + 23,4
+date_dim,d_month_seq between 1185 and 1185 + 23,5
+date_dim,d_month_seq between 1186 and 1186 + 23,2
+date_dim,d_month_seq between 1187 and 1187 + 23,2
+date_dim,d_month_seq between 1189 and 1189 + 23,4
+date_dim,d_month_seq between 1190 and 1190 + 23,3
+date_dim,d_month_seq between 1191 and 1191 + 23,6
+date_dim,d_month_seq between 1192 and 1192 + 23,2
+date_dim,d_month_seq between 1193 and 1193 + 23,6
+date_dim,d_month_seq between 1194 and 1194 + 23,3
+date_dim,d_month_seq between 1195 and 1195 + 23,3
+date_dim,d_month_seq between 1196 and 1196 + 23,5
+date_dim,d_month_seq between 1197 and 1197 + 23,2
+date_dim,d_month_seq between 1198 and 1198 + 23,2
+date_dim,d_month_seq between 1199 and 1199 + 23,3
+date_dim,d_month_seq between 1200 and 1200 + 23,3
+date_dim,d_month_seq between 1201 and 1201 + 23,1
+date_dim,d_month_seq between 1202 and 1202 + 23,2
+date_dim,d_month_seq between 1205 and 1205 + 23,3
+date_dim,d_month_seq between 1206 and 1206 + 23,6
+date_dim,d_month_seq between 1207 and 1207 + 23,2
+date_dim,d_month_seq between 1209 and 1209 + 23,2
+date_dim,d_month_seq between 1210 and 1210 + 23,3
+date_dim,d_month_seq between 1211 and 1211 + 23,2
+date_dim,d_month_seq between 1212 and 1212 + 23,2
+ship_mode,sm_type = 'EXPRESS',2
+ship_mode,sm_type = 'LIBRARY',28
+ship_mode,sm_type = 'NEXT DAY',25
+ship_mode,sm_type = 'OVERNIGHT',6
+ship_mode,sm_type = 'TWO DAY',39
+warehouse,w_gmt_offset = -5,100
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

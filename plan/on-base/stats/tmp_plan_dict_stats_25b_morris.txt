@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nSeqScan(c)\nIndexOnlyScan(b)\nSeqScan(ph)\nSeqScan(u)\nHashJoin ( ph u )\nHashJoin ( b ph u )\nHashJoin ( c b ph u )\nLeading ( ( c ( b ( ph u ) ) ) ) */",
+    "/*+\nSeqScan(ph)\nIndexOnlyScan(b)\nSeqScan(c)\nSeqScan(u)\nHashJoin ( c u )\nHashJoin ( b c u )\nHashJoin ( ph b c u )\nLeading ( ( ph ( b ( c u ) ) ) ) */",
+    "/*+\nSeqScan(ph)\nIndexOnlyScan(b)\nSeqScan(c)\nSeqScan(u)\nNestLoop ( ph b )\nHashJoin ( c u )\nHashJoin ( ph b c u )\nLeading ( ( ( ph b ) ( c u ) ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(ph)\nSeqScan(u)\nIndexOnlyScan(b)\nHashJoin ( ph u )\nNestLoop ( ph u b )\nHashJoin ( c ph u b )\nLeading ( ( c ( ( ph u ) b ) ) ) */",
+    "/*+\nSeqScan(c)\nIndexOnlyScan(b)\nSeqScan(ph)\nSeqScan(u)\nNestLoop ( c b )\nHashJoin ( ph u )\nHashJoin ( c b ph u )\nLeading ( ( ( c b ) ( ph u ) ) ) */"
+  ]
+}

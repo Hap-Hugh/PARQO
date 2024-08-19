@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nSeqScan(mc)\nSeqScan(cn)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(ci)\nIndexOnlyScan(n)\nIndexScan(an)\nHashJoin ( mc cn )\nNestLoop ( k mk )\nHashJoin ( mc cn k mk )\nNestLoop ( mc cn k mk t )\nNestLoop ( mc cn k mk t ci )\nNestLoop ( mc cn k mk t ci n )\nNestLoop ( mc cn k mk t ci n an )\nLeading ( ( ( ( ( ( ( mc cn ) ( k mk ) ) t ) ci ) n ) an ) ) */",
+    "/*+\nSeqScan(an)\nSeqScan(mc)\nSeqScan(cn)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(ci)\nIndexOnlyScan(n)\nHashJoin ( mc cn )\nNestLoop ( k mk )\nHashJoin ( mc cn k mk )\nNestLoop ( mc cn k mk t )\nNestLoop ( mc cn k mk t ci )\nNestLoop ( mc cn k mk t ci n )\nHashJoin ( an mc cn k mk t ci n )\nLeading ( ( an ( ( ( ( ( mc cn ) ( k mk ) ) t ) ci ) n ) ) ) */",
+    "/*+\nSeqScan(mc)\nSeqScan(cn)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexOnlyScan(n)\nIndexScan(an)\nIndexScan(t)\nHashJoin ( mc cn )\nNestLoop ( k mk )\nHashJoin ( mc cn k mk )\nNestLoop ( mc cn k mk ci )\nNestLoop ( mc cn k mk ci n )\nNestLoop ( mc cn k mk ci n an )\nNestLoop ( mc cn k mk ci n an t )\nLeading ( ( ( ( ( ( ( mc cn ) ( k mk ) ) ci ) n ) an ) t ) ) */",
+    "/*+\nSeqScan(an)\nSeqScan(mc)\nSeqScan(cn)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexOnlyScan(n)\nIndexScan(t)\nHashJoin ( mc cn )\nNestLoop ( k mk )\nHashJoin ( mc cn k mk )\nNestLoop ( mc cn k mk ci )\nNestLoop ( mc cn k mk ci n )\nNestLoop ( mc cn k mk ci n t )\nHashJoin ( an mc cn k mk ci n t )\nLeading ( ( an ( ( ( ( ( mc cn ) ( k mk ) ) ci ) n ) t ) ) ) */",
+    "/*+\nSeqScan(an)\nSeqScan(mc)\nSeqScan(cn)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexOnlyScan(n)\nIndexScan(t)\nHashJoin ( mc cn )\nNestLoop ( k mk )\nHashJoin ( mc cn k mk )\nNestLoop ( mc cn k mk ci )\nNestLoop ( mc cn k mk ci n )\nHashJoin ( an mc cn k mk ci n )\nNestLoop ( an mc cn k mk ci n t )\nLeading ( ( ( an ( ( ( ( mc cn ) ( k mk ) ) ci ) n ) ) t ) ) */"
+  ]
+}

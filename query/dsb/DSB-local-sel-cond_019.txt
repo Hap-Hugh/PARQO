@@ -1,0 +1,500 @@
+c_birth_month = 1
+c_birth_month = 1
+c_birth_month = 1
+c_birth_month = 1
+c_birth_month = 1
+c_birth_month = 1
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 10
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 11
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 12
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 2
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 3
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 4
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 5
+c_birth_month = 6
+c_birth_month = 6
+c_birth_month = 6
+c_birth_month = 6
+c_birth_month = 6
+c_birth_month = 6
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 7
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 8
+c_birth_month = 9
+c_birth_month = 9
+c_birth_month = 9
+c_birth_month = 9
+c_birth_month = 9
+ca_state  = 'AL'
+ca_state  = 'AL'
+ca_state  = 'AR'
+ca_state  = 'CA'
+ca_state  = 'CO'
+ca_state  = 'FL'
+ca_state  = 'FL'
+ca_state  = 'GA'
+ca_state  = 'GA'
+ca_state  = 'GA'
+ca_state  = 'GA'
+ca_state  = 'GA'
+ca_state  = 'GA'
+ca_state  = 'ID'
+ca_state  = 'IL'
+ca_state  = 'IL'
+ca_state  = 'IL'
+ca_state  = 'IN'
+ca_state  = 'KS'
+ca_state  = 'KS'
+ca_state  = 'KS'
+ca_state  = 'KS'
+ca_state  = 'KY'
+ca_state  = 'KY'
+ca_state  = 'LA'
+ca_state  = 'MA'
+ca_state  = 'MD'
+ca_state  = 'MD'
+ca_state  = 'ME'
+ca_state  = 'ME'
+ca_state  = 'ME'
+ca_state  = 'MI'
+ca_state  = 'MI'
+ca_state  = 'MN'
+ca_state  = 'MN'
+ca_state  = 'MN'
+ca_state  = 'MN'
+ca_state  = 'MN'
+ca_state  = 'MO'
+ca_state  = 'MO'
+ca_state  = 'MS'
+ca_state  = 'MS'
+ca_state  = 'MS'
+ca_state  = 'MS'
+ca_state  = 'MS'
+ca_state  = 'MT'
+ca_state  = 'NC'
+ca_state  = 'NC'
+ca_state  = 'NC'
+ca_state  = 'ND'
+ca_state  = 'ND'
+ca_state  = 'NE'
+ca_state  = 'NE'
+ca_state  = 'NE'
+ca_state  = 'NM'
+ca_state  = 'NV'
+ca_state  = 'NV'
+ca_state  = 'NV'
+ca_state  = 'OH'
+ca_state  = 'OK'
+ca_state  = 'OK'
+ca_state  = 'OK'
+ca_state  = 'OR'
+ca_state  = 'PA'
+ca_state  = 'PA'
+ca_state  = 'SC'
+ca_state  = 'SC'
+ca_state  = 'SC'
+ca_state  = 'SC'
+ca_state  = 'SC'
+ca_state  = 'SD'
+ca_state  = 'SD'
+ca_state  = 'TN'
+ca_state  = 'TN'
+ca_state  = 'TN'
+ca_state  = 'TN'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'TX'
+ca_state  = 'UT'
+ca_state  = 'VA'
+ca_state  = 'VA'
+ca_state  = 'VA'
+ca_state  = 'VT'
+ca_state  = 'WI'
+ca_state  = 'WV'
+ca_state  = 'WV'
+ca_state  = 'WY'
+ca_state  = 'WY'
+d_year=1998 and d_moy = 10
+d_year=1998 and d_moy = 10
+d_year=1998 and d_moy = 10
+d_year=1998 and d_moy = 10
+d_year=1998 and d_moy = 12
+d_year=1998 and d_moy = 12
+d_year=1998 and d_moy = 2
+d_year=1998 and d_moy = 2
+d_year=1998 and d_moy = 2
+d_year=1998 and d_moy = 2
+d_year=1998 and d_moy = 3
+d_year=1998 and d_moy = 3
+d_year=1998 and d_moy = 5
+d_year=1998 and d_moy = 5
+d_year=1998 and d_moy = 6
+d_year=1998 and d_moy = 6
+d_year=1998 and d_moy = 6
+d_year=1998 and d_moy = 7
+d_year=1998 and d_moy = 7
+d_year=1998 and d_moy = 7
+d_year=1998 and d_moy = 8
+d_year=1998 and d_moy = 8
+d_year=1998 and d_moy = 9
+d_year=1998 and d_moy = 9
+d_year=1999 and d_moy = 10
+d_year=1999 and d_moy = 11
+d_year=1999 and d_moy = 2
+d_year=1999 and d_moy = 3
+d_year=1999 and d_moy = 3
+d_year=1999 and d_moy = 4
+d_year=1999 and d_moy = 4
+d_year=1999 and d_moy = 5
+d_year=1999 and d_moy = 5
+d_year=1999 and d_moy = 6
+d_year=1999 and d_moy = 7
+d_year=1999 and d_moy = 7
+d_year=1999 and d_moy = 7
+d_year=1999 and d_moy = 8
+d_year=1999 and d_moy = 8
+d_year=2000 and d_moy = 1
+d_year=2000 and d_moy = 1
+d_year=2000 and d_moy = 10
+d_year=2000 and d_moy = 11
+d_year=2000 and d_moy = 11
+d_year=2000 and d_moy = 12
+d_year=2000 and d_moy = 12
+d_year=2000 and d_moy = 3
+d_year=2000 and d_moy = 3
+d_year=2000 and d_moy = 4
+d_year=2000 and d_moy = 4
+d_year=2000 and d_moy = 4
+d_year=2000 and d_moy = 5
+d_year=2000 and d_moy = 6
+d_year=2000 and d_moy = 8
+d_year=2000 and d_moy = 8
+d_year=2000 and d_moy = 9
+d_year=2000 and d_moy = 9
+d_year=2000 and d_moy = 9
+d_year=2001 and d_moy = 1
+d_year=2001 and d_moy = 10
+d_year=2001 and d_moy = 11
+d_year=2001 and d_moy = 11
+d_year=2001 and d_moy = 12
+d_year=2001 and d_moy = 3
+d_year=2001 and d_moy = 4
+d_year=2001 and d_moy = 5
+d_year=2001 and d_moy = 5
+d_year=2001 and d_moy = 5
+d_year=2001 and d_moy = 8
+d_year=2001 and d_moy = 8
+d_year=2001 and d_moy = 9
+d_year=2001 and d_moy = 9
+d_year=2001 and d_moy = 9
+d_year=2002 and d_moy = 1
+d_year=2002 and d_moy = 1
+d_year=2002 and d_moy = 1
+d_year=2002 and d_moy = 10
+d_year=2002 and d_moy = 10
+d_year=2002 and d_moy = 10
+d_year=2002 and d_moy = 11
+d_year=2002 and d_moy = 11
+d_year=2002 and d_moy = 11
+d_year=2002 and d_moy = 12
+d_year=2002 and d_moy = 12
+d_year=2002 and d_moy = 12
+d_year=2002 and d_moy = 2
+d_year=2002 and d_moy = 2
+d_year=2002 and d_moy = 2
+d_year=2002 and d_moy = 3
+d_year=2002 and d_moy = 5
+d_year=2002 and d_moy = 5
+d_year=2002 and d_moy = 6
+d_year=2002 and d_moy = 6
+d_year=2002 and d_moy = 6
+d_year=2002 and d_moy = 6
+d_year=2002 and d_moy = 8
+d_year=2002 and d_moy = 8
+d_year=2002 and d_moy = 9
+d_year=2002 and d_moy = 9
+d_year=2002 and d_moy = 9
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Books'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Children'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Electronics'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Home'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Jewelry'
+i_category  = 'Men'
+i_category  = 'Men'
+i_category  = 'Men'
+i_category  = 'Men'
+i_category  = 'Men'
+i_category  = 'Shoes'
+i_category  = 'Shoes'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+i_category  = 'Women'
+ss_wholesale_cost BETWEEN 1 AND 21
+ss_wholesale_cost BETWEEN 10 AND 30
+ss_wholesale_cost BETWEEN 10 AND 30
+ss_wholesale_cost BETWEEN 11 AND 31
+ss_wholesale_cost BETWEEN 11 AND 31
+ss_wholesale_cost BETWEEN 12 AND 32
+ss_wholesale_cost BETWEEN 13 AND 33
+ss_wholesale_cost BETWEEN 13 AND 33
+ss_wholesale_cost BETWEEN 13 AND 33
+ss_wholesale_cost BETWEEN 15 AND 35
+ss_wholesale_cost BETWEEN 16 AND 36
+ss_wholesale_cost BETWEEN 17 AND 37
+ss_wholesale_cost BETWEEN 17 AND 37
+ss_wholesale_cost BETWEEN 19 AND 39
+ss_wholesale_cost BETWEEN 2 AND 22
+ss_wholesale_cost BETWEEN 2 AND 22
+ss_wholesale_cost BETWEEN 20 AND 40
+ss_wholesale_cost BETWEEN 20 AND 40
+ss_wholesale_cost BETWEEN 22 AND 42
+ss_wholesale_cost BETWEEN 22 AND 42
+ss_wholesale_cost BETWEEN 23 AND 43
+ss_wholesale_cost BETWEEN 23 AND 43
+ss_wholesale_cost BETWEEN 24 AND 44
+ss_wholesale_cost BETWEEN 24 AND 44
+ss_wholesale_cost BETWEEN 28 AND 48
+ss_wholesale_cost BETWEEN 29 AND 49
+ss_wholesale_cost BETWEEN 3 AND 23
+ss_wholesale_cost BETWEEN 33 AND 53
+ss_wholesale_cost BETWEEN 34 AND 54
+ss_wholesale_cost BETWEEN 35 AND 55
+ss_wholesale_cost BETWEEN 36 AND 56
+ss_wholesale_cost BETWEEN 39 AND 59
+ss_wholesale_cost BETWEEN 4 AND 24
+ss_wholesale_cost BETWEEN 4 AND 24
+ss_wholesale_cost BETWEEN 40 AND 60
+ss_wholesale_cost BETWEEN 41 AND 61
+ss_wholesale_cost BETWEEN 41 AND 61
+ss_wholesale_cost BETWEEN 42 AND 62
+ss_wholesale_cost BETWEEN 43 AND 63
+ss_wholesale_cost BETWEEN 43 AND 63
+ss_wholesale_cost BETWEEN 44 AND 64
+ss_wholesale_cost BETWEEN 44 AND 64
+ss_wholesale_cost BETWEEN 44 AND 64
+ss_wholesale_cost BETWEEN 45 AND 65
+ss_wholesale_cost BETWEEN 46 AND 66
+ss_wholesale_cost BETWEEN 49 AND 69
+ss_wholesale_cost BETWEEN 49 AND 69
+ss_wholesale_cost BETWEEN 5 AND 25
+ss_wholesale_cost BETWEEN 50 AND 70
+ss_wholesale_cost BETWEEN 50 AND 70
+ss_wholesale_cost BETWEEN 51 AND 71
+ss_wholesale_cost BETWEEN 52 AND 72
+ss_wholesale_cost BETWEEN 53 AND 73
+ss_wholesale_cost BETWEEN 53 AND 73
+ss_wholesale_cost BETWEEN 54 AND 74
+ss_wholesale_cost BETWEEN 55 AND 75
+ss_wholesale_cost BETWEEN 56 AND 76
+ss_wholesale_cost BETWEEN 57 AND 77
+ss_wholesale_cost BETWEEN 58 AND 78
+ss_wholesale_cost BETWEEN 59 AND 79
+ss_wholesale_cost BETWEEN 61 AND 81
+ss_wholesale_cost BETWEEN 62 AND 82
+ss_wholesale_cost BETWEEN 63 AND 83
+ss_wholesale_cost BETWEEN 63 AND 83
+ss_wholesale_cost BETWEEN 63 AND 83
+ss_wholesale_cost BETWEEN 64 AND 84
+ss_wholesale_cost BETWEEN 65 AND 85
+ss_wholesale_cost BETWEEN 68 AND 88
+ss_wholesale_cost BETWEEN 7 AND 27
+ss_wholesale_cost BETWEEN 70 AND 90
+ss_wholesale_cost BETWEEN 71 AND 91
+ss_wholesale_cost BETWEEN 71 AND 91
+ss_wholesale_cost BETWEEN 75 AND 95
+ss_wholesale_cost BETWEEN 76 AND 96
+ss_wholesale_cost BETWEEN 76 AND 96
+ss_wholesale_cost BETWEEN 77 AND 97
+ss_wholesale_cost BETWEEN 77 AND 97
+ss_wholesale_cost BETWEEN 77 AND 97
+ss_wholesale_cost BETWEEN 77 AND 97
+ss_wholesale_cost BETWEEN 79 AND 99
+ss_wholesale_cost BETWEEN 8 AND 28
+ss_wholesale_cost BETWEEN 8 AND 28
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 80 AND 100
+ss_wholesale_cost BETWEEN 9 AND 29

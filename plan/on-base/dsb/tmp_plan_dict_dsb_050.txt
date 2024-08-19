@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nSeqScan(store_returns)\nSeqScan(d2)\nSeqScan(store)\nIndexScan(store_sales)\nIndexScan(d1)\nHashJoin ( store_returns d2 )\nHashJoin ( store_returns d2 store )\nNestLoop ( store_returns d2 store store_sales )\nNestLoop ( store_returns d2 store store_sales d1 )\nLeading ( ( ( ( ( store_returns d2 ) store ) store_sales ) d1 ) ) */",
+    "/*+\nSeqScan(store_returns)\nSeqScan(store)\nIndexScan(store_sales)\nIndexScan(d1)\nIndexScan(d2)\nHashJoin ( store_returns store )\nNestLoop ( store_returns store store_sales )\nNestLoop ( store_returns store store_sales d1 )\nNestLoop ( store_returns store store_sales d1 d2 )\nLeading ( ( ( ( ( store_returns store ) store_sales ) d1 ) d2 ) ) */",
+    "/*+\nSeqScan(store_returns)\nSeqScan(store)\nSeqScan(d2)\nIndexScan(store_sales)\nIndexScan(d1)\nHashJoin ( store_returns store )\nHashJoin ( store_returns store d2 )\nNestLoop ( store_returns store d2 store_sales )\nNestLoop ( store_returns store d2 store_sales d1 )\nLeading ( ( ( ( ( store_returns store ) d2 ) store_sales ) d1 ) ) */",
+    "/*+\nSeqScan(store_returns)\nSeqScan(store)\nIndexScan(d2)\nIndexScan(store_sales)\nIndexScan(d1)\nHashJoin ( store_returns store )\nNestLoop ( store_returns store d2 )\nNestLoop ( store_returns store d2 store_sales )\nNestLoop ( store_returns store d2 store_sales d1 )\nLeading ( ( ( ( ( store_returns store ) d2 ) store_sales ) d1 ) ) */",
+    "/*+\nSeqScan(store_returns)\nSeqScan(d2)\nSeqScan(store)\nIndexScan(store_sales)\nIndexScan(d1)\nHashJoin ( store_returns d2 )\nMergeJoin ( store_returns d2 store )\nNestLoop ( store_returns d2 store store_sales )\nNestLoop ( store_returns d2 store store_sales d1 )\nLeading ( ( ( ( ( store_returns d2 ) store ) store_sales ) d1 ) ) */"
+  ]
+}

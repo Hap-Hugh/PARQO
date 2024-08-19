@@ -1,0 +1,54 @@
+ca_gmt_offset = -6
+ca_gmt_offset = -7
+d_year = 1998 and d_moy = 1
+d_year = 1998 and d_moy = 10
+d_year = 1998 and d_moy = 11
+d_year = 1998 and d_moy = 12
+d_year = 1998 and d_moy = 2
+d_year = 1998 and d_moy = 3
+d_year = 1998 and d_moy = 4
+d_year = 1998 and d_moy = 5
+d_year = 1998 and d_moy = 6
+d_year = 1998 and d_moy = 8
+d_year = 1998 and d_moy = 9
+d_year = 1999 and d_moy = 1
+d_year = 1999 and d_moy = 10
+d_year = 1999 and d_moy = 11
+d_year = 1999 and d_moy = 12
+d_year = 1999 and d_moy = 2
+d_year = 1999 and d_moy = 3
+d_year = 1999 and d_moy = 4
+d_year = 1999 and d_moy = 5
+d_year = 1999 and d_moy = 6
+d_year = 1999 and d_moy = 7
+d_year = 1999 and d_moy = 8
+d_year = 1999 and d_moy = 9
+d_year = 2000 and d_moy = 1
+d_year = 2000 and d_moy = 10
+d_year = 2000 and d_moy = 11
+d_year = 2000 and d_moy = 12
+d_year = 2000 and d_moy = 4
+d_year = 2000 and d_moy = 5
+d_year = 2000 and d_moy = 6
+d_year = 2000 and d_moy = 8
+d_year = 2000 and d_moy = 9
+d_year = 2001 and d_moy = 1
+d_year = 2001 and d_moy = 4
+d_year = 2001 and d_moy = 5
+d_year = 2001 and d_moy = 8
+d_year = 2001 and d_moy = 9
+d_year = 2002 and d_moy = 10
+d_year = 2002 and d_moy = 11
+d_year = 2002 and d_moy = 12
+d_year = 2002 and d_moy = 2
+d_year = 2002 and d_moy = 4
+d_year = 2002 and d_moy = 6
+d_year = 2002 and d_moy = 7
+d_year = 2002 and d_moy = 8
+d_year = 2002 and d_moy = 9
+hd_buy_potential like '0-500%'
+hd_buy_potential like '1001-5000%'
+hd_buy_potential like '5001-10000%'
+hd_buy_potential like '501-1000%'
+hd_buy_potential like '>10000%'
+hd_buy_potential like 'Unknown%'

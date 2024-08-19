@@ -1,0 +1,555 @@
+( (cd_marital_status = 'M' and cd_education_status = 'Unknown') or (cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'))
+c_birth_month = 1
+c_birth_month = 12
+c_birth_month = 2
+c_birth_month = 3
+c_birth_month = 4
+c_birth_month = 6
+c_birth_month = 7
+c_birth_month = 9
+ca_city = 'Bethel'
+ca_city = 'Buena Vista'
+ca_city = 'Clifton'
+ca_city = 'Glenwood'
+ca_city = 'Jamestown'
+ca_city = 'Lakeside'
+ca_city = 'Liberty'
+ca_city = 'Maple Grove'
+ca_city = 'Oak Grove'
+ca_city = 'Oak Ridge'
+ca_city = 'Pleasant Hill'
+ca_city = 'Riverside'
+ca_city = 'Shady Grove'
+ca_city = 'Spring Hill'
+ca_city = 'Springdale'
+ca_city = 'Walnut Grove'
+ca_city = 'Wildwood'
+ca_city = 'Woodlawn'
+ca_country = 'United States'  and ca_state in ('AK', 'AR', 'TX')
+ca_country = 'United States'  and ca_state in ('AK', 'NC', 'OR')
+ca_country = 'United States'  and ca_state in ('AK', 'OH', 'TX')
+ca_country = 'United States'  and ca_state in ('AL', 'AR', 'VA')
+ca_country = 'United States'  and ca_state in ('AL', 'CA', 'TN')
+ca_country = 'United States'  and ca_state in ('AL', 'GA', 'VA')
+ca_country = 'United States'  and ca_state in ('AL', 'IL', 'TX')
+ca_country = 'United States'  and ca_state in ('AL', 'KY', 'NC')
+ca_country = 'United States'  and ca_state in ('AL', 'NC', 'OH')
+ca_country = 'United States'  and ca_state in ('AR', 'CA', 'ND')
+ca_country = 'United States'  and ca_state in ('AR', 'FL', 'GA')
+ca_country = 'United States'  and ca_state in ('AR', 'MT', 'NY')
+ca_country = 'United States'  and ca_state in ('AR', 'SD', 'TN')
+ca_country = 'United States'  and ca_state in ('CA', 'IA', 'NM')
+ca_country = 'United States'  and ca_state in ('CA', 'MS', 'NC')
+ca_country = 'United States'  and ca_state in ('CA', 'TX', 'WA')
+ca_country = 'United States'  and ca_state in ('CO', 'FL', 'MI')
+ca_country = 'United States'  and ca_state in ('DE', 'MI', 'WI')
+ca_country = 'United States'  and ca_state in ('FL', 'KS', 'TX')
+ca_country = 'United States'  and ca_state in ('FL', 'OH', 'PA')
+ca_country = 'United States'  and ca_state in ('GA', 'IA', 'WA')
+ca_country = 'United States'  and ca_state in ('GA', 'IN', 'PA')
+ca_country = 'United States'  and ca_state in ('GA', 'MO', 'PA')
+ca_country = 'United States'  and ca_state in ('GA', 'MT', 'SC')
+ca_country = 'United States'  and ca_state in ('GA', 'ND', 'OR')
+ca_country = 'United States'  and ca_state in ('GA', 'NE', 'WV')
+ca_country = 'United States'  and ca_state in ('GA', 'NM', 'TX')
+ca_country = 'United States'  and ca_state in ('GA', 'PA', 'VA')
+ca_country = 'United States'  and ca_state in ('GA', 'UT', 'VA')
+ca_country = 'United States'  and ca_state in ('IA', 'ID', 'NE')
+ca_country = 'United States'  and ca_state in ('IA', 'MO', 'NC')
+ca_country = 'United States'  and ca_state in ('IA', 'NY', 'TN')
+ca_country = 'United States'  and ca_state in ('ID', 'MO', 'SD')
+ca_country = 'United States'  and ca_state in ('IL', 'KS', 'TX')
+ca_country = 'United States'  and ca_state in ('IL', 'MO', 'VA')
+ca_country = 'United States'  and ca_state in ('IN', 'KS', 'MO')
+ca_country = 'United States'  and ca_state in ('IN', 'KY', 'NE')
+ca_country = 'United States'  and ca_state in ('IN', 'ND', 'VT')
+ca_country = 'United States'  and ca_state in ('KY', 'MI', 'TN')
+ca_country = 'United States'  and ca_state in ('KY', 'MS', 'SD')
+ca_country = 'United States'  and ca_state in ('KY', 'NY', 'TX')
+ca_country = 'United States'  and ca_state in ('LA', 'NY', 'PA')
+ca_country = 'United States'  and ca_state in ('MD', 'NM', 'PA')
+ca_country = 'United States'  and ca_state in ('MD', 'TN', 'VA')
+ca_country = 'United States'  and ca_state in ('MI', 'MO', 'WA')
+ca_country = 'United States'  and ca_state in ('MN', 'MT', 'WI')
+ca_country = 'United States'  and ca_state in ('MO', 'MS', 'SC')
+ca_country = 'United States'  and ca_state in ('MO', 'TN', 'TX')
+ca_country = 'United States'  and ca_state in ('MO', 'TX', 'WA')
+ca_country = 'United States'  and ca_state in ('MT', 'TX', 'VA')
+ca_country = 'United States'  and ca_state in ('NC', 'NM', 'WA')
+ca_country = 'United States'  and ca_state in ('NC', 'OK', 'SD')
+ca_country = 'United States'  and ca_state in ('NC', 'RI', 'TX')
+ca_country = 'United States'  and ca_state in ('NC', 'SC', 'SD')
+ca_country = 'United States'  and ca_state in ('NJ', 'PA', 'WI')
+ca_country = 'United States'  and ca_state in ('NY', 'TN', 'VA')
+ca_country = 'United States'  and ca_state in ('PA', 'TX', 'WA')
+ca_country = 'United States'  and ca_state in ('PA', 'UT', 'WY')
+ca_gmt_offset = -6
+ca_gmt_offset = -7
+ca_state = 'FL'
+ca_state = 'GA'
+ca_state = 'IA'
+ca_state = 'IN'
+ca_state = 'MO'
+ca_state = 'MS'
+ca_state = 'MT'
+ca_state = 'NC'
+ca_state = 'NE'
+ca_state = 'OR'
+ca_state = 'SD'
+ca_state = 'TX'
+ca_state = 'WA'
+ca_state = 'WV'
+ca_state in ('AK', 'IL', 'KY', 'ND', 'WY')
+ca_state in ('AL', 'DE', 'VA')
+ca_state in ('AL', 'FL', 'GA', 'WI', 'WV')
+ca_state in ('AL', 'GA', 'IN', 'NC', 'OK')
+ca_state in ('AL', 'IA', 'KS', 'NY', 'TX')
+ca_state in ('AL', 'MI', 'MO')
+ca_state in ('AL', 'TX', 'WI')
+ca_state in ('AR', 'CA', 'IA', 'NE', 'TX')
+ca_state in ('AR', 'GA', 'IA', 'MN', 'TX')
+ca_state in ('AR', 'IA', 'KS', 'KY', 'WV')
+ca_state in ('AR', 'IN', 'MO', 'NE', 'TN')
+ca_state in ('AR', 'NY', 'TN', 'TX', 'VA')
+ca_state in ('AR', 'NY', 'TX')
+ca_state in ('CA', 'IA', 'TN')
+ca_state in ('CA', 'ID', 'KS', 'MA', 'OK')
+ca_state in ('CO', 'IA', 'KY', 'MN', 'TN')
+ca_state in ('CO', 'NC', 'NE', 'OK', 'VA')
+ca_state in ('DE', 'GA', 'KS', 'MI', 'TX')
+ca_state in ('FL', 'GA', 'VA')
+ca_state in ('GA', 'IN', 'MO')
+ca_state in ('GA', 'KY', 'MS')
+ca_state in ('GA', 'MI', 'MS', 'OR', 'TN')
+ca_state in ('GA', 'MN', 'MO')
+ca_state in ('GA', 'OR', 'VA')
+ca_state in ('HI', 'NE', 'NM', 'OH', 'TX')
+ca_state in ('IA', 'ID', 'MN', 'NH', 'TX')
+ca_state in ('IA', 'IN', 'MO', 'PA', 'TN')
+ca_state in ('IA', 'KY', 'VA')
+ca_state in ('IA', 'NC', 'VT')
+ca_state in ('IA', 'NV', 'WA')
+ca_state in ('IA', 'OK', 'SC')
+ca_state in ('IA', 'SD', 'UT')
+ca_state in ('IL', 'LA', 'MA', 'NE', 'OR')
+ca_state in ('IN', 'MI', 'OK')
+ca_state in ('KY', 'PA', 'TX', 'VA', 'WV')
+ca_state in ('MI', 'MS', 'VA')
+ca_state in ('MS', 'TN', 'TX')
+ca_state in ('NC', 'TN', 'TX')
+ca_state in ('NM', 'NY', 'OH', 'TX', 'WA')
+ca_state in ('NV', 'OR', 'WI')
+cc_class = 'large'
+cc_class = 'small'
+cd_gender = 'F' and cd_education_status = '2 yr Degree'
+cd_gender = 'F' and cd_education_status = '4 yr Degree'
+cd_gender = 'F' and cd_education_status = 'Advanced Degree'
+cd_gender = 'F' and cd_education_status = 'College'
+cd_gender = 'F' and cd_education_status = 'Primary'
+cd_gender = 'F' and cd_education_status = 'Unknown'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = '2 yr Degree'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = 'College'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_gender = 'F' and cd_marital_status = 'M' and cd_education_status = 'Unknown'
+cd_gender = 'F' and cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_gender = 'F' and cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_gender = 'F' and cd_marital_status = 'S' and cd_education_status = 'Unknown'
+cd_gender = 'F' and cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 0 AND 2
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 1 AND 3
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 5 AND 7
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 6 AND 8
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 7 AND 9
+cd_marital_status = 'M' AND cd_dep_count BETWEEN 9 AND 11
+cd_marital_status = 'M' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'College'
+cd_marital_status = 'M' and cd_education_status = 'Primary'
+cd_marital_status = 'M' and cd_education_status = 'Unknown'
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 0 AND 2
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 2 AND 4
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 3 AND 5
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 4 AND 6
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 6 AND 8
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 7 AND 9
+cd_marital_status = 'S' AND cd_dep_count BETWEEN 9 AND 11
+cd_marital_status = 'S' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'Primary'
+cd_marital_status = 'S' and cd_education_status = 'Unknown'
+cd_marital_status = 'W' AND cd_dep_count BETWEEN 6 AND 8
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+cr_reason_sk = 1
+cr_reason_sk = 10
+cr_reason_sk = 16
+cr_reason_sk = 23
+cr_reason_sk = 27
+cr_reason_sk = 29
+cr_reason_sk = 31
+cr_reason_sk = 4
+cr_reason_sk = 43
+cr_reason_sk = 44
+cr_reason_sk = 45
+cr_reason_sk = 46
+cr_reason_sk = 51
+cr_reason_sk = 56
+cr_reason_sk = 6
+cr_reason_sk = 60
+cr_reason_sk = 61
+cr_reason_sk = 64
+cs_list_price between 109 and 138
+cs_list_price between 124 and 153
+cs_list_price between 126 and 155
+cs_list_price between 149 and 178
+cs_list_price between 153 and 182
+cs_list_price between 167 and 196
+cs_list_price between 168 and 197
+cs_list_price between 205 and 234
+cs_list_price between 271 and 300
+cs_list_price between 34 and 63
+cs_list_price between 40 and 69
+cs_list_price between 45 and 74
+cs_list_price between 74 and 103
+cs_wholesale_cost BETWEEN 12 AND 17
+cs_wholesale_cost BETWEEN 14 AND 33
+cs_wholesale_cost BETWEEN 15 AND 34
+cs_wholesale_cost BETWEEN 17 AND 22
+cs_wholesale_cost BETWEEN 19 AND 38
+cs_wholesale_cost BETWEEN 2 AND 21
+cs_wholesale_cost BETWEEN 21 AND 40
+cs_wholesale_cost BETWEEN 28 AND 47
+cs_wholesale_cost BETWEEN 29 AND 48
+cs_wholesale_cost BETWEEN 31 AND 36
+cs_wholesale_cost BETWEEN 35 AND 40
+cs_wholesale_cost BETWEEN 35 AND 54
+cs_wholesale_cost BETWEEN 39 AND 44
+cs_wholesale_cost BETWEEN 42 AND 47
+cs_wholesale_cost BETWEEN 46 AND 51
+cs_wholesale_cost BETWEEN 56 AND 61
+cs_wholesale_cost BETWEEN 56 AND 75
+cs_wholesale_cost BETWEEN 57 AND 62
+cs_wholesale_cost BETWEEN 57 AND 76
+cs_wholesale_cost BETWEEN 6 AND 25
+cs_wholesale_cost BETWEEN 60 AND 65
+cs_wholesale_cost BETWEEN 61 AND 66
+cs_wholesale_cost BETWEEN 62 AND 67
+cs_wholesale_cost BETWEEN 64 AND 83
+cs_wholesale_cost BETWEEN 67 AND 72
+cs_wholesale_cost BETWEEN 68 AND 73
+cs_wholesale_cost BETWEEN 70 AND 75
+cs_wholesale_cost BETWEEN 73 AND 92
+cs_wholesale_cost BETWEEN 74 AND 93
+cs_wholesale_cost BETWEEN 78 AND 83
+cs_wholesale_cost BETWEEN 78 AND 97
+cs_wholesale_cost BETWEEN 80 AND 99
+cs_wholesale_cost BETWEEN 81 AND 100
+d_date BETWEEN (CAST ('1998-03-29' AS date) - interval '30 day') AND (CAST ('1998-03-29' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('1998-06-06' AS date) - interval '30 day') AND (CAST ('1998-06-06' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('1999-03-19' AS date) - interval '30 day') AND (CAST ('1999-03-19' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2000-04-10' AS date) - interval '30 day') AND (CAST ('2000-04-10' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-02-07' AS date) - interval '30 day') AND (CAST ('2001-02-07' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-03-05' AS date) - interval '30 day') AND (CAST ('2001-03-05' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-03-23' AS date) - interval '30 day') AND (CAST ('2001-03-23' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-04-30' AS date) - interval '30 day') AND (CAST ('2001-04-30' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-05-02' AS date) - interval '30 day') AND (CAST ('2001-05-02' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-05-05' AS date) - interval '30 day') AND (CAST ('2001-05-05' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-05-19' AS date) - interval '30 day') AND (CAST ('2001-05-19' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2001-06-06' AS date) - interval '30 day') AND (CAST ('2001-06-06' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-02-03' AS date) - interval '30 day') AND (CAST ('2002-02-03' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-02-08' AS date) - interval '30 day') AND (CAST ('2002-02-08' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-03-14' AS date) - interval '30 day') AND (CAST ('2002-03-14' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-03-31' AS date) - interval '30 day') AND (CAST ('2002-03-31' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-04-21' AS date) - interval '30 day') AND (CAST ('2002-04-21' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-04-30' AS date) - interval '30 day') AND (CAST ('2002-04-30' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-06-25' AS date) - interval '30 day') AND (CAST ('2002-06-25' AS date) + interval '30 day')
+d_date BETWEEN (CAST ('2002-06-28' AS date) - interval '30 day') AND (CAST ('2002-06-28' AS date) + interval '30 day')
+d_dow = 1
+d_dow = 2
+d_dow = 3
+d_dow = 4
+d_dow = 5
+d_dow = 6
+d_dow = 7
+d_month_seq between 1177 and 1177 + 23
+d_month_seq between 1178 and 1178 + 23
+d_month_seq between 1179 and 1179 + 23
+d_month_seq between 1183 and 1183 + 23
+d_month_seq between 1184 and 1184 + 23
+d_month_seq between 1185 and 1185 + 23
+d_month_seq between 1187 and 1187 + 23
+d_month_seq between 1190 and 1190 + 23
+d_month_seq between 1191 and 1191 + 23
+d_month_seq between 1194 and 1194 + 23
+d_month_seq between 1198 and 1198 + 23
+d_month_seq between 1202 and 1202 + 23
+d_month_seq between 1204 and 1204 + 23
+d_month_seq between 1206 and 1206 + 23
+d_month_seq between 1208 and 1208 + 23
+d_moy = 1
+d_moy = 12
+d_moy = 2
+d_moy = 3
+d_moy = 4
+d_moy = 6
+d_moy = 7
+d_moy = 9
+d_year = 1998
+d_year = 1998 and d_moy = 2
+d_year = 1998 and d_moy = 4
+d_year = 1998 and d_moy BETWEEN 2 AND 2 + 2
+d_year = 1998 and d_moy BETWEEN 4 AND 4 + 2
+d_year = 1999
+d_year = 1999 and d_moy = 1
+d_year = 1999 and d_moy BETWEEN 1 AND 1 + 2
+d_year = 2000
+d_year = 2000 and d_moy = 1
+d_year = 2000 and d_moy BETWEEN 1 AND 1 + 2
+d_year = 2001
+d_year = 2001 and d_moy = 1
+d_year = 2001 and d_moy = 12
+d_year = 2001 and d_moy = 2
+d_year = 2001 and d_moy = 3
+d_year = 2001 and d_moy = 7
+d_year = 2001 and d_moy = 9
+d_year = 2001 and d_moy BETWEEN 1 AND 1 + 2
+d_year = 2001 and d_moy BETWEEN 12 AND 12 + 2
+d_year = 2001 and d_moy BETWEEN 2 AND 2 + 2
+d_year = 2001 and d_moy BETWEEN 3 AND 3 + 2
+d_year = 2001 and d_moy BETWEEN 7 AND 7 + 2
+d_year = 2001 and d_moy BETWEEN 9 AND 9 + 2
+d_year = 2002
+d_year = 2002 and d_moy = 1
+d_year = 2002 and d_moy = 12
+d_year = 2002 and d_moy = 2
+d_year = 2002 and d_moy = 4
+d_year = 2002 and d_moy = 6
+d_year = 2002 and d_moy = 7
+d_year = 2002 and d_moy BETWEEN 1 AND 1 + 2
+d_year = 2002 and d_moy BETWEEN 12 AND 12 + 2
+d_year = 2002 and d_moy BETWEEN 2 AND 2 + 2
+d_year = 2002 and d_moy BETWEEN 4 AND 4 + 2
+d_year = 2002 and d_moy BETWEEN 6 AND 6 + 2
+d_year = 2002 and d_moy BETWEEN 7 AND 7 + 2
+d_year between 1998 and 1998 + 1
+d_year between 1999 and 1999 + 1
+d_year between 2000 and 2000 + 1
+hd_buy_potential = '0-500'
+hd_buy_potential = '1001-5000'
+hd_buy_potential = '501-1000'
+hd_buy_potential = '>10000'
+hd_buy_potential = 'Unknown'
+hd_buy_potential like '0-500%'
+hd_buy_potential like '501-1000%'
+hd_buy_potential like 'Unknown%'
+hd_income_band_sk BETWEEN 1 AND 7 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 10 AND 16 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 10 AND 16 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 11 AND 17 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 11 AND 17 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 3 AND 9 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 3 AND 9 AND hd_buy_potential = 'Unknown'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = 'Unknown'
+i_category = 'Books'
+i_category = 'Books' and i_manager_id BETWEEN 20 AND 59
+i_category = 'Books' and i_manager_id BETWEEN 21 AND 60
+i_category = 'Books' and i_manager_id BETWEEN 61 AND 100
+i_category = 'Books' and i_manager_id BETWEEN 8 AND 47
+i_category = 'Children'
+i_category = 'Children' and i_manager_id BETWEEN 54 AND 93
+i_category = 'Children' and i_manager_id BETWEEN 59 AND 98
+i_category = 'Home'
+i_category = 'Home' and i_manager_id BETWEEN 61 AND 100
+i_category = 'Jewelry'
+i_category = 'Jewelry' and i_manager_id BETWEEN 45 AND 84
+i_category = 'Jewelry' and i_manager_id BETWEEN 49 AND 88
+i_category = 'Jewelry' and i_manager_id BETWEEN 61 AND 100
+i_category = 'Music'
+i_category = 'Music' and i_manager_id BETWEEN 61 AND 100
+i_category = 'Shoes'
+i_category = 'Shoes' and i_manager_id BETWEEN 21 AND 60
+i_category = 'Shoes' and i_manager_id BETWEEN 27 AND 66
+i_category = 'Shoes' and i_manager_id BETWEEN 28 AND 67
+i_category = 'Shoes' and i_manager_id BETWEEN 49 AND 88
+i_category = 'Shoes' and i_manager_id BETWEEN 61 AND 100
+i_category IN ('Books', 'Children', 'Shoes')
+i_category IN ('Books', 'Children', 'Shoes') and i_manager_id IN (19, 27, 28, 39, 56, 60, 63, 74, 95, 99)
+i_category IN ('Books', 'Home', 'Shoes')
+i_category IN ('Books', 'Home', 'Shoes') and i_manager_id IN (13, 17, 31, 36, 48, 55, 72, 76, 78, 84)
+i_category IN ('Books', 'Home', 'Shoes') and i_manager_id IN (3, 10, 11, 19, 22, 30, 37, 42, 43, 90)
+i_category IN ('Books', 'Home', 'Sports')
+i_category IN ('Books', 'Home', 'Sports') and i_manager_id IN (18, 25, 43, 46, 49, 62, 87, 89, 93, 95)
+i_category IN ('Books', 'Jewelry', 'Shoes')
+i_category IN ('Books', 'Jewelry', 'Shoes') and i_manager_id IN (11, 29, 41, 46, 47, 51, 65, 66, 92, 96)
+i_category IN ('Books', 'Jewelry', 'Shoes') and i_manager_id IN (43, 47, 61, 62, 63, 71, 84, 96, 98, 100)
+i_category IN ('Books', 'Jewelry', 'Shoes') and i_manager_id IN (6, 13, 14, 23, 40, 59, 65, 70, 78, 94)
+i_category IN ('Books', 'Jewelry', 'Sports')
+i_category IN ('Books', 'Jewelry', 'Sports') and i_manager_id IN (13, 18, 23, 37, 41, 58, 61, 69, 72, 97)
+i_category IN ('Books', 'Jewelry', 'Sports') and i_manager_id IN (29, 36, 37, 44, 46, 52, 65, 68, 87, 90)
+i_category IN ('Books', 'Music', 'Shoes')
+i_category IN ('Books', 'Music', 'Shoes') and i_manager_id IN (7, 11, 16, 29, 45, 50, 55, 70, 89, 99)
+i_category IN ('Children', 'Electronics', 'Shoes')
+i_category IN ('Children', 'Electronics', 'Shoes') and i_manager_id IN (9, 15, 33, 35, 38, 43, 60, 88, 98, 99)
+i_category IN ('Children', 'Home', 'Shoes')
+i_category IN ('Children', 'Home', 'Shoes') and i_manager_id IN (4, 8, 12, 28, 40, 49, 81, 88, 92, 98)
+i_category IN ('Children', 'Home', 'Shoes') and i_manager_id IN (5, 12, 37, 38, 46, 66, 68, 79, 84, 90)
+i_category IN ('Children', 'Music', 'Shoes')
+i_category IN ('Children', 'Music', 'Shoes') and i_manager_id IN (2, 10, 25, 47, 52, 64, 66, 74, 77, 81)
+i_category IN ('Children', 'Shoes', 'Women')
+i_category IN ('Children', 'Shoes', 'Women') and i_manager_id IN (5, 43, 47, 58, 62, 75, 85, 93, 96, 97)
+i_category IN ('Home', 'Jewelry', 'Music')
+i_category IN ('Home', 'Jewelry', 'Music') and i_manager_id IN (3, 9, 28, 42, 59, 60, 62, 73, 78, 89)
+i_category IN ('Home', 'Jewelry', 'Music') and i_manager_id IN (8, 16, 21, 52, 61, 64, 84, 94, 96, 98)
+i_category IN ('Home', 'Music', 'Shoes')
+i_category IN ('Home', 'Music', 'Shoes') and i_manager_id IN (20, 34, 37, 41, 46, 47, 62, 65, 71, 93)
+i_category IN ('Home', 'Music', 'Shoes') and i_manager_id IN (3, 8, 44, 50, 53, 67, 70, 83, 98, 100)
+i_category IN ('Music', 'Shoes', 'Sports')
+i_category IN ('Music', 'Shoes', 'Sports') and i_manager_id IN (4, 5, 30, 34, 61, 72, 82, 91, 93, 100)
+i_category in ('Books', 'Children')
+i_category in ('Books', 'Home')
+i_category in ('Books', 'Jewelry')
+i_category in ('Books', 'Music')
+i_category in ('Children', 'Electronics')
+i_category in ('Children', 'Home')
+i_category in ('Children', 'Music')
+i_category in ('Children', 'Shoes')
+i_category in ('Home', 'Jewelry')
+i_category in ('Home', 'Music')
+i_category in ('Music', 'Shoes')
+i_manager_id between 12 and 31
+i_manager_id between 14 and 33
+i_manager_id between 32 and 51
+i_manager_id between 36 and 55
+i_manager_id between 39 and 58
+i_manager_id between 43 and 62
+i_manager_id between 5 and 24
+i_manager_id between 53 and 72
+i_manager_id between 62 and 81
+i_manager_id between 63 and 82
+i_manager_id between 80 and 99
+i_manager_id between 81 and 100
+i_manager_id between 9 and 28
+ib_lower_bound >= 0 * 10000 AND ib_upper_bound <= 0 * 10000 + 50000
+ib_lower_bound >= 1 * 10000 AND ib_upper_bound <= 1 * 10000 + 50000
+ib_lower_bound >= 2 * 10000 AND ib_upper_bound <= 2 * 10000 + 50000
+ib_lower_bound >= 3 * 10000 AND ib_upper_bound <= 3 * 10000 + 50000
+ib_lower_bound >= 4 * 10000 AND ib_upper_bound <= 4 * 10000 + 50000
+ib_lower_bound >= 6 * 10000 AND ib_upper_bound <= 6 * 10000 + 50000
+ib_lower_bound >= 7 * 10000 AND ib_upper_bound <= 7 * 10000 + 50000
+s_state = 'FL'
+s_state = 'GA'
+s_state = 'IA'
+s_state = 'IN'
+s_state = 'MO'
+s_state = 'MS'
+s_state = 'MT'
+s_state = 'NC'
+s_state = 'NE'
+s_state = 'OR'
+s_state = 'SD'
+s_state = 'TX'
+s_state = 'WA'
+s_state = 'WV'
+s_state in ('AL', 'DE', 'VA')
+s_state in ('AL', 'MI', 'MO')
+s_state in ('AL', 'TX', 'WI')
+s_state in ('AR', 'NY', 'TX')
+s_state in ('CA', 'IA', 'TN')
+s_state in ('FL', 'GA', 'VA')
+s_state in ('GA', 'IN', 'MO')
+s_state in ('GA', 'KY', 'MS')
+s_state in ('GA', 'MN', 'MO')
+s_state in ('GA', 'OR', 'VA')
+s_state in ('IA', 'KY', 'VA')
+s_state in ('IA', 'NC', 'VT')
+s_state in ('IA', 'NV', 'WA')
+s_state in ('IA', 'OK', 'SC')
+s_state in ('IA', 'SD', 'UT')
+s_state in ('IN', 'MI', 'OK')
+s_state in ('MI', 'MS', 'VA')
+s_state in ('MS', 'TN', 'TX')
+s_state in ('NC', 'TN', 'TX')
+s_state in ('NV', 'OR', 'WI')
+sm_type = 'EXPRESS'
+sm_type = 'LIBRARY'
+sm_type = 'NEXT DAY'
+sm_type = 'REGULAR'
+sm_type = 'TWO DAY'
+ss_list_price between 109 and 138
+ss_list_price between 124 and 153
+ss_list_price between 126 and 155
+ss_list_price between 149 and 178
+ss_list_price between 153 and 182
+ss_list_price between 167 and 196
+ss_list_price between 168 and 197
+ss_list_price between 205 and 234
+ss_list_price between 271 and 300
+ss_list_price between 34 and 63
+ss_list_price between 40 and 69
+ss_list_price between 45 and 74
+ss_list_price between 74 and 103
+ss_sales_price / ss_list_price BETWEEN 21 * 0.01 AND 41 * 0.01
+ss_sales_price / ss_list_price BETWEEN 24 * 0.01 AND 44 * 0.01
+ss_sales_price / ss_list_price BETWEEN 39 * 0.01 AND 59 * 0.01
+ss_sales_price / ss_list_price BETWEEN 47 * 0.01 AND 67 * 0.01
+ss_sales_price / ss_list_price BETWEEN 5 * 0.01 AND 25 * 0.01
+ss_sales_price / ss_list_price BETWEEN 52 * 0.01 AND 72 * 0.01
+ss_sales_price / ss_list_price BETWEEN 53 * 0.01 AND 73 * 0.01
+ss_sales_price / ss_list_price BETWEEN 58 * 0.01 AND 78 * 0.01
+ss_sales_price / ss_list_price BETWEEN 59 * 0.01 AND 79 * 0.01
+ss_sales_price / ss_list_price BETWEEN 6 * 0.01 AND 26 * 0.01
+ss_sales_price / ss_list_price BETWEEN 60 * 0.01 AND 80 * 0.01
+ss_sales_price / ss_list_price BETWEEN 63 * 0.01 AND 83 * 0.01
+ss_sales_price / ss_list_price BETWEEN 68 * 0.01 AND 88 * 0.01
+ss_sales_price / ss_list_price BETWEEN 77 * 0.01 AND 97 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_wholesale_cost BETWEEN 12 AND 17
+ss_wholesale_cost BETWEEN 17 AND 22
+ss_wholesale_cost BETWEEN 31 AND 36
+ss_wholesale_cost BETWEEN 35 AND 40
+ss_wholesale_cost BETWEEN 39 AND 44
+ss_wholesale_cost BETWEEN 42 AND 47
+ss_wholesale_cost BETWEEN 46 AND 51
+ss_wholesale_cost BETWEEN 56 AND 61
+ss_wholesale_cost BETWEEN 57 AND 62
+ss_wholesale_cost BETWEEN 60 AND 65
+ss_wholesale_cost BETWEEN 61 AND 66
+ss_wholesale_cost BETWEEN 62 AND 67
+ss_wholesale_cost BETWEEN 67 AND 72
+ss_wholesale_cost BETWEEN 68 AND 73
+ss_wholesale_cost BETWEEN 70 AND 75
+ss_wholesale_cost BETWEEN 78 AND 83
+w_gmt_offset = -5
+ws_wholesale_cost BETWEEN 12 AND 17
+ws_wholesale_cost BETWEEN 17 AND 22
+ws_wholesale_cost BETWEEN 31 AND 36
+ws_wholesale_cost BETWEEN 35 AND 40
+ws_wholesale_cost BETWEEN 39 AND 44
+ws_wholesale_cost BETWEEN 42 AND 47
+ws_wholesale_cost BETWEEN 46 AND 51
+ws_wholesale_cost BETWEEN 56 AND 61
+ws_wholesale_cost BETWEEN 57 AND 62
+ws_wholesale_cost BETWEEN 60 AND 65
+ws_wholesale_cost BETWEEN 61 AND 66
+ws_wholesale_cost BETWEEN 62 AND 67
+ws_wholesale_cost BETWEEN 67 AND 72
+ws_wholesale_cost BETWEEN 68 AND 73
+ws_wholesale_cost BETWEEN 70 AND 75
+ws_wholesale_cost BETWEEN 78 AND 83

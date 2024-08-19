@@ -1,0 +1,6 @@
+{
+  "0": [
+    "/*+\nSeqScan(t)\nIndexScan(mc)\nIndexScan(cn)\nIndexScan(ci)\nIndexScan(rt)\nIndexScan(n)\nIndexScan(an)\nIndexScan(chn)\nNestLoop ( t mc )\nNestLoop ( t mc cn )\nNestLoop ( t mc cn ci )\nNestLoop ( t mc cn ci rt )\nNestLoop ( t mc cn ci rt n )\nNestLoop ( t mc cn ci rt n an )\nNestLoop ( t mc cn ci rt n an chn )\nLeading ( ( ( ( ( ( ( ( t mc ) cn ) ci ) rt ) n ) an ) chn ) ) */",
+    "/*+\nSeqScan(t)\nIndexScan(mc)\nIndexScan(cn)\nIndexScan(ci)\nIndexScan(chn)\nIndexScan(n)\nIndexScan(an)\nIndexScan(rt)\nNestLoop ( t mc )\nNestLoop ( t mc cn )\nNestLoop ( t mc cn ci )\nNestLoop ( t mc cn ci chn )\nNestLoop ( t mc cn ci chn n )\nNestLoop ( t mc cn ci chn n an )\nNestLoop ( t mc cn ci chn n an rt )\nLeading ( ( ( ( ( ( ( ( t mc ) cn ) ci ) chn ) n ) an ) rt ) ) */"
+  ]
+}

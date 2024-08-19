@@ -1,0 +1,272 @@
+Table,Condition,Frequency
+customer_demographics,cd_marital_status = 'D' and cd_education_status = '4 yr Degree',13
+customer_demographics,cd_marital_status = 'D' and cd_education_status = 'Advanced Degree',7
+customer_demographics,cd_marital_status = 'D' and cd_education_status = 'College',12
+customer_demographics,cd_marital_status = 'D' and cd_education_status = 'Primary',5
+customer_demographics,cd_marital_status = 'D' and cd_education_status = 'Unknown',3
+customer_demographics,cd_marital_status = 'M' and cd_education_status = '4 yr Degree',1
+customer_demographics,cd_marital_status = 'M' and cd_education_status = 'Advanced Degree',2
+customer_demographics,cd_marital_status = 'M' and cd_education_status = 'College',2
+customer_demographics,cd_marital_status = 'M' and cd_education_status = 'Unknown',1
+customer_demographics,cd_marital_status = 'S' and cd_education_status = '4 yr Degree',2
+customer_demographics,cd_marital_status = 'S' and cd_education_status = 'Advanced Degree',2
+customer_demographics,cd_marital_status = 'S' and cd_education_status = 'College',2
+customer_demographics,cd_marital_status = 'U' and cd_education_status = 'College',1
+customer_demographics,cd_marital_status = 'W' and cd_education_status = '2 yr Degree',2
+customer_demographics,cd_marital_status = 'W' and cd_education_status = '4 yr Degree',14
+customer_demographics,cd_marital_status = 'W' and cd_education_status = 'Advanced Degree',12
+customer_demographics,cd_marital_status = 'W' and cd_education_status = 'College',8
+customer_demographics,cd_marital_status = 'W' and cd_education_status = 'Primary',9
+customer_demographics,cd_marital_status = 'W' and cd_education_status = 'Unknown',2
+date_dim,d_year between 1998 and 1998 + 1,32
+date_dim,d_year between 1999 and 1999 + 1,39
+date_dim,d_year between 2000 and 2000 + 1,29
+item1,"item1.i_category in ('Books', 'Children')",2
+item1,"item1.i_category in ('Books', 'Electronics')",4
+item1,"item1.i_category in ('Books', 'Home')",1
+item1,"item1.i_category in ('Books', 'Jewelry')",2
+item1,"item1.i_category in ('Books', 'Women')",1
+item1,"item1.i_category in ('Children', 'Electronics')",12
+item1,"item1.i_category in ('Children', 'Home')",6
+item1,"item1.i_category in ('Children', 'Jewelry')",6
+item1,"item1.i_category in ('Children', 'Men')",5
+item1,"item1.i_category in ('Children', 'Sports')",2
+item1,"item1.i_category in ('Children', 'Women')",10
+item1,"item1.i_category in ('Electronics', 'Home')",8
+item1,"item1.i_category in ('Electronics', 'Jewelry')",10
+item1,"item1.i_category in ('Electronics', 'Men')",1
+item1,"item1.i_category in ('Electronics', 'Music')",2
+item1,"item1.i_category in ('Electronics', 'Women')",7
+item1,"item1.i_category in ('Home', 'Jewelry')",5
+item1,"item1.i_category in ('Home', 'Men')",2
+item1,"item1.i_category in ('Home', 'Women')",3
+item1,"item1.i_category in ('Jewelry', 'Men')",1
+item1,"item1.i_category in ('Jewelry', 'Women')",7
+item1,"item1.i_category in ('Men', 'Music')",1
+item1,"item1.i_category in ('Men', 'Women')",2
+item2,item2.i_manager_id between 10 and 29,1
+item2,item2.i_manager_id between 100 and 119,1
+item2,item2.i_manager_id between 11 and 30,1
+item2,item2.i_manager_id between 13 and 32,2
+item2,item2.i_manager_id between 15 and 34,1
+item2,item2.i_manager_id between 17 and 36,1
+item2,item2.i_manager_id between 21 and 40,2
+item2,item2.i_manager_id between 23 and 42,2
+item2,item2.i_manager_id between 24 and 43,4
+item2,item2.i_manager_id between 25 and 44,1
+item2,item2.i_manager_id between 26 and 45,1
+item2,item2.i_manager_id between 27 and 46,2
+item2,item2.i_manager_id between 28 and 47,2
+item2,item2.i_manager_id between 3 and 22,1
+item2,item2.i_manager_id between 33 and 52,2
+item2,item2.i_manager_id between 34 and 53,2
+item2,item2.i_manager_id between 35 and 54,4
+item2,item2.i_manager_id between 36 and 55,3
+item2,item2.i_manager_id between 37 and 56,3
+item2,item2.i_manager_id between 38 and 57,2
+item2,item2.i_manager_id between 39 and 58,1
+item2,item2.i_manager_id between 41 and 60,3
+item2,item2.i_manager_id between 43 and 62,2
+item2,item2.i_manager_id between 44 and 63,1
+item2,item2.i_manager_id between 45 and 64,3
+item2,item2.i_manager_id between 46 and 65,1
+item2,item2.i_manager_id between 48 and 67,3
+item2,item2.i_manager_id between 49 and 68,1
+item2,item2.i_manager_id between 50 and 69,2
+item2,item2.i_manager_id between 53 and 72,2
+item2,item2.i_manager_id between 54 and 73,2
+item2,item2.i_manager_id between 55 and 74,3
+item2,item2.i_manager_id between 6 and 25,1
+item2,item2.i_manager_id between 62 and 81,1
+item2,item2.i_manager_id between 63 and 82,1
+item2,item2.i_manager_id between 64 and 83,1
+item2,item2.i_manager_id between 66 and 85,2
+item2,item2.i_manager_id between 67 and 86,1
+item2,item2.i_manager_id between 69 and 88,1
+item2,item2.i_manager_id between 7 and 26,2
+item2,item2.i_manager_id between 71 and 90,1
+item2,item2.i_manager_id between 72 and 91,1
+item2,item2.i_manager_id between 73 and 92,1
+item2,item2.i_manager_id between 75 and 94,1
+item2,item2.i_manager_id between 76 and 95,3
+item2,item2.i_manager_id between 77 and 96,3
+item2,item2.i_manager_id between 78 and 97,1
+item2,item2.i_manager_id between 81 and 100,15
+item2,item2.i_manager_id between 9 and 28,2
+s1,s1.ss_list_price between 1 and 15,1
+s1,s1.ss_list_price between 106 and 120,1
+s1,s1.ss_list_price between 109 and 123,1
+s1,s1.ss_list_price between 110 and 124,1
+s1,s1.ss_list_price between 111 and 125,1
+s1,s1.ss_list_price between 114 and 128,1
+s1,s1.ss_list_price between 115 and 129,2
+s1,s1.ss_list_price between 116 and 130,1
+s1,s1.ss_list_price between 119 and 133,2
+s1,s1.ss_list_price between 120 and 134,2
+s1,s1.ss_list_price between 122 and 136,1
+s1,s1.ss_list_price between 123 and 137,1
+s1,s1.ss_list_price between 125 and 139,1
+s1,s1.ss_list_price between 129 and 143,1
+s1,s1.ss_list_price between 13 and 27,1
+s1,s1.ss_list_price between 130 and 144,1
+s1,s1.ss_list_price between 133 and 147,1
+s1,s1.ss_list_price between 137 and 151,1
+s1,s1.ss_list_price between 141 and 155,1
+s1,s1.ss_list_price between 142 and 156,1
+s1,s1.ss_list_price between 15 and 29,1
+s1,s1.ss_list_price between 150 and 164,1
+s1,s1.ss_list_price between 152 and 166,1
+s1,s1.ss_list_price between 155 and 169,1
+s1,s1.ss_list_price between 156 and 170,1
+s1,s1.ss_list_price between 158 and 172,1
+s1,s1.ss_list_price between 159 and 173,1
+s1,s1.ss_list_price between 16 and 30,1
+s1,s1.ss_list_price between 163 and 177,1
+s1,s1.ss_list_price between 168 and 182,1
+s1,s1.ss_list_price between 171 and 185,1
+s1,s1.ss_list_price between 174 and 188,1
+s1,s1.ss_list_price between 175 and 189,1
+s1,s1.ss_list_price between 195 and 209,1
+s1,s1.ss_list_price between 20 and 34,1
+s1,s1.ss_list_price between 200 and 214,2
+s1,s1.ss_list_price between 202 and 216,1
+s1,s1.ss_list_price between 204 and 218,2
+s1,s1.ss_list_price between 208 and 222,1
+s1,s1.ss_list_price between 209 and 223,1
+s1,s1.ss_list_price between 211 and 225,1
+s1,s1.ss_list_price between 223 and 237,1
+s1,s1.ss_list_price between 235 and 249,2
+s1,s1.ss_list_price between 236 and 250,1
+s1,s1.ss_list_price between 239 and 253,1
+s1,s1.ss_list_price between 24 and 38,1
+s1,s1.ss_list_price between 243 and 257,2
+s1,s1.ss_list_price between 251 and 265,1
+s1,s1.ss_list_price between 255 and 269,1
+s1,s1.ss_list_price between 257 and 271,1
+s1,s1.ss_list_price between 260 and 274,1
+s1,s1.ss_list_price between 262 and 276,1
+s1,s1.ss_list_price between 266 and 280,1
+s1,s1.ss_list_price between 267 and 281,1
+s1,s1.ss_list_price between 272 and 286,1
+s1,s1.ss_list_price between 273 and 287,1
+s1,s1.ss_list_price between 280 and 294,1
+s1,s1.ss_list_price between 286 and 300,3
+s1,s1.ss_list_price between 30 and 44,2
+s1,s1.ss_list_price between 32 and 46,1
+s1,s1.ss_list_price between 33 and 47,1
+s1,s1.ss_list_price between 35 and 49,1
+s1,s1.ss_list_price between 36 and 50,1
+s1,s1.ss_list_price between 37 and 51,1
+s1,s1.ss_list_price between 38 and 52,1
+s1,s1.ss_list_price between 44 and 58,2
+s1,s1.ss_list_price between 45 and 59,1
+s1,s1.ss_list_price between 49 and 63,2
+s1,s1.ss_list_price between 62 and 76,1
+s1,s1.ss_list_price between 65 and 79,1
+s1,s1.ss_list_price between 66 and 80,1
+s1,s1.ss_list_price between 69 and 83,2
+s1,s1.ss_list_price between 71 and 85,2
+s1,s1.ss_list_price between 73 and 87,2
+s1,s1.ss_list_price between 8 and 22,1
+s1,s1.ss_list_price between 80 and 94,2
+s1,s1.ss_list_price between 81 and 95,1
+s1,s1.ss_list_price between 83 and 97,2
+s1,s1.ss_list_price between 95 and 109,3
+s1,s1.ss_list_price between 96 and 110,1
+s1,s1.ss_list_price between 98 and 112,1
+s2,s2.ss_list_price between 1 and 15,1
+s2,s2.ss_list_price between 106 and 120,1
+s2,s2.ss_list_price between 109 and 123,1
+s2,s2.ss_list_price between 110 and 124,1
+s2,s2.ss_list_price between 111 and 125,1
+s2,s2.ss_list_price between 114 and 128,1
+s2,s2.ss_list_price between 115 and 129,2
+s2,s2.ss_list_price between 116 and 130,1
+s2,s2.ss_list_price between 119 and 133,2
+s2,s2.ss_list_price between 120 and 134,2
+s2,s2.ss_list_price between 122 and 136,1
+s2,s2.ss_list_price between 123 and 137,1
+s2,s2.ss_list_price between 125 and 139,1
+s2,s2.ss_list_price between 129 and 143,1
+s2,s2.ss_list_price between 13 and 27,1
+s2,s2.ss_list_price between 130 and 144,1
+s2,s2.ss_list_price between 133 and 147,1
+s2,s2.ss_list_price between 137 and 151,1
+s2,s2.ss_list_price between 141 and 155,1
+s2,s2.ss_list_price between 142 and 156,1
+s2,s2.ss_list_price between 15 and 29,1
+s2,s2.ss_list_price between 150 and 164,1
+s2,s2.ss_list_price between 152 and 166,1
+s2,s2.ss_list_price between 155 and 169,1
+s2,s2.ss_list_price between 156 and 170,1
+s2,s2.ss_list_price between 158 and 172,1
+s2,s2.ss_list_price between 159 and 173,1
+s2,s2.ss_list_price between 16 and 30,1
+s2,s2.ss_list_price between 163 and 177,1
+s2,s2.ss_list_price between 168 and 182,1
+s2,s2.ss_list_price between 171 and 185,1
+s2,s2.ss_list_price between 174 and 188,1
+s2,s2.ss_list_price between 175 and 189,1
+s2,s2.ss_list_price between 195 and 209,1
+s2,s2.ss_list_price between 20 and 34,1
+s2,s2.ss_list_price between 200 and 214,2
+s2,s2.ss_list_price between 202 and 216,1
+s2,s2.ss_list_price between 204 and 218,2
+s2,s2.ss_list_price between 208 and 222,1
+s2,s2.ss_list_price between 209 and 223,1
+s2,s2.ss_list_price between 211 and 225,1
+s2,s2.ss_list_price between 223 and 237,1
+s2,s2.ss_list_price between 235 and 249,2
+s2,s2.ss_list_price between 236 and 250,1
+s2,s2.ss_list_price between 239 and 253,1
+s2,s2.ss_list_price between 24 and 38,1
+s2,s2.ss_list_price between 243 and 257,2
+s2,s2.ss_list_price between 251 and 265,1
+s2,s2.ss_list_price between 255 and 269,1
+s2,s2.ss_list_price between 257 and 271,1
+s2,s2.ss_list_price between 260 and 274,1
+s2,s2.ss_list_price between 262 and 276,1
+s2,s2.ss_list_price between 266 and 280,1
+s2,s2.ss_list_price between 267 and 281,1
+s2,s2.ss_list_price between 272 and 286,1
+s2,s2.ss_list_price between 273 and 287,1
+s2,s2.ss_list_price between 280 and 294,1
+s2,s2.ss_list_price between 286 and 300,3
+s2,s2.ss_list_price between 30 and 44,2
+s2,s2.ss_list_price between 32 and 46,1
+s2,s2.ss_list_price between 33 and 47,1
+s2,s2.ss_list_price between 35 and 49,1
+s2,s2.ss_list_price between 36 and 50,1
+s2,s2.ss_list_price between 37 and 51,1
+s2,s2.ss_list_price between 38 and 52,1
+s2,s2.ss_list_price between 44 and 58,2
+s2,s2.ss_list_price between 45 and 59,1
+s2,s2.ss_list_price between 49 and 63,2
+s2,s2.ss_list_price between 62 and 76,1
+s2,s2.ss_list_price between 65 and 79,1
+s2,s2.ss_list_price between 66 and 80,1
+s2,s2.ss_list_price between 69 and 83,2
+s2,s2.ss_list_price between 71 and 85,2
+s2,s2.ss_list_price between 73 and 87,2
+s2,s2.ss_list_price between 8 and 22,1
+s2,s2.ss_list_price between 80 and 94,2
+s2,s2.ss_list_price between 81 and 95,1
+s2,s2.ss_list_price between 83 and 97,2
+s2,s2.ss_list_price between 95 and 109,3
+s2,s2.ss_list_price between 96 and 110,1
+s2,s2.ss_list_price between 98 and 112,1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

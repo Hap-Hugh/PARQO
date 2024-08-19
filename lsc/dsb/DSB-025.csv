@@ -1,0 +1,148 @@
+Table,Condition,Frequency
+d1,d1.d_moy = 1 AND d1.d_year = 1998,2
+d1,d1.d_moy = 1 AND d1.d_year = 1999,4
+d1,d1.d_moy = 1 AND d1.d_year = 2000,2
+d1,d1.d_moy = 1 AND d1.d_year = 2001,2
+d1,d1.d_moy = 1 AND d1.d_year = 2002,1
+d1,d1.d_moy = 10 AND d1.d_year = 1998,1
+d1,d1.d_moy = 10 AND d1.d_year = 1999,2
+d1,d1.d_moy = 10 AND d1.d_year = 2000,5
+d1,d1.d_moy = 2 AND d1.d_year = 1998,3
+d1,d1.d_moy = 2 AND d1.d_year = 1999,2
+d1,d1.d_moy = 2 AND d1.d_year = 2000,1
+d1,d1.d_moy = 2 AND d1.d_year = 2001,2
+d1,d1.d_moy = 2 AND d1.d_year = 2002,1
+d1,d1.d_moy = 3 AND d1.d_year = 1998,2
+d1,d1.d_moy = 3 AND d1.d_year = 1999,2
+d1,d1.d_moy = 3 AND d1.d_year = 2000,1
+d1,d1.d_moy = 3 AND d1.d_year = 2001,4
+d1,d1.d_moy = 3 AND d1.d_year = 2002,3
+d1,d1.d_moy = 4 AND d1.d_year = 1998,2
+d1,d1.d_moy = 4 AND d1.d_year = 1999,1
+d1,d1.d_moy = 4 AND d1.d_year = 2000,2
+d1,d1.d_moy = 4 AND d1.d_year = 2001,2
+d1,d1.d_moy = 4 AND d1.d_year = 2002,1
+d1,d1.d_moy = 5 AND d1.d_year = 1998,1
+d1,d1.d_moy = 5 AND d1.d_year = 1999,6
+d1,d1.d_moy = 5 AND d1.d_year = 2000,2
+d1,d1.d_moy = 5 AND d1.d_year = 2002,3
+d1,d1.d_moy = 6 AND d1.d_year = 1998,1
+d1,d1.d_moy = 6 AND d1.d_year = 1999,3
+d1,d1.d_moy = 6 AND d1.d_year = 2000,3
+d1,d1.d_moy = 6 AND d1.d_year = 2001,1
+d1,d1.d_moy = 6 AND d1.d_year = 2002,4
+d1,d1.d_moy = 7 AND d1.d_year = 1998,4
+d1,d1.d_moy = 7 AND d1.d_year = 1999,3
+d1,d1.d_moy = 7 AND d1.d_year = 2000,1
+d1,d1.d_moy = 7 AND d1.d_year = 2002,2
+d1,d1.d_moy = 8 AND d1.d_year = 1998,2
+d1,d1.d_moy = 8 AND d1.d_year = 1999,4
+d1,d1.d_moy = 8 AND d1.d_year = 2000,2
+d1,d1.d_moy = 8 AND d1.d_year = 2002,1
+d1,d1.d_moy = 9 AND d1.d_year = 1999,3
+d1,d1.d_moy = 9 AND d1.d_year = 2000,3
+d1,d1.d_moy = 9 AND d1.d_year = 2001,2
+d1,d1.d_moy = 9 AND d1.d_year = 2002,1
+d2,d2.d_moy BETWEEN 1 AND 1 + 2 AND d2.d_year = 1998,2
+d2,d2.d_moy BETWEEN 1 AND 1 + 2 AND d2.d_year = 1999,4
+d2,d2.d_moy BETWEEN 1 AND 1 + 2 AND d2.d_year = 2000,2
+d2,d2.d_moy BETWEEN 1 AND 1 + 2 AND d2.d_year = 2001,2
+d2,d2.d_moy BETWEEN 1 AND 1 + 2 AND d2.d_year = 2002,1
+d2,d2.d_moy BETWEEN 10 AND 10 + 2 AND d2.d_year = 1998,1
+d2,d2.d_moy BETWEEN 10 AND 10 + 2 AND d2.d_year = 1999,2
+d2,d2.d_moy BETWEEN 10 AND 10 + 2 AND d2.d_year = 2000,5
+d2,d2.d_moy BETWEEN 2 AND 2 + 2 AND d2.d_year = 1998,3
+d2,d2.d_moy BETWEEN 2 AND 2 + 2 AND d2.d_year = 1999,2
+d2,d2.d_moy BETWEEN 2 AND 2 + 2 AND d2.d_year = 2000,1
+d2,d2.d_moy BETWEEN 2 AND 2 + 2 AND d2.d_year = 2001,2
+d2,d2.d_moy BETWEEN 2 AND 2 + 2 AND d2.d_year = 2002,1
+d2,d2.d_moy BETWEEN 3 AND 3 + 2 AND d2.d_year = 1998,2
+d2,d2.d_moy BETWEEN 3 AND 3 + 2 AND d2.d_year = 1999,2
+d2,d2.d_moy BETWEEN 3 AND 3 + 2 AND d2.d_year = 2000,1
+d2,d2.d_moy BETWEEN 3 AND 3 + 2 AND d2.d_year = 2001,4
+d2,d2.d_moy BETWEEN 3 AND 3 + 2 AND d2.d_year = 2002,3
+d2,d2.d_moy BETWEEN 4 AND 4 + 2 AND d2.d_year = 1998,2
+d2,d2.d_moy BETWEEN 4 AND 4 + 2 AND d2.d_year = 1999,1
+d2,d2.d_moy BETWEEN 4 AND 4 + 2 AND d2.d_year = 2000,2
+d2,d2.d_moy BETWEEN 4 AND 4 + 2 AND d2.d_year = 2001,2
+d2,d2.d_moy BETWEEN 4 AND 4 + 2 AND d2.d_year = 2002,1
+d2,d2.d_moy BETWEEN 5 AND 5 + 2 AND d2.d_year = 1998,1
+d2,d2.d_moy BETWEEN 5 AND 5 + 2 AND d2.d_year = 1999,6
+d2,d2.d_moy BETWEEN 5 AND 5 + 2 AND d2.d_year = 2000,2
+d2,d2.d_moy BETWEEN 5 AND 5 + 2 AND d2.d_year = 2002,3
+d2,d2.d_moy BETWEEN 6 AND 6 + 2 AND d2.d_year = 1998,1
+d2,d2.d_moy BETWEEN 6 AND 6 + 2 AND d2.d_year = 1999,3
+d2,d2.d_moy BETWEEN 6 AND 6 + 2 AND d2.d_year = 2000,3
+d2,d2.d_moy BETWEEN 6 AND 6 + 2 AND d2.d_year = 2001,1
+d2,d2.d_moy BETWEEN 6 AND 6 + 2 AND d2.d_year = 2002,4
+d2,d2.d_moy BETWEEN 7 AND 7 + 2 AND d2.d_year = 1998,4
+d2,d2.d_moy BETWEEN 7 AND 7 + 2 AND d2.d_year = 1999,3
+d2,d2.d_moy BETWEEN 7 AND 7 + 2 AND d2.d_year = 2000,1
+d2,d2.d_moy BETWEEN 7 AND 7 + 2 AND d2.d_year = 2002,2
+d2,d2.d_moy BETWEEN 8 AND 8 + 2 AND d2.d_year = 1998,2
+d2,d2.d_moy BETWEEN 8 AND 8 + 2 AND d2.d_year = 1999,4
+d2,d2.d_moy BETWEEN 8 AND 8 + 2 AND d2.d_year = 2000,2
+d2,d2.d_moy BETWEEN 8 AND 8 + 2 AND d2.d_year = 2002,1
+d2,d2.d_moy BETWEEN 9 AND 9 + 2 AND d2.d_year = 1999,3
+d2,d2.d_moy BETWEEN 9 AND 9 + 2 AND d2.d_year = 2000,3
+d2,d2.d_moy BETWEEN 9 AND 9 + 2 AND d2.d_year = 2001,2
+d2,d2.d_moy BETWEEN 9 AND 9 + 2 AND d2.d_year = 2002,1
+d3,d3.d_moy BETWEEN 1 AND 1 + 2 AND d3.d_year = 1998,2
+d3,d3.d_moy BETWEEN 1 AND 1 + 2 AND d3.d_year = 1999,4
+d3,d3.d_moy BETWEEN 1 AND 1 + 2 AND d3.d_year = 2000,2
+d3,d3.d_moy BETWEEN 1 AND 1 + 2 AND d3.d_year = 2001,2
+d3,d3.d_moy BETWEEN 1 AND 1 + 2 AND d3.d_year = 2002,1
+d3,d3.d_moy BETWEEN 10 AND 10 + 2 AND d3.d_year = 1998,1
+d3,d3.d_moy BETWEEN 10 AND 10 + 2 AND d3.d_year = 1999,2
+d3,d3.d_moy BETWEEN 10 AND 10 + 2 AND d3.d_year = 2000,5
+d3,d3.d_moy BETWEEN 2 AND 2 + 2 AND d3.d_year = 1998,3
+d3,d3.d_moy BETWEEN 2 AND 2 + 2 AND d3.d_year = 1999,2
+d3,d3.d_moy BETWEEN 2 AND 2 + 2 AND d3.d_year = 2000,1
+d3,d3.d_moy BETWEEN 2 AND 2 + 2 AND d3.d_year = 2001,2
+d3,d3.d_moy BETWEEN 2 AND 2 + 2 AND d3.d_year = 2002,1
+d3,d3.d_moy BETWEEN 3 AND 3 + 2 AND d3.d_year = 1998,2
+d3,d3.d_moy BETWEEN 3 AND 3 + 2 AND d3.d_year = 1999,2
+d3,d3.d_moy BETWEEN 3 AND 3 + 2 AND d3.d_year = 2000,1
+d3,d3.d_moy BETWEEN 3 AND 3 + 2 AND d3.d_year = 2001,4
+d3,d3.d_moy BETWEEN 3 AND 3 + 2 AND d3.d_year = 2002,3
+d3,d3.d_moy BETWEEN 4 AND 4 + 2 AND d3.d_year = 1998,2
+d3,d3.d_moy BETWEEN 4 AND 4 + 2 AND d3.d_year = 1999,1
+d3,d3.d_moy BETWEEN 4 AND 4 + 2 AND d3.d_year = 2000,2
+d3,d3.d_moy BETWEEN 4 AND 4 + 2 AND d3.d_year = 2001,2
+d3,d3.d_moy BETWEEN 4 AND 4 + 2 AND d3.d_year = 2002,1
+d3,d3.d_moy BETWEEN 5 AND 5 + 2 AND d3.d_year = 1998,1
+d3,d3.d_moy BETWEEN 5 AND 5 + 2 AND d3.d_year = 1999,6
+d3,d3.d_moy BETWEEN 5 AND 5 + 2 AND d3.d_year = 2000,2
+d3,d3.d_moy BETWEEN 5 AND 5 + 2 AND d3.d_year = 2002,3
+d3,d3.d_moy BETWEEN 6 AND 6 + 2 AND d3.d_year = 1998,1
+d3,d3.d_moy BETWEEN 6 AND 6 + 2 AND d3.d_year = 1999,3
+d3,d3.d_moy BETWEEN 6 AND 6 + 2 AND d3.d_year = 2000,3
+d3,d3.d_moy BETWEEN 6 AND 6 + 2 AND d3.d_year = 2001,1
+d3,d3.d_moy BETWEEN 6 AND 6 + 2 AND d3.d_year = 2002,4
+d3,d3.d_moy BETWEEN 7 AND 7 + 2 AND d3.d_year = 1998,4
+d3,d3.d_moy BETWEEN 7 AND 7 + 2 AND d3.d_year = 1999,3
+d3,d3.d_moy BETWEEN 7 AND 7 + 2 AND d3.d_year = 2000,1
+d3,d3.d_moy BETWEEN 7 AND 7 + 2 AND d3.d_year = 2002,2
+d3,d3.d_moy BETWEEN 8 AND 8 + 2 AND d3.d_year = 1998,2
+d3,d3.d_moy BETWEEN 8 AND 8 + 2 AND d3.d_year = 1999,4
+d3,d3.d_moy BETWEEN 8 AND 8 + 2 AND d3.d_year = 2000,2
+d3,d3.d_moy BETWEEN 8 AND 8 + 2 AND d3.d_year = 2002,1
+d3,d3.d_moy BETWEEN 9 AND 9 + 2 AND d3.d_year = 1999,3
+d3,d3.d_moy BETWEEN 9 AND 9 + 2 AND d3.d_year = 2000,3
+d3,d3.d_moy BETWEEN 9 AND 9 + 2 AND d3.d_year = 2001,2
+d3,d3.d_moy BETWEEN 9 AND 9 + 2 AND d3.d_year = 2002,1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

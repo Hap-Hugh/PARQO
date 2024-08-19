@@ -1,0 +1,273 @@
+Table,Condition,Frequency
+customer_address,"ca_state in ('AK', 'AL', 'FL', 'MS', 'OK')",1
+customer_address,"ca_state in ('AK', 'FL', 'MN', 'TX', 'VA')",1
+customer_address,"ca_state in ('AK', 'IA', 'KS', 'PA', 'WI')",1
+customer_address,"ca_state in ('AK', 'NC', 'NV', 'OH', 'VA')",1
+customer_address,"ca_state in ('AL', 'AR', 'CO', 'MO', 'OK')",1
+customer_address,"ca_state in ('AL', 'AR', 'GA', 'IA', 'MI')",1
+customer_address,"ca_state in ('AL', 'AR', 'ME', 'MO', 'VA')",1
+customer_address,"ca_state in ('AL', 'AR', 'MO', 'TN', 'TX')",1
+customer_address,"ca_state in ('AL', 'CO', 'FL', 'NE', 'PA')",1
+customer_address,"ca_state in ('AL', 'CO', 'FL', 'NJ', 'OK')",1
+customer_address,"ca_state in ('AL', 'GA', 'IN', 'OK', 'PA')",1
+customer_address,"ca_state in ('AL', 'GA', 'KS', 'KY', 'TX')",1
+customer_address,"ca_state in ('AL', 'IL', 'KY', 'NE', 'VA')",1
+customer_address,"ca_state in ('AL', 'IN', 'KY', 'ND', 'TX')",1
+customer_address,"ca_state in ('AL', 'KS', 'MS', 'TX', 'VA')",1
+customer_address,"ca_state in ('AL', 'MN', 'MO', 'MS', 'VA')",1
+customer_address,"ca_state in ('AR', 'CO', 'GA', 'IA', 'WV')",1
+customer_address,"ca_state in ('AR', 'CO', 'KY', 'MS', 'TX')",1
+customer_address,"ca_state in ('AR', 'FL', 'IL', 'MI', 'UT')",1
+customer_address,"ca_state in ('AR', 'GA', 'IA', 'KY', 'NY')",1
+customer_address,"ca_state in ('AR', 'GA', 'IA', 'KY', 'VA')",1
+customer_address,"ca_state in ('AR', 'GA', 'IL', 'MI', 'TX')",1
+customer_address,"ca_state in ('AR', 'IL', 'KY', 'SD', 'TN')",1
+customer_address,"ca_state in ('AR', 'IN', 'KS', 'MO', 'TX')",1
+customer_address,"ca_state in ('AR', 'KS', 'MT', 'NE', 'WA')",1
+customer_address,"ca_state in ('AR', 'KY', 'MS', 'NY', 'SC')",1
+customer_address,"ca_state in ('AR', 'KY', 'OH', 'OR', 'TN')",1
+customer_address,"ca_state in ('AR', 'ME', 'MS', 'OR', 'WA')",1
+customer_address,"ca_state in ('AZ', 'CA', 'MN', 'NM', 'OH')",1
+customer_address,"ca_state in ('AZ', 'FL', 'MI', 'VA', 'WV')",1
+customer_address,"ca_state in ('AZ', 'GA', 'NY', 'PA', 'SD')",1
+customer_address,"ca_state in ('CA', 'CO', 'MS', 'OH', 'SD')",1
+customer_address,"ca_state in ('CA', 'FL', 'GA', 'NE', 'SD')",1
+customer_address,"ca_state in ('CA', 'FL', 'IA', 'PA', 'SC')",1
+customer_address,"ca_state in ('CA', 'GA', 'MI', 'OH', 'TX')",1
+customer_address,"ca_state in ('CA', 'ID', 'IL', 'MI', 'VA')",1
+customer_address,"ca_state in ('CA', 'ID', 'MN', 'NM', 'NV')",1
+customer_address,"ca_state in ('CA', 'IL', 'KY', 'MN', 'TN')",1
+customer_address,"ca_state in ('CA', 'IL', 'MS', 'OH', 'WI')",1
+customer_address,"ca_state in ('CO', 'CT', 'IA', 'ID', 'SD')",1
+customer_address,"ca_state in ('CO', 'FL', 'GA', 'ID', 'MO')",1
+customer_address,"ca_state in ('CO', 'FL', 'MI', 'MS', 'NC')",1
+customer_address,"ca_state in ('CO', 'GA', 'MT', 'NC', 'OH')",1
+customer_address,"ca_state in ('CO', 'GA', 'TN', 'TX', 'UT')",1
+customer_address,"ca_state in ('CO', 'IL', 'MN', 'OH', 'TX')",1
+customer_address,"ca_state in ('CO', 'IL', 'NC', 'SD', 'VA')",1
+customer_address,"ca_state in ('CO', 'IL', 'NY', 'TX', 'VT')",1
+customer_address,"ca_state in ('CO', 'MI', 'ND', 'NY', 'WV')",1
+customer_address,"ca_state in ('FL', 'GA', 'IN', 'MN', 'MS')",1
+customer_address,"ca_state in ('FL', 'IA', 'MT', 'NE', 'VA')",1
+customer_address,"ca_state in ('FL', 'ID', 'KS', 'OK', 'VA')",1
+customer_address,"ca_state in ('FL', 'IN', 'KS', 'NE', 'OK')",1
+customer_address,"ca_state in ('FL', 'MS', 'NE', 'TN', 'TX')",1
+customer_address,"ca_state in ('FL', 'ND', 'OH', 'TX', 'WV')",1
+customer_address,"ca_state in ('GA', 'IA', 'IL', 'KY', 'MO')",1
+customer_address,"ca_state in ('GA', 'IA', 'KY', 'MO', 'NE')",1
+customer_address,"ca_state in ('GA', 'IA', 'NC', 'TN', 'WI')",1
+customer_address,"ca_state in ('GA', 'IL', 'KS', 'NE', 'SC')",1
+customer_address,"ca_state in ('GA', 'IL', 'KY', 'TX', 'VA')",1
+customer_address,"ca_state in ('GA', 'IL', 'MT', 'TX', 'WI')",1
+customer_address,"ca_state in ('GA', 'IN', 'KY', 'MN', 'MS')",1
+customer_address,"ca_state in ('GA', 'IN', 'MI', 'MS', 'TX')",1
+customer_address,"ca_state in ('GA', 'KS', 'KY', 'MN', 'ND')",1
+customer_address,"ca_state in ('GA', 'KS', 'KY', 'NE', 'TX')",1
+customer_address,"ca_state in ('GA', 'KS', 'NC', 'NE', 'OH')",1
+customer_address,"ca_state in ('GA', 'KY', 'MI', 'MS', 'SD')",1
+customer_address,"ca_state in ('GA', 'KY', 'MI', 'RI', 'VT')",1
+customer_address,"ca_state in ('GA', 'MN', 'SC', 'TX', 'VA')",1
+customer_address,"ca_state in ('GA', 'MS', 'NC', 'OH', 'PA')",1
+customer_address,"ca_state in ('GA', 'MS', 'NE', 'PA', 'TX')",1
+customer_address,"ca_state in ('GA', 'NC', 'OH', 'SD', 'TX')",1
+customer_address,"ca_state in ('IA', 'ID', 'MO', 'TX', 'VA')",1
+customer_address,"ca_state in ('IA', 'IL', 'KS', 'VA', 'WI')",1
+customer_address,"ca_state in ('IA', 'KS', 'LA', 'MS', 'SD')",1
+customer_address,"ca_state in ('IA', 'KY', 'NC', 'RI', 'WI')",1
+customer_address,"ca_state in ('IA', 'LA', 'MO', 'OH', 'WV')",1
+customer_address,"ca_state in ('ID', 'IL', 'TX', 'VA', 'WA')",1
+customer_address,"ca_state in ('ID', 'IN', 'MN', 'MO', 'VA')",1
+customer_address,"ca_state in ('IL', 'MD', 'NC', 'OH', 'TX')",1
+customer_address,"ca_state in ('IL', 'MI', 'MT', 'OH', 'SD')",1
+customer_address,"ca_state in ('IN', 'MS', 'ND', 'PA', 'SD')",1
+customer_address,"ca_state in ('IN', 'MT', 'NC', 'TX', 'VA')",1
+customer_address,"ca_state in ('KS', 'MO', 'MS', 'TX', 'VT')",1
+customer_address,"ca_state in ('KS', 'MO', 'NY', 'SD', 'VA')",1
+customer_address,"ca_state in ('KS', 'PA', 'SD', 'TN', 'WV')",1
+customer_address,"ca_state in ('KY', 'LA', 'NC', 'OK', 'TX')",1
+customer_address,"ca_state in ('KY', 'MI', 'MS', 'NE', 'VA')",1
+customer_address,"ca_state in ('KY', 'MI', 'MT', 'OH', 'VA')",1
+customer_address,"ca_state in ('KY', 'MN', 'NC', 'PA', 'WI')",1
+customer_address,"ca_state in ('KY', 'MS', 'SC', 'TN', 'TX')",1
+customer_address,"ca_state in ('MD', 'MI', 'OK', 'SC', 'TX')",1
+customer_address,"ca_state in ('MI', 'NC', 'OK', 'OR', 'WI')",1
+customer_address,"ca_state in ('MN', 'NC', 'NE', 'SC', 'TX')",1
+customer_address,"ca_state in ('MO', 'MS', 'NC', 'TX', 'WI')",1
+customer_address,"ca_state in ('MO', 'NC', 'OH', 'SC', 'WV')",1
+customer_address,"ca_state in ('MO', 'OK', 'TN', 'UT', 'VA')",1
+customer_address,"ca_state in ('NC', 'NE', 'TN', 'UT', 'WI')",1
+customer_address,"ca_state in ('NC', 'NJ', 'OK', 'SD', 'WY')",1
+customer_address,"ca_state in ('NY', 'TN', 'TX', 'WI', 'WV')",1
+customer_address,"ca_state in ('OK', 'SD', 'TN', 'WA', 'WI')",1
+date_dim,d1.d_year = 1998,19
+date_dim,d1.d_year = 1999,20
+date_dim,d1.d_year = 2000,26
+date_dim,d1.d_year = 2001,17
+date_dim,d1.d_year = 2002,18
+item,"i_category IN ('Books', 'Children', 'Electronics') and i_manager_id IN (11, 18, 28, 37, 62, 63, 64, 69, 70, 88)",1
+item,"i_category IN ('Books', 'Children', 'Electronics') and i_manager_id IN (23, 33, 37, 40, 48, 64, 71, 72, 79, 86)",1
+item,"i_category IN ('Books', 'Children', 'Home') and i_manager_id IN (2, 8, 27, 29, 30, 59, 70, 74, 84, 96)",1
+item,"i_category IN ('Books', 'Children', 'Home') and i_manager_id IN (7, 25, 47, 57, 58, 59, 78, 88, 89, 99)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (2, 8, 11, 35, 41, 43, 52, 55, 67, 77)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (3, 15, 34, 35, 46, 62, 84, 91, 92, 97)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (3, 18, 19, 57, 69, 80, 83, 84, 88, 95)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (4, 22, 31, 43, 60, 61, 64, 80, 93, 98)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (6, 17, 26, 27, 37, 59, 60, 77, 83, 84)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (7, 14, 18, 32, 45, 52, 63, 76, 87, 98)",1
+item,"i_category IN ('Books', 'Children', 'Jewelry') and i_manager_id IN (9, 18, 31, 51, 73, 74, 82, 84, 90, 100)",1
+item,"i_category IN ('Books', 'Children', 'Women') and i_manager_id IN (14, 15, 25, 37, 43, 45, 46, 62, 83, 100)",1
+item,"i_category IN ('Books', 'Children', 'Women') and i_manager_id IN (23, 25, 42, 50, 55, 67, 69, 76, 86, 92)",1
+item,"i_category IN ('Books', 'Electronics', 'Home') and i_manager_id IN (1, 2, 8, 9, 22, 30, 35, 50, 89, 96)",1
+item,"i_category IN ('Books', 'Electronics', 'Home') and i_manager_id IN (10, 22, 39, 49, 59, 60, 67, 70, 71, 99)",1
+item,"i_category IN ('Books', 'Electronics', 'Jewelry') and i_manager_id IN (1, 4, 7, 33, 48, 56, 65, 69, 86, 90)",1
+item,"i_category IN ('Books', 'Electronics', 'Jewelry') and i_manager_id IN (2, 20, 23, 48, 49, 72, 74, 82, 93, 99)",1
+item,"i_category IN ('Books', 'Electronics', 'Jewelry') and i_manager_id IN (9, 13, 17, 45, 48, 49, 52, 74, 92, 93)",1
+item,"i_category IN ('Books', 'Electronics', 'Men') and i_manager_id IN (17, 18, 19, 33, 53, 55, 72, 82, 83, 89)",1
+item,"i_category IN ('Books', 'Electronics', 'Men') and i_manager_id IN (8, 13, 25, 40, 49, 67, 68, 89, 95, 100)",1
+item,"i_category IN ('Books', 'Electronics', 'Women') and i_manager_id IN (9, 32, 49, 55, 67, 71, 73, 83, 92, 94)",1
+item,"i_category IN ('Books', 'Jewelry', 'Sports') and i_manager_id IN (3, 8, 9, 16, 30, 46, 67, 69, 78, 80)",1
+item,"i_category IN ('Books', 'Jewelry', 'Women') and i_manager_id IN (10, 18, 30, 37, 48, 58, 61, 67, 75, 98)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (1, 7, 14, 17, 27, 51, 54, 57, 89, 92)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (2, 26, 32, 38, 39, 47, 48, 68, 97, 99)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (21, 33, 35, 37, 55, 76, 80, 84, 97, 98)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (3, 4, 20, 38, 41, 54, 75, 76, 83, 89)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (4, 18, 39, 41, 44, 57, 59, 68, 94, 97)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (4, 19, 40, 68, 73, 74, 75, 88, 89, 99)",1
+item,"i_category IN ('Children', 'Electronics', 'Home') and i_manager_id IN (8, 10, 27, 32, 36, 44, 56, 75, 92, 94)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (10, 13, 21, 27, 30, 31, 33, 37, 62, 76)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (10, 33, 49, 68, 74, 78, 88, 92, 93, 96)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (3, 5, 41, 44, 54, 60, 63, 77, 79, 83)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (5, 12, 21, 27, 33, 51, 59, 62, 66, 69)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (6, 12, 13, 35, 42, 63, 70, 77, 83, 84)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (7, 27, 32, 47, 56, 65, 68, 79, 83, 94)",1
+item,"i_category IN ('Children', 'Electronics', 'Jewelry') and i_manager_id IN (8, 11, 28, 42, 43, 49, 60, 79, 84, 94)",1
+item,"i_category IN ('Children', 'Electronics', 'Men') and i_manager_id IN (1, 30, 37, 55, 65, 88, 92, 94, 97, 100)",1
+item,"i_category IN ('Children', 'Electronics', 'Men') and i_manager_id IN (39, 44, 62, 70, 73, 74, 83, 84, 85, 86)",1
+item,"i_category IN ('Children', 'Electronics', 'Music') and i_manager_id IN (23, 26, 29, 33, 37, 41, 54, 56, 72, 78)",1
+item,"i_category IN ('Children', 'Electronics', 'Women') and i_manager_id IN (12, 13, 19, 27, 31, 51, 52, 54, 70, 84)",1
+item,"i_category IN ('Children', 'Electronics', 'Women') and i_manager_id IN (14, 17, 30, 34, 54, 60, 68, 71, 85, 94)",1
+item,"i_category IN ('Children', 'Electronics', 'Women') and i_manager_id IN (3, 11, 27, 32, 34, 40, 60, 61, 78, 92)",1
+item,"i_category IN ('Children', 'Electronics', 'Women') and i_manager_id IN (3, 4, 13, 20, 21, 35, 40, 61, 77, 91)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (11, 12, 19, 22, 25, 35, 49, 66, 94, 100)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (11, 13, 19, 24, 26, 46, 63, 67, 71, 79)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (2, 3, 16, 22, 23, 44, 53, 54, 83, 86)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (2, 3, 9, 12, 28, 31, 58, 75, 76, 82)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (3, 5, 23, 34, 62, 77, 82, 88, 90, 92)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (7, 8, 12, 24, 26, 38, 58, 67, 76, 80)",1
+item,"i_category IN ('Children', 'Home', 'Jewelry') and i_manager_id IN (9, 16, 24, 25, 35, 47, 50, 63, 88, 94)",1
+item,"i_category IN ('Children', 'Home', 'Men') and i_manager_id IN (11, 14, 17, 19, 27, 34, 49, 73, 80, 91)",1
+item,"i_category IN ('Children', 'Home', 'Men') and i_manager_id IN (17, 21, 25, 27, 32, 46, 57, 58, 61, 88)",1
+item,"i_category IN ('Children', 'Home', 'Men') and i_manager_id IN (7, 18, 28, 39, 40, 42, 45, 49, 68, 92)",1
+item,"i_category IN ('Children', 'Home', 'Music') and i_manager_id IN (10, 11, 15, 22, 58, 59, 66, 73, 86, 98)",1
+item,"i_category IN ('Children', 'Home', 'Women') and i_manager_id IN (7, 9, 11, 18, 44, 49, 54, 58, 60, 64)",1
+item,"i_category IN ('Children', 'Jewelry', 'Men') and i_manager_id IN (11, 17, 24, 30, 31, 36, 66, 77, 80, 83)",1
+item,"i_category IN ('Children', 'Jewelry', 'Men') and i_manager_id IN (31, 32, 45, 51, 61, 77, 79, 81, 84, 93)",1
+item,"i_category IN ('Children', 'Jewelry', 'Music') and i_manager_id IN (3, 8, 22, 38, 47, 55, 65, 71, 72, 78)",1
+item,"i_category IN ('Children', 'Jewelry', 'Music') and i_manager_id IN (8, 14, 22, 27, 36, 41, 48, 70, 80, 90)",1
+item,"i_category IN ('Children', 'Jewelry', 'Sports') and i_manager_id IN (3, 5, 45, 48, 58, 60, 62, 67, 68, 72)",1
+item,"i_category IN ('Children', 'Jewelry', 'Sports') and i_manager_id IN (6, 17, 22, 37, 39, 42, 55, 58, 59, 91)",1
+item,"i_category IN ('Children', 'Jewelry', 'Sports') and i_manager_id IN (9, 34, 35, 48, 51, 54, 69, 76, 85, 87)",1
+item,"i_category IN ('Children', 'Jewelry', 'Women') and i_manager_id IN (16, 21, 33, 41, 43, 50, 53, 57, 60, 74)",1
+item,"i_category IN ('Children', 'Jewelry', 'Women') and i_manager_id IN (7, 9, 13, 22, 37, 45, 72, 73, 76, 92)",1
+item,"i_category IN ('Children', 'Jewelry', 'Women') and i_manager_id IN (8, 14, 23, 26, 32, 36, 39, 58, 78, 80)",1
+item,"i_category IN ('Children', 'Men', 'Women') and i_manager_id IN (2, 17, 31, 43, 70, 76, 82, 84, 90, 93)",1
+item,"i_category IN ('Children', 'Music', 'Sports') and i_manager_id IN (21, 27, 33, 59, 60, 62, 68, 69, 88, 97)",1
+item,"i_category IN ('Children', 'Sports', 'Women') and i_manager_id IN (4, 6, 12, 15, 38, 61, 66, 67, 73, 85)",1
+item,"i_category IN ('Electronics', 'Home', 'Jewelry') and i_manager_id IN (16, 27, 51, 52, 57, 58, 60, 61, 65, 70)",1
+item,"i_category IN ('Electronics', 'Home', 'Jewelry') and i_manager_id IN (4, 12, 21, 23, 34, 38, 43, 46, 58, 82)",1
+item,"i_category IN ('Electronics', 'Home', 'Jewelry') and i_manager_id IN (7, 16, 18, 34, 41, 57, 65, 73, 76, 95)",1
+item,"i_category IN ('Electronics', 'Home', 'Men') and i_manager_id IN (1, 2, 43, 56, 58, 63, 79, 83, 86, 99)",1
+item,"i_category IN ('Electronics', 'Home', 'Women') and i_manager_id IN (12, 13, 36, 54, 58, 61, 62, 78, 91, 98)",1
+item,"i_category IN ('Electronics', 'Home', 'Women') and i_manager_id IN (16, 36, 62, 64, 70, 78, 81, 86, 94, 100)",1
+item,"i_category IN ('Electronics', 'Home', 'Women') and i_manager_id IN (2, 14, 44, 56, 59, 74, 76, 80, 84, 98)",1
+item,"i_category IN ('Electronics', 'Home', 'Women') and i_manager_id IN (2, 7, 27, 36, 61, 64, 68, 75, 91, 93)",1
+item,"i_category IN ('Electronics', 'Home', 'Women') and i_manager_id IN (7, 10, 34, 55, 61, 77, 81, 83, 88, 98)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Men') and i_manager_id IN (14, 26, 29, 33, 42, 74, 81, 85, 89, 94)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Men') and i_manager_id IN (2, 3, 13, 21, 26, 37, 50, 58, 62, 90)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Men') and i_manager_id IN (23, 31, 39, 43, 46, 58, 62, 67, 70, 74)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Men') and i_manager_id IN (6, 9, 31, 46, 51, 66, 68, 75, 77, 88)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Sports') and i_manager_id IN (1, 18, 58, 63, 70, 74, 77, 79, 83, 91)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (1, 12, 19, 47, 48, 66, 79, 87, 96, 99)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (11, 12, 21, 25, 40, 51, 57, 76, 81, 100)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (2, 13, 17, 31, 39, 45, 49, 67, 69, 92)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (38, 39, 67, 70, 71, 74, 85, 86, 90, 96)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (4, 32, 38, 45, 55, 69, 74, 76, 87, 92)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (5, 22, 47, 50, 55, 56, 71, 75, 90, 99)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (7, 10, 25, 29, 43, 57, 85, 90, 91, 96)",1
+item,"i_category IN ('Electronics', 'Jewelry', 'Women') and i_manager_id IN (9, 25, 30, 46, 51, 52, 53, 69, 70, 93)",1
+item,"i_category IN ('Electronics', 'Men', 'Women') and i_manager_id IN (4, 28, 33, 43, 54, 70, 73, 77, 89, 93)",1
+item,"i_category IN ('Home', 'Jewelry', 'Men') and i_manager_id IN (2, 22, 30, 42, 46, 53, 56, 81, 82, 98)",1
+item,"i_category IN ('Home', 'Jewelry', 'Sports') and i_manager_id IN (2, 7, 20, 27, 45, 57, 77, 92, 96, 100)",1
+item,"i_category IN ('Home', 'Jewelry', 'Women') and i_manager_id IN (1, 2, 7, 8, 9, 20, 27, 36, 80, 100)",1
+item,"i_category IN ('Home', 'Jewelry', 'Women') and i_manager_id IN (7, 10, 21, 28, 34, 45, 51, 53, 68, 69)",1
+item,"i_category IN ('Jewelry', 'Music', 'Women') and i_manager_id IN (16, 47, 51, 53, 68, 78, 81, 83, 86, 97)",1
+item,"i_category IN ('Jewelry', 'Music', 'Women') and i_manager_id IN (2, 27, 28, 44, 45, 61, 63, 73, 75, 99)",1
+item,"i_category IN ('Jewelry', 'Music', 'Women') and i_manager_id IN (21, 23, 24, 28, 39, 67, 69, 84, 85, 86)",1
+item,"i_category IN ('Jewelry', 'Sports', 'Women') and i_manager_id IN (9, 18, 25, 28, 44, 49, 65, 75, 89, 91)",1
+web_sales,ws_wholesale_cost BETWEEN 1 AND 21,1
+web_sales,ws_wholesale_cost BETWEEN 10 AND 30,1
+web_sales,ws_wholesale_cost BETWEEN 100 AND 120,1
+web_sales,ws_wholesale_cost BETWEEN 11 AND 31,2
+web_sales,ws_wholesale_cost BETWEEN 15 AND 35,1
+web_sales,ws_wholesale_cost BETWEEN 18 AND 38,1
+web_sales,ws_wholesale_cost BETWEEN 19 AND 39,1
+web_sales,ws_wholesale_cost BETWEEN 2 AND 22,2
+web_sales,ws_wholesale_cost BETWEEN 21 AND 41,2
+web_sales,ws_wholesale_cost BETWEEN 22 AND 42,2
+web_sales,ws_wholesale_cost BETWEEN 24 AND 44,3
+web_sales,ws_wholesale_cost BETWEEN 25 AND 45,1
+web_sales,ws_wholesale_cost BETWEEN 26 AND 46,1
+web_sales,ws_wholesale_cost BETWEEN 27 AND 47,1
+web_sales,ws_wholesale_cost BETWEEN 29 AND 49,1
+web_sales,ws_wholesale_cost BETWEEN 3 AND 23,2
+web_sales,ws_wholesale_cost BETWEEN 30 AND 50,2
+web_sales,ws_wholesale_cost BETWEEN 31 AND 51,2
+web_sales,ws_wholesale_cost BETWEEN 32 AND 52,3
+web_sales,ws_wholesale_cost BETWEEN 34 AND 54,1
+web_sales,ws_wholesale_cost BETWEEN 38 AND 58,1
+web_sales,ws_wholesale_cost BETWEEN 39 AND 59,1
+web_sales,ws_wholesale_cost BETWEEN 4 AND 24,1
+web_sales,ws_wholesale_cost BETWEEN 40 AND 60,1
+web_sales,ws_wholesale_cost BETWEEN 41 AND 61,1
+web_sales,ws_wholesale_cost BETWEEN 43 AND 63,1
+web_sales,ws_wholesale_cost BETWEEN 44 AND 64,1
+web_sales,ws_wholesale_cost BETWEEN 47 AND 67,1
+web_sales,ws_wholesale_cost BETWEEN 48 AND 68,1
+web_sales,ws_wholesale_cost BETWEEN 49 AND 69,4
+web_sales,ws_wholesale_cost BETWEEN 5 AND 25,2
+web_sales,ws_wholesale_cost BETWEEN 54 AND 74,3
+web_sales,ws_wholesale_cost BETWEEN 57 AND 77,4
+web_sales,ws_wholesale_cost BETWEEN 58 AND 78,1
+web_sales,ws_wholesale_cost BETWEEN 59 AND 79,1
+web_sales,ws_wholesale_cost BETWEEN 6 AND 26,1
+web_sales,ws_wholesale_cost BETWEEN 61 AND 81,2
+web_sales,ws_wholesale_cost BETWEEN 63 AND 83,1
+web_sales,ws_wholesale_cost BETWEEN 64 AND 84,1
+web_sales,ws_wholesale_cost BETWEEN 65 AND 85,1
+web_sales,ws_wholesale_cost BETWEEN 67 AND 87,1
+web_sales,ws_wholesale_cost BETWEEN 68 AND 88,2
+web_sales,ws_wholesale_cost BETWEEN 69 AND 89,2
+web_sales,ws_wholesale_cost BETWEEN 71 AND 91,1
+web_sales,ws_wholesale_cost BETWEEN 73 AND 93,1
+web_sales,ws_wholesale_cost BETWEEN 74 AND 94,5
+web_sales,ws_wholesale_cost BETWEEN 75 AND 95,2
+web_sales,ws_wholesale_cost BETWEEN 77 AND 97,1
+web_sales,ws_wholesale_cost BETWEEN 79 AND 99,1
+web_sales,ws_wholesale_cost BETWEEN 8 AND 28,1
+web_sales,ws_wholesale_cost BETWEEN 80 AND 100,18
+web_sales,ws_wholesale_cost BETWEEN 9 AND 29,4
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

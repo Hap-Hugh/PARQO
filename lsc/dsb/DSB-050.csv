@@ -1,0 +1,134 @@
+Table,Condition,Frequency
+d1,d1.d_dow = 1,13
+d1,d1.d_dow = 2,17
+d1,d1.d_dow = 3,19
+d1,d1.d_dow = 4,8
+d1,d1.d_dow = 5,15
+d1,d1.d_dow = 6,14
+d1,d1.d_dow = 7,14
+d2,d2.d_moy = 1,9
+d2,d2.d_moy = 10,11
+d2,d2.d_moy = 11,11
+d2,d2.d_moy = 12,10
+d2,d2.d_moy = 2,4
+d2,d2.d_moy = 3,9
+d2,d2.d_moy = 4,4
+d2,d2.d_moy = 5,9
+d2,d2.d_moy = 6,3
+d2,d2.d_moy = 7,6
+d2,d2.d_moy = 8,11
+d2,d2.d_moy = 9,13
+store,"s_state in ('AK', 'KS', 'MD')",1
+store,"s_state in ('AK', 'MO', 'OH')",1
+store,"s_state in ('AL', 'AR', 'KY')",1
+store,"s_state in ('AL', 'FL', 'NJ')",1
+store,"s_state in ('AL', 'FL', 'TX')",1
+store,"s_state in ('AL', 'IL', 'ND')",1
+store,"s_state in ('AL', 'IL', 'WI')",1
+store,"s_state in ('AL', 'KY', 'TX')",1
+store,"s_state in ('AL', 'OR', 'WI')",1
+store,"s_state in ('AR', 'CT', 'PA')",1
+store,"s_state in ('AR', 'GA', 'IL')",2
+store,"s_state in ('AR', 'IN', 'MN')",1
+store,"s_state in ('AR', 'LA', 'TN')",1
+store,"s_state in ('AR', 'NE', 'OK')",1
+store,"s_state in ('AR', 'TX', 'WA')",1
+store,"s_state in ('CA', 'KS', 'KY')",1
+store,"s_state in ('CA', 'KS', 'ND')",1
+store,"s_state in ('CA', 'MI', 'NC')",1
+store,"s_state in ('CA', 'MI', 'TX')",1
+store,"s_state in ('CA', 'MN', 'TX')",1
+store,"s_state in ('CA', 'MT', 'VA')",1
+store,"s_state in ('CA', 'NE', 'SC')",1
+store,"s_state in ('CO', 'IA', 'KS')",1
+store,"s_state in ('CO', 'IA', 'PA')",1
+store,"s_state in ('CO', 'IN', 'NC')",1
+store,"s_state in ('CO', 'KY', 'NY')",1
+store,"s_state in ('CO', 'OH', 'SC')",1
+store,"s_state in ('FL', 'GA', 'IL')",1
+store,"s_state in ('FL', 'GA', 'MN')",1
+store,"s_state in ('FL', 'IL', 'NM')",1
+store,"s_state in ('FL', 'MO', 'TX')",1
+store,"s_state in ('GA', 'IA', 'ND')",1
+store,"s_state in ('GA', 'IA', 'SC')",1
+store,"s_state in ('GA', 'IL', 'KS')",1
+store,"s_state in ('GA', 'IL', 'SC')",1
+store,"s_state in ('GA', 'IN', 'MT')",1
+store,"s_state in ('GA', 'IN', 'VA')",1
+store,"s_state in ('GA', 'KS', 'OH')",1
+store,"s_state in ('GA', 'MA', 'SC')",1
+store,"s_state in ('GA', 'MI', 'PA')",1
+store,"s_state in ('GA', 'MI', 'SC')",1
+store,"s_state in ('GA', 'OH', 'TX')",1
+store,"s_state in ('GA', 'OR', 'WI')",1
+store,"s_state in ('GA', 'SC', 'WY')",1
+store,"s_state in ('IA', 'IN', 'TX')",1
+store,"s_state in ('IA', 'KS', 'ND')",1
+store,"s_state in ('IA', 'ME', 'NC')",1
+store,"s_state in ('IA', 'MS', 'NE')",1
+store,"s_state in ('IA', 'ND', 'WI')",1
+store,"s_state in ('ID', 'SC', 'TX')",1
+store,"s_state in ('ID', 'SD', 'TX')",1
+store,"s_state in ('IL', 'IN', 'TN')",1
+store,"s_state in ('IL', 'MO', 'TX')",1
+store,"s_state in ('IL', 'SD', 'TN')",1
+store,"s_state in ('IN', 'MD', 'WV')",1
+store,"s_state in ('IN', 'NE', 'VA')",1
+store,"s_state in ('IN', 'PA', 'VA')",1
+store,"s_state in ('IN', 'SD', 'UT')",1
+store,"s_state in ('KS', 'ME', 'MO')",1
+store,"s_state in ('KS', 'NE', 'SD')",1
+store,"s_state in ('KS', 'NJ', 'SC')",1
+store,"s_state in ('KS', 'OH', 'TX')",1
+store,"s_state in ('KS', 'TN', 'TX')",1
+store,"s_state in ('KS', 'TN', 'UT')",1
+store,"s_state in ('KY', 'MN', 'WI')",1
+store,"s_state in ('KY', 'NE', 'TN')",1
+store,"s_state in ('KY', 'NV', 'VA')",1
+store,"s_state in ('KY', 'OH', 'VA')",1
+store,"s_state in ('KY', 'OK', 'TX')",1
+store,"s_state in ('LA', 'MN', 'TX')",1
+store,"s_state in ('MA', 'NM', 'NY')",1
+store,"s_state in ('MI', 'MN', 'VT')",1
+store,"s_state in ('MI', 'MO', 'NC')",1
+store,"s_state in ('MI', 'MO', 'WI')",1
+store,"s_state in ('MI', 'MS', 'OH')",1
+store,"s_state in ('MI', 'NE', 'TX')",1
+store,"s_state in ('MI', 'NV', 'TX')",1
+store,"s_state in ('MI', 'NY', 'TX')",1
+store,"s_state in ('MI', 'OK', 'PA')",1
+store,"s_state in ('MI', 'TN', 'WA')",1
+store,"s_state in ('MN', 'NC', 'TX')",1
+store,"s_state in ('MN', 'NE', 'NV')",1
+store,"s_state in ('MN', 'NY', 'WV')",1
+store,"s_state in ('MN', 'SC', 'SD')",1
+store,"s_state in ('MN', 'TN', 'TX')",1
+store,"s_state in ('MN', 'TX', 'UT')",1
+store,"s_state in ('MO', 'OH', 'SC')",1
+store,"s_state in ('MS', 'ND', 'OK')",1
+store,"s_state in ('MS', 'NY', 'SC')",1
+store,"s_state in ('MS', 'OH', 'TN')",1
+store,"s_state in ('MS', 'TX', 'WI')",1
+store,"s_state in ('MS', 'TX', 'WY')",1
+store,"s_state in ('MT', 'OH', 'TX')",1
+store,"s_state in ('NC', 'OH', 'PA')",1
+store,"s_state in ('NE', 'OH', 'WY')",1
+store,"s_state in ('NE', 'SC', 'VA')",1
+store,"s_state in ('NE', 'TN', 'WI')",1
+store,"s_state in ('NV', 'TN', 'TX')",1
+store,"s_state in ('OH', 'SD', 'TX')",1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

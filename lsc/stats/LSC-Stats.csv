@@ -1,0 +1,369 @@
+Table,Condition,Frequency
+u,u.UpVotes >= 0,4
+u,u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.CreationDate >= '2010-08-23 16:21:10'::timestamp AND u.CreationDate <= '2014-09-02 09:50:06'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 487 AND u.UpVotes <= 27 AND u.CreationDate >= '2010-10-22 22:40:35'::timestamp AND u.CreationDate <= '2014-09-10 17:01:31'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 691,1
+u,u.UpVotes = 0 AND u.CreationDate <= '2014-09-12 03:25:34'::timestamp,1
+u,u.DownVotes >= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 17 AND u.CreationDate >= '2010-08-06 07:03:05'::timestamp AND u.CreationDate <= '2014-09-08 04:18:44'::timestamp,1
+u,u.CreationDate <= '2014-09-12 07:12:16'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 6524 AND u.Views >= 0,1
+u,u.UpVotes >= 0 AND u.CreationDate >= '2010-07-27 17:15:57'::timestamp AND u.CreationDate <= '2014-09-03 12:47:42'::timestamp,1
+u,u.CreationDate >= '2010-07-22 04:38:06'::timestamp AND u.CreationDate <= '2014-09-08 15:55:02'::timestamp,1
+u,u.DownVotes >= 0 AND u.DownVotes <= 0,1
+u,u.DownVotes = 0,1
+u,u.UpVotes >= 0 AND u.CreationDate >= '2010-08-21 21:27:38'::timestamp,1
+u,u.UpVotes >= 0 AND u.UpVotes <= 12 AND u.CreationDate >= '2010-07-19 19:09:39'::timestamp,1
+u,u.Reputation >= 1,4
+u,u.DownVotes <= 2 AND u.UpVotes >= 0 AND u.CreationDate >= '2010-11-26 03:34:11'::timestamp,1
+u,u.CreationDate >= '2010-11-16 06:03:04'::timestamp,1
+u,u.Views >= 0 AND u.Views <= 783 AND u.DownVotes >= 0 AND u.DownVotes <= 1 AND u.UpVotes <= 123,1
+u,u.Reputation >= 1 AND u.Views >= 0 AND u.Views <= 110 AND u.UpVotes = 0 AND u.CreationDate >= '2010-07-28 19:29:11'::timestamp AND u.CreationDate <= '2014-08-14 05:29:30'::timestamp,1
+u,u.CreationDate >= '2010-07-20 01:27:29'::timestamp,2
+u,u.DownVotes <= 57 AND u.CreationDate >= '2010-08-26 09:01:31'::timestamp AND u.CreationDate <= '2014-08-10 11:01:39'::timestamp,1
+u,u.UpVotes >= 0 AND u.UpVotes <= 18,1
+u,u.Reputation >= 1 AND u.Reputation <= 356 AND u.DownVotes <= 34 AND u.CreationDate >= '2010-07-19 21:29:29'::timestamp AND u.CreationDate <= '2014-08-20 14:31:46'::timestamp,1
+u,u.Views <= 40 AND u.CreationDate >= '2010-07-26 19:11:25'::timestamp AND u.CreationDate <= '2014-09-11 22:26:42'::timestamp,1
+u,u.Views <= 33 AND u.DownVotes >= 0 AND u.CreationDate >= '2010-08-19 17:31:36'::timestamp AND u.CreationDate <= '2014-08-06 07:23:12'::timestamp,1
+u,u.Reputation >= 1 AND u.UpVotes >= 0 AND u.UpVotes <= 117,1
+u,u.Views >= 0 AND u.DownVotes >= 0 AND u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 37,1
+u,u.Views = 5 AND u.DownVotes >= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 224 AND u.CreationDate <= '2014-09-04 04:41:22'::timestamp,1
+u,u.DownVotes >= 0,5
+u,u.UpVotes = 0,1
+u,u.DownVotes <= 11 AND u.CreationDate >= '2010-07-31 17:32:56'::timestamp AND u.CreationDate <= '2014-09-07 16:06:26'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 113 AND u.Views >= 0 AND u.Views <= 51,1
+u,u.Views >= 0 AND u.Views <= 75,1
+u,u.Views <= 233 AND u.DownVotes <= 2 AND u.CreationDate >= '2010-09-16 16:00:55'::timestamp AND u.CreationDate <= '2014-08-24 21:12:02'::timestamp,1
+u,u.CreationDate >= '2011-02-08 18:11:37'::timestamp,1
+u,u.DownVotes <= 0,1
+u,u.Views >= 0 AND u.Views <= 515 AND u.UpVotes >= 0 AND u.CreationDate <= '2014-09-07 13:46:41'::timestamp,1
+u,u.Views >= 0 AND u.DownVotes >= 0 AND u.CreationDate >= '2010-08-04 16:59:53'::timestamp AND u.CreationDate <= '2014-07-22 15:15:22'::timestamp,1
+u,u.Reputation >= 1 AND u.DownVotes >= 0 AND u.DownVotes <= 0 AND u.UpVotes <= 439 AND u.CreationDate <= '2014-08-07 11:18:45'::timestamp,1
+u,u.Views <= 190 AND u.CreationDate >= '2010-07-20 08:05:39'::timestamp AND u.CreationDate <= '2014-08-27 09:31:28'::timestamp,1
+u,u.Reputation >= 1 AND u.CreationDate >= '2011-02-17 03:42:02'::timestamp AND u.CreationDate <= '2014-09-01 10:54:39'::timestamp,1
+u,u.Views <= 160 AND u.CreationDate >= '2010-07-27 12:58:30'::timestamp AND u.CreationDate <= '2014-07-12 20:08:07'::timestamp,1
+u,u.Reputation >= 1 AND u.DownVotes >= 0,1
+u,u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.CreationDate >= '2010-09-18 01:58:41'::timestamp,1
+u,u.Views >= 0 AND u.CreationDate <= '2014-08-19 21:33:14'::timestamp,1
+u,u.Reputation <= 270 AND u.Views >= 0 AND u.Views <= 51 AND u.DownVotes >= 0,1
+u,u.Reputation <= 312 AND u.DownVotes <= 0,1
+u,u.Views <= 86 AND u.DownVotes >= 0 AND u.DownVotes <= 1 AND u.UpVotes <= 6,1
+u,u.Reputation >= 1 AND u.Views >= 0 AND u.CreationDate >= '2010-08-19 06:26:34'::timestamp AND u.CreationDate <= '2014-09-11 05:22:26'::timestamp,1
+u,u.Reputation <= 240,1
+u,u.Reputation >= 1 AND u.CreationDate >= '2010-08-03 19:42:40'::timestamp AND u.CreationDate <= '2014-09-12 02:20:03'::timestamp,1
+u,u.Reputation >= 1 AND u.Views <= 80 AND u.UpVotes >= 0 AND u.CreationDate >= '2010-08-02 20:31:12'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 7931 AND u.Views <= 109 AND u.DownVotes >= 0 AND u.CreationDate <= '2014-09-12 13:12:56'::timestamp,1
+u,u.CreationDate <= '2014-09-03 01:06:41'::timestamp,1
+u,u.CreationDate >= '2010-07-19 20:11:48'::timestamp AND u.CreationDate <= '2014-07-09 20:37:10'::timestamp,1
+u,u.Views >= 0 AND u.Views <= 74,1
+u,u.Views >= 0 AND u.DownVotes >= 0 AND u.DownVotes <= 2,1
+u,u.DownVotes = 0 AND u.UpVotes >= 0 AND u.UpVotes <= 244,1
+u,u.Views >= 0 AND u.UpVotes >= 0 AND u.CreationDate >= '2010-11-27 21:46:49'::timestamp AND u.CreationDate <= '2014-08-18 13:00:22'::timestamp,1
+u,u.Reputation >= 1 AND u.UpVotes <= 198 AND u.CreationDate >= '2010-07-19 20:49:05'::timestamp,1
+u,u.UpVotes >= 0 AND u.UpVotes <= 9,1
+u,u.Views >= 0,2
+u,u.CreationDate >= '2010-12-15 06:00:24'::timestamp,1
+u,u.Views >= 0 AND u.CreationDate >= '2010-07-27 09:38:05'::timestamp,1
+u,u.UpVotes >= 0 AND u.CreationDate >= '2010-10-05 05:52:35'::timestamp AND u.CreationDate <= '2014-09-08 15:55:02'::timestamp,1
+u,u.Reputation <= 306 AND u.UpVotes >= 0,1
+u,u.Reputation >= 1 AND u.CreationDate >= '2010-07-19 19:08:49'::timestamp AND u.CreationDate <= '2014-08-28 12:15:56'::timestamp,1
+u,u.Reputation >= 1 AND u.DownVotes >= 0 AND u.DownVotes <= 1,1
+u,u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 72,1
+u,u.Views <= 433 AND u.DownVotes >= 0 AND u.CreationDate <= '2014-09-12 21:37:39'::timestamp,1
+u,u.Reputation >= 1 AND u.Views >= 0 AND u.DownVotes >= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 15 AND u.CreationDate >= '2010-09-03 11:45:16'::timestamp AND u.CreationDate <= '2014-08-18 17:19:53'::timestamp,1
+u,u.DownVotes <= 0 AND u.UpVotes <= 47,1
+u,u.Views >= 0 AND u.DownVotes >= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 62 AND u.CreationDate >= '2010-07-27 17:10:30'::timestamp AND u.CreationDate <= '2014-07-31 18:48:36'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 1443 AND u.DownVotes >= 0 AND u.DownVotes <= 3,1
+u,u.Reputation >= 1 AND u.Reputation <= 1183 AND u.Views >= 0,1
+u,u.Views >= 0 AND u.Views <= 34 AND u.UpVotes >= 0,1
+u,u.DownVotes = 0 AND u.CreationDate <= '2014-08-08 07:03:29'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 750,1
+u,u.CreationDate >= '2010-07-27 02:56:06'::timestamp AND u.CreationDate <= '2014-09-10 10:44:00'::timestamp,1
+u,u.Reputation <= 705 AND u.CreationDate >= '2010-07-28 23:56:00'::timestamp AND u.CreationDate <= '2014-09-02 10:04:41'::timestamp,1
+u,u.CreationDate <= '2014-09-12 22:21:49'::timestamp,1
+u,u.DownVotes >= 0 AND u.DownVotes <= 3 AND u.UpVotes >= 0 AND u.UpVotes <= 71,1
+u,u.Reputation <= 126 AND u.Views <= 11 AND u.CreationDate >= '2010-08-02 16:17:58'::timestamp AND u.CreationDate <= '2014-09-12 00:16:30'::timestamp,1
+u,u.Reputation >= 1 AND u.Reputation <= 491 AND u.DownVotes >= 0 AND u.DownVotes <= 0,1
+u,u.UpVotes <= 230 AND u.CreationDate >= '2010-09-22 01:07:10'::timestamp AND u.CreationDate <= '2014-08-15 05:52:23'::timestamp,1
+u,u.Views >= 0 AND u.Views <= 13,1
+u,u.DownVotes >= 0 AND u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 31 AND u.CreationDate <= '2014-08-06 20:38:52'::timestamp,1
+u,u.Views = 0 AND u.DownVotes >= 0 AND u.DownVotes <= 60,1
+u,u.DownVotes <= 0 AND u.UpVotes >= 0 AND u.UpVotes <= 123,1
+u,u.Reputation >= 1,1
+u,u.Reputation >= 1 AND u.Reputation <= 642 AND u.DownVotes >= 0,1
+u,u.UpVotes >= 0 AND u.CreationDate <= '2014-09-11 20:31:48'::timestamp,1
+u,u.DownVotes >= 0 AND u.UpVotes >= 0,1
+,,
+c,c.Score = 0,20
+c,c.Score = 0,1
+c,c.CreationDate >= '2010-08-05 00:36:02'::timestamp AND c.CreationDate <= '2014-09-08 16:50:49'::timestamp,1
+c,c.CreationDate >= '2010-08-10 17:55:45'::timestamp,1
+c,c.CreationDate >= '2010-10-01 20:45:26'::timestamp AND c.CreationDate <= '2014-09-05 12:51:17'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-07-24 06:46:49'::timestamp,2
+c,c.CreationDate >= '2010-08-02 23:52:10'::timestamp,1
+c,c.CreationDate >= '2010-07-21 11:05:37'::timestamp AND c.CreationDate <= '2014-08-25 17:59:25'::timestamp,1
+c,c.Score = 0 AND c.CreationDate <= '2014-09-13 20:12:15'::timestamp,1
+c,c.CreationDate >= '2010-08-12 20:33:46'::timestamp AND c.CreationDate <= '2014-09-13 19:26:55'::timestamp,1
+c,c.Score = 1 AND c.CreationDate >= '2010-07-20 23:17:28'::timestamp,2
+c,c.Score = 0 AND c.CreationDate >= '2010-09-05 16:04:35'::timestamp AND c.CreationDate <= '2014-09-11 04:35:36'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-07-20 10:52:57'::timestamp,1
+c,c.CreationDate >= '2010-08-01 12:12:41'::timestamp,2
+c,c.CreationDate >= '2010-07-20 21:37:31'::timestamp,1
+c,c.Score = 1,2
+c,c.CreationDate >= '2010-07-31 05:18:59'::timestamp AND c.CreationDate <= '2014-09-12 07:59:13'::timestamp,1
+c,c.CreationDate <= '2014-09-08 15:58:08'::timestamp,1
+c,c.CreationDate >= '2010-08-06 12:21:39'::timestamp AND c.CreationDate <= '2014-09-11 20:55:34'::timestamp,1
+c,c.Score = 2,3
+c,c.CreationDate <= '2014-09-11 13:24:22'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-07-20 06:26:28'::timestamp AND c.CreationDate <= '2014-09-11 18:45:09'::timestamp,1
+c,c.CreationDate >= '2010-07-26 20:21:15'::timestamp AND c.CreationDate <= '2014-09-13 01:26:16'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-08-02 20:27:48'::timestamp AND c.CreationDate <= '2014-09-10 16:09:23'::timestamp,1
+c,c.CreationDate >= '2010-07-26 20:21:15'::timestamp AND c.CreationDate <= '2014-09-13 18:12:10'::timestamp,1
+c,c.CreationDate >= '2010-07-22 01:19:43'::timestamp,1
+c,c.Score = 0 AND c.CreationDate <= '2014-09-09 19:58:29'::timestamp,1
+c,c.CreationDate >= '2010-07-27 17:46:38'::timestamp,1
+c,c.CreationDate >= '2010-08-09 07:24:50'::timestamp AND c.CreationDate <= '2014-09-10 03:46:02'::timestamp,1
+c,c.CreationDate >= '2010-07-27 15:46:34'::timestamp AND c.CreationDate <= '2014-09-12 08:15:14'::timestamp,1
+c,c.CreationDate >= '2010-08-12 20:27:30'::timestamp AND c.CreationDate <= '2014-09-12 12:49:19'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-08-26 06:55:11'::timestamp,1
+c,c.CreationDate >= '2010-07-27 12:03:40'::timestamp,1
+c,c.Score = 0 AND c.CreationDate <= '2014-09-10 02:47:53'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-07-19 19:56:21'::timestamp AND c.CreationDate <= '2014-09-11 13:36:12'::timestamp,1
+c,c.CreationDate <= '2014-08-28 07:25:55'::timestamp,1
+c,c.Score = 1 AND c.CreationDate >= '2010-08-27 14:12:07'::timestamp,1
+c,c.CreationDate <= '2014-09-10 00:33:30'::timestamp,1
+c,c.CreationDate <= '2014-08-28 00:18:24'::timestamp,1
+c,c.CreationDate <= '2014-09-10 02:42:35'::timestamp,1
+c,c.CreationDate >= '2010-07-11 12:25:05'::timestamp AND c.CreationDate <= '2014-09-11 13:43:09'::timestamp,1
+c,c.CreationDate >= '2010-08-19 09:33:49'::timestamp AND c.CreationDate <= '2014-08-28 06:54:21'::timestamp,1
+c,c.CreationDate <= '2014-09-13 20:12:15'::timestamp,1
+c,c.Score = 0 AND c.CreationDate >= '2010-07-26 17:09:48'::timestamp,1
+c,c.CreationDate >= '2010-08-01 19:11:47'::timestamp AND c.CreationDate <= '2014-09-11 13:42:51'::timestamp,1
+c,c.CreationDate >= '2010-07-26 19:37:03'::timestamp,1
+,,
+b,b.Date <= '2014-09-11 14:33:06'::timestamp,1
+b,b.Date <= '2014-09-11 08:55:52'::timestamp,1
+b,b.Date >= '2010-07-19 20:34:06'::timestamp AND b.Date <= '2014-09-12 15:11:36'::timestamp,2
+b,b.Date >= '2010-07-19 20:54:06'::timestamp,1
+b,b.Date >= '2010-07-20 19:02:22'::timestamp AND b.Date <= '2014-09-03 23:36:09'::timestamp,1
+b,b.Date >= '2011-01-03 20:50:19'::timestamp AND b.Date <= '2014-09-02 15:35:07'::timestamp,1
+b,b.Date <= '2014-09-04 08:54:56'::timestamp,1
+b,b.Date <= '2014-09-10 22:50:06'::timestamp,1
+b,b.Date >= '2010-07-19 19:39:10'::timestamp AND b.Date <= '2014-09-05 18:37:48'::timestamp,1
+b,b.Date <= '2014-08-25 19:05:46'::timestamp,1
+b,b.Date >= '2010-10-20 08:33:44'::timestamp,1
+b,b.Date >= '2010-07-27 17:58:45'::timestamp AND b.Date <= '2014-09-06 17:33:22'::timestamp,1
+b,b.Date <= '2014-08-22 02:21:55'::timestamp,1
+b,b.Date <= '2014-09-12 12:56:22'::timestamp,1
+b,b.Date <= '2014-09-09 10:24:35'::timestamp,1
+b,b.Date >= '2010-07-30 03:49:24'::timestamp,1
+b,b.Date <= '2014-08-20 12:16:56'::timestamp,1
+b,b.Date >= '2010-08-01 02:54:53'::timestamp,1
+b,b.Date <= '2014-09-11 18:35:08'::timestamp,1
+b,b.Date <= '2014-09-11 07:27:36'::timestamp,1
+b,b.Date <= '2014-08-19 10:32:13'::timestamp,1
+b,b.Date <= '2014-09-02 23:33:16'::timestamp,1
+b,b.Date >= '2010-09-15 02:50:48'::timestamp,1
+b,b.Date >= '2010-07-20 10:34:10'::timestamp,1
+b,b.Date >= '2010-07-20 20:47:27'::timestamp AND b.Date <= '2014-09-09 13:24:28'::timestamp,1
+b,b.Date >= '2010-07-19 21:54:06'::timestamp,1
+b,b.Date <= '2014-09-03 16:13:12'::timestamp,1
+b,b.Date >= '2010-09-26 12:17:14'::timestamp,1
+b,b.Date <= '2014-09-06 17:33:22'::timestamp,1
+b,b.Date >= '2010-08-04 08:50:31'::timestamp AND b.Date <= '2014-09-02 02:51:22'::timestamp,1
+b,b.Date >= '2010-08-06 10:36:45'::timestamp AND b.Date <= '2014-09-12 07:19:35'::timestamp,1
+b,b.Date <= '2014-08-02 12:24:29'::timestamp,1
+b,b.Date <= '2014-09-11 21:46:02'::timestamp,1
+,,
+ph,ph.PostHistoryTypeId = 1,1
+ph,ph.PostHistoryTypeId = 1 AND ph.CreationDate >= '2010-09-14 11:59:07'::timestamp,1
+ph,ph.CreationDate >= '2010-07-20 00:30:00'::timestamp,1
+ph,ph.CreationDate <= '2014-08-17 21:24:11'::timestamp,1
+ph,ph.CreationDate >= '2011-04-11 14:46:09'::timestamp AND ph.CreationDate <= '2014-08-17 16:37:23'::timestamp,1
+ph,ph.CreationDate >= '2011-05-07 21:47:19'::timestamp AND ph.CreationDate <= '2014-09-10 13:19:54'::timestamp,1
+ph,ph.PostHistoryTypeId = 1 AND ph.CreationDate >= '2010-07-26 20:01:58'::timestamp AND ph.CreationDate <= '2014-09-13 17:29:23'::timestamp,1
+ph,ph.PostHistoryTypeId = 5 AND ph.CreationDate >= '2011-01-31 15:35:37'::timestamp,1
+ph,ph.PostHistoryTypeId = 3,2
+ph,ph.CreationDate >= '2010-09-06 11:41:43'::timestamp AND ph.CreationDate <= '2014-09-03 16:41:18'::timestamp,1
+ph,ph.PostHistoryTypeId = 2,6
+ph,ph.CreationDate >= '2010-09-20 19:11:45'::timestamp,2
+ph,ph.PostHistoryTypeId = 12,1
+ph,ph.PostHistoryTypeId = 5 AND ph.CreationDate <= '2014-08-13 09:20:10'::timestamp,1
+ph,ph.CreationDate >= '2011-01-03 23:47:35'::timestamp AND ph.CreationDate <= '2014-09-08 12:48:36'::timestamp,1
+ph,ph.PostHistoryTypeId = 5,3
+ph,ph.PostHistoryTypeId = 2 AND ph.CreationDate <= '2014-08-07 12:06:00'::timestamp,1
+ph,ph.PostHistoryTypeId = 1,2
+ph,ph.PostHistoryTypeId = 34,1
+ph,ph.CreationDate >= '2010-09-20 17:45:15'::timestamp AND ph.CreationDate <= '2014-08-07 01:00:45'::timestamp,1
+ph,ph.CreationDate >= '2011-05-20 18:43:03'::timestamp,1
+ph,ph.CreationDate >= '2010-08-21 05:30:40'::timestamp,1
+ph,ph.CreationDate <= '2014-09-05 06:39:25'::timestamp,1
+ph,ph.CreationDate >= '2010-07-28 09:11:34'::timestamp AND ph.CreationDate <= '2014-09-06 06:51:53'::timestamp,1
+ph,ph.CreationDate <= '2014-06-18 17:14:07'::timestamp,1
+ph,ph.PostHistoryTypeId = 2 AND ph.CreationDate <= '2014-08-01 13:56:22'::timestamp,1
+ph,ph.CreationDate >= '2010-08-19 12:45:55'::timestamp AND ph.CreationDate <= '2014-09-03 21:46:37'::timestamp,1
+ph,ph.CreationDate >= '2010-07-21 00:44:08'::timestamp,1
+ph,ph.CreationDate <= '2014-07-28 13:25:35'::timestamp,1
+ph,ph.CreationDate >= '2010-07-19 19:52:31'::timestamp,1
+ph,ph.PostHistoryTypeId = 2 AND ph.CreationDate >= '2011-01-08 03:03:48'::timestamp AND ph.CreationDate <= '2014-08-25 14:04:43'::timestamp,1
+ph,ph.CreationDate >= '2010-07-27 18:08:19'::timestamp AND ph.CreationDate <= '2014-09-10 08:22:43'::timestamp,1
+ph,ph.CreationDate >= '2010-08-06 03:14:53'::timestamp,1
+ph,ph.CreationDate <= '2014-09-02 07:58:47'::timestamp,1
+ph,ph.PostHistoryTypeId = 2 AND ph.CreationDate >= '2010-11-05 01:25:39'::timestamp AND ph.CreationDate <= '2014-09-09 07:14:12'::timestamp,1
+ph,ph.CreationDate <= '2014-08-18 08:54:12'::timestamp,1
+ph,ph.CreationDate <= '2014-09-11 20:09:41'::timestamp,1
+ph,ph.CreationDate >= '2010-11-27 03:38:45'::timestamp,1
+,,
+p,p.AnswerCount >= 0 AND p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.CommentCount <= 17,1
+p,p.CommentCount <= 18 AND p.CreationDate >= '2010-07-23 07:27:31'::timestamp AND p.CreationDate <= '2014-09-09 01:43:00'::timestamp,1
+p,p.CreationDate >= '2010-09-06 00:58:21'::timestamp AND p.CreationDate <= '2014-09-12 10:02:21'::timestamp,1
+p,p.CommentCount >= 0 AND p.CommentCount <= 25,1
+p,p.ViewCount >= 0 AND p.ViewCount <= 2897 AND p.CommentCount >= 0 AND p.CommentCount <= 16 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 10,1
+p,p.Score >= 0 AND p.Score <= 15 AND p.ViewCount >= 0 AND p.ViewCount <= 3002 AND p.AnswerCount <= 3 AND p.CommentCount <= 10,1
+p,p.CreationDate >= '2010-07-20 02:01:05'::timestamp,1
+p,p.CreationDate >= '2010-07-19 20:08:37'::timestamp,1
+p,p.CommentCount <= 17,1
+p,p.CreationDate >= '2010-07-26 19:26:37'::timestamp AND p.CreationDate <= '2014-08-22 14:43:39'::timestamp,1
+p,p.Score >= -1 AND p.CreationDate >= '2010-10-21 13:21:24'::timestamp AND p.CreationDate <= '2014-09-09 15:12:22'::timestamp,1
+p,p.CommentCount >= 0 AND p.CommentCount <= 12,1
+p,p.Score >= -3,1
+p,p.CreationDate >= '2010-07-27 01:51:15'::timestamp,1
+p,p.Score <= 22,1
+p,p.PostTypeId = 1 AND p.Score >= -1 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 20,1
+p,p.Score >= 0 AND p.Score <= 30 AND p.CommentCount = 0 AND p.CreationDate >= '2010-07-27 15:30:31'::timestamp AND p.CreationDate <= '2014-09-04 17:45:10'::timestamp,1
+p,p.Score <= 48 AND p.AnswerCount <= 8,1
+p,p.Score >= -1 AND p.CommentCount <= 8 AND p.CreationDate >= '2010-07-21 12:30:43'::timestamp AND p.CreationDate <= '2014-09-07 01:11:03'::timestamp,1
+p,p.Score >= -1 AND p.Score <= 10 AND p.AnswerCount <= 5 AND p.CommentCount = 2 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 6,1
+p,p.PostTypeId = 1 AND p.Score >= -1 AND p.CommentCount >= 0 AND p.CommentCount <= 11,1
+p,p.Score >= -7,1
+p,p.Score >= -1 AND p.ViewCount >= 0 AND p.ViewCount <= 39097 AND p.AnswerCount >= 0 AND p.CommentCount >= 0 AND p.CommentCount <= 11 AND p.FavoriteCount <= 10 AND p.CreationDate >= '2010-08-13 02:18:09'::timestamp AND p.CreationDate <= '2014-09-09 10:20:27'::timestamp,1
+p,p.Score <= 44 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 3 AND p.CreationDate >= '2010-08-11 13:53:56'::timestamp AND p.CreationDate <= '2014-09-03 11:52:36'::timestamp,2
+p,p.Score <= 13 AND p.AnswerCount >= 0 AND p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.FavoriteCount <= 2,1
+p,p.Score >= -1 AND p.Score <= 29 AND p.CreationDate >= '2010-07-19 20:40:36'::timestamp AND p.CreationDate <= '2014-09-10 20:52:30'::timestamp,1
+p,p.Score >= -2 AND p.Score <= 23 AND p.ViewCount <= 2432 AND p.CommentCount = 0 AND p.FavoriteCount >= 0,1
+p,p.Score >= -2 AND p.ViewCount >= 0 AND p.ViewCount <= 18281,1
+p,p.PostTypeId = 1 AND p.Score <= 35 AND p.AnswerCount = 1 AND p.CommentCount <= 17 AND p.FavoriteCount >= 0,1
+p,p.ViewCount >= 0,2
+p,p.Score = 1 AND p.ViewCount >= 0 AND p.FavoriteCount >= 0,1
+p,p.CommentCount >= 0,3
+p,p.CommentCount >= 0 AND p.CommentCount <= 13,2
+p,p.AnswerCount >= 0 AND p.FavoriteCount >= 0,1
+p,p.Score >= 0 AND p.Score <= 13 AND p.FavoriteCount >= 0,1
+p,p.ViewCount <= 7710 AND p.CommentCount <= 12 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 4 AND p.CreationDate >= '2010-07-27 03:58:22'::timestamp,1
+p,p.AnswerCount >= 0 AND p.AnswerCount <= 4 AND p.CreationDate <= '2014-09-12 15:56:19'::timestamp,1
+p,p.PostTypeId = 1 AND p.Score = 2 AND p.FavoriteCount <= 12,1
+p,p.PostTypeId = 1 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 2,1
+p,p.Score >= -1 AND p.Score <= 19 AND p.CommentCount <= 13,1
+p,p.PostTypeId = 1 AND p.Score = 4 AND p.ViewCount <= 4937,1
+p,p.Score <= 32 AND p.ViewCount <= 4146,1
+p,p.Score <= 61 AND p.ViewCount <= 3627 AND p.AnswerCount >= 0 AND p.AnswerCount <= 5 AND p.CommentCount <= 8 AND p.FavoriteCount >= 0,1
+p,p.Score <= 67,1
+p,p.Score >= -1 AND p.ViewCount >= 0 AND p.CommentCount <= 9,1
+p,p.PostTypeId = 1 AND p.Score <= 192 AND p.ViewCount >= 0 AND p.ViewCount <= 2772 AND p.AnswerCount <= 5,1
+p,p.Score >= -4 AND p.ViewCount >= 0 AND p.ViewCount <= 5977 AND p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.CommentCount <= 11 AND p.CreationDate >= '2011-01-25 08:31:41'::timestamp,1
+p,p.PostTypeId = 1 AND p.ViewCount <= 4159 AND p.CommentCount >= 0 AND p.CommentCount <= 12,1
+p,p.ViewCount >= 0 AND p.AnswerCount >= 0 AND p.AnswerCount <= 7 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 17,1
+p,p.PostTypeId = 1 AND p.CommentCount >= 0 AND p.CommentCount <= 12 AND p.FavoriteCount >= 0,1
+p,p.Score <= 21 AND p.AnswerCount <= 3 AND p.FavoriteCount >= 0,1
+p,p.AnswerCount >= 0 AND p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.CommentCount <= 11 AND p.CreationDate >= '2010-07-26 09:46:48'::timestamp AND p.CreationDate <= '2014-09-13 10:09:50'::timestamp,1
+p,p.AnswerCount <= 5 AND p.CommentCount >= 0 AND p.CommentCount <= 11 AND p.FavoriteCount <= 27,1
+p,p.Score >= -1 AND p.CommentCount >= 0 AND p.CommentCount <= 23,1
+p,p.FavoriteCount <= 5,1
+p,p.Score >= 0,2
+p,p.CreationDate >= '2010-08-17 19:08:05'::timestamp AND p.CreationDate <= '2014-08-31 06:58:12'::timestamp,1
+p,p.PostTypeId = 2 AND p.CreationDate <= '2014-08-26 22:40:26'::timestamp,1
+p,p.Score >= 0 AND p.Score <= 28 AND p.ViewCount >= 0 AND p.ViewCount <= 6517 AND p.AnswerCount >= 0 AND p.AnswerCount <= 5 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 8 AND p.CreationDate >= '2010-07-27 11:29:20'::timestamp AND p.CreationDate <= '2014-09-13 02:50:15'::timestamp,1
+p,p.Score <= 52 AND p.AnswerCount >= 0,1
+p,p.Score >= 0 AND p.Score <= 16 AND p.ViewCount >= 0 AND p.CreationDate <= '2014-09-09 12:00:50'::timestamp,1
+p,p.Score >= 0 AND p.Score <= 19 AND p.CommentCount <= 10 AND p.CreationDate <= '2014-08-28 13:31:33'::timestamp,1
+p,p.AnswerCount >= 0 AND p.AnswerCount <= 7 AND p.CreationDate <= '2014-09-12 00:03:32'::timestamp,1
+p,p.PostTypeId = 1 AND p.CommentCount >= 0 AND p.CommentCount <= 15,1
+p,p.ViewCount >= 0 AND p.CommentCount >= 0,1
+p,p.PostTypeId = 1 AND p.AnswerCount >= 0 AND p.AnswerCount <= 4,1
+p,p.ViewCount >= 0 AND p.ViewCount <= 2024,1
+p,p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.CommentCount <= 12 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 89 AND p.CreationDate <= '2014-09-02 10:21:04'::timestamp,1
+p,p.PostTypeId = 2,1
+p,p.AnswerCount >= 0 AND p.FavoriteCount >= 0 AND p.CreationDate <= '2014-09-03 03:32:35'::timestamp,1
+p,p.FavoriteCount >= 0 AND p.CreationDate >= '2010-07-23 02:00:12'::timestamp AND p.CreationDate <= '2014-09-08 13:52:41'::timestamp,1
+p,p.Score >= -1 AND p.ViewCount <= 5896 AND p.AnswerCount >= 0 AND p.CreationDate >= '2010-07-29 15:57:21'::timestamp,1
+p,p.CommentCount >= 0 AND p.CommentCount <= 14,1
+p,p.AnswerCount >= 0 AND p.AnswerCount <= 9 AND p.CreationDate >= '2010-07-20 18:17:25'::timestamp AND p.CreationDate <= '2014-08-26 12:57:22'::timestamp,1
+p,p.ViewCount >= 0 AND p.AnswerCount >= 0 AND p.AnswerCount <= 5,1
+p,p.Score >= -2 AND p.CommentCount >= 0 AND p.CommentCount <= 12 AND p.FavoriteCount >= 0 AND p.FavoriteCount <= 6,1
+p,p.PostTypeId = 1 AND p.ViewCount >= 0 AND p.ViewCount <= 4157 AND p.FavoriteCount = 0 AND p.CreationDate <= '2014-09-08 09:58:16'::timestamp,1
+p,p.PostTypeId = 1 AND p.ViewCount >= 0 AND p.ViewCount <= 25597 AND p.CommentCount >= 0 AND p.CommentCount <= 11 AND p.FavoriteCount >= 0,1
+p,p.Score >= 0 AND p.Score <= 23 AND p.AnswerCount >= 0 AND p.AnswerCount <= 4 AND p.CommentCount >= 0 AND p.CommentCount <= 10 AND p.FavoriteCount <= 9 AND p.CreationDate >= '2010-07-22 12:17:20'::timestamp AND p.CreationDate <= '2014-09-12 00:27:12'::timestamp,1
+p,p.Score >= -1 AND p.Score <= 14,1
+p,p.ViewCount >= 0 AND p.AnswerCount <= 5 AND p.CommentCount <= 12 AND p.FavoriteCount >= 0,1
+p,p.Score <= 40 AND p.CommentCount >= 0 AND p.CreationDate >= '2010-07-28 17:40:56'::timestamp AND p.CreationDate <= '2014-09-11 04:22:44'::timestamp,1
+p,p.PostTypeId = 1 AND p.AnswerCount >= 0 AND p.CommentCount >= 0 AND p.CommentCount <= 14,1
+p,p.AnswerCount <= 4 AND p.FavoriteCount >= 0,1
+p,p.AnswerCount >= 0 AND p.CommentCount >= 0,1
+p,p.PostTypeId = 1 AND p.AnswerCount >= 0 AND p.CreationDate >= '2010-07-21 15:23:53'::timestamp AND p.CreationDate <= '2014-09-11 23:26:14'::timestamp,1
+p,p.Score >= -2 AND p.CommentCount <= 18 AND p.CreationDate >= '2010-07-21 13:50:08'::timestamp AND p.CreationDate <= '2014-09-11 00:53:10'::timestamp,1
+,,
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-07-09 22:35:44'::timestamp,1
+pl,pl.LinkTypeId = 1,5
+pl,pl.CreationDate <= '2014-08-17 01:23:50'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate <= '2014-08-11 17:26:31'::timestamp,2
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-04-12 15:23:59'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-03-11 18:50:29'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-03-07 16:05:24'::timestamp,1
+pl,pl.CreationDate >= '2010-08-13 11:42:08'::timestamp AND pl.CreationDate <= '2014-08-29 00:27:05'::timestamp,1
+pl,pl.CreationDate >= '2011-11-03 05:09:35'::timestamp,1
+pl,pl.CreationDate >= '2011-11-21 22:39:41'::timestamp AND pl.CreationDate <= '2014-09-01 16:29:56'::timestamp,1
+pl,pl.CreationDate >= '2011-03-22 06:18:34'::timestamp AND pl.CreationDate <= '2014-08-22 20:04:25'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2010-10-19 15:02:42'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-06-14 13:31:35'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-10-06 21:41:26'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-09-03 21:00:10'::timestamp AND pl.CreationDate <= '2014-07-30 21:29:52'::timestamp,1
+pl,pl.CreationDate <= '2014-06-25 13:05:06'::timestamp,1
+pl,pl.LinkTypeId = 1 AND pl.CreationDate >= '2011-02-16 20:04:50'::timestamp AND pl.CreationDate <= '2014-09-01 16:48:04'::timestamp,1
+pl,pl.LinkTypeId = 1,1
+pl,pl.CreationDate >= '2010-10-27 10:02:57'::timestamp AND pl.CreationDate <= '2014-09-04 17:23:50'::timestamp,1
+pl,pl.CreationDate >= '2010-11-16 01:27:37'::timestamp AND pl.CreationDate <= '2014-08-21 15:25:23'::timestamp,1
+pl,pl.CreationDate <= '2014-08-05 18:27:51'::timestamp,1
+,,
+v,v.BountyAmount <= 100,1
+v,v.CreationDate <= '2014-09-12 00:00:00'::timestamp,4
+v,v.BountyAmount >= 0 AND v.BountyAmount <= 50,1
+v,v.VoteTypeId = 2 AND v.CreationDate <= '2014-09-12 00:00:00'::timestamp,1
+v,v.BountyAmount <= 50 AND v.CreationDate <= '2014-09-12 00:00:00'::timestamp,1
+v,v.CreationDate <= '2014-09-06 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-26 00:00:00'::timestamp AND v.CreationDate <= '2014-09-12 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.CreationDate >= '2010-07-26 00:00:00'::timestamp AND v.CreationDate <= '2014-09-08 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.CreationDate <= '2014-09-11 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.BountyAmount <= 300 AND v.CreationDate >= '2010-07-29 00:00:00'::timestamp,1
+v,v.CreationDate <= '2014-09-11 00:00:00'::timestamp,2
+v,v.BountyAmount <= 50,2
+v,v.BountyAmount >= 0 AND v.BountyAmount <= 200,1
+v,v.CreationDate >= '2010-07-19 00:00:00'::timestamp,2
+v,v.CreationDate >= '2010-07-20 00:00:00'::timestamp,2
+v,v.VoteTypeId = 2 AND v.CreationDate <= '2014-09-11 00:00:00'::timestamp,1
+v,v.BountyAmount <= 100 AND v.CreationDate >= '2009-02-03 00:00:00'::timestamp AND v.CreationDate <= '2014-09-11 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-27 00:00:00'::timestamp,1
+v,v.BountyAmount <= 50 AND v.CreationDate >= '2010-07-21 00:00:00'::timestamp AND v.CreationDate <= '2014-09-14 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-19 00:00:00'::timestamp AND v.CreationDate <= '2014-09-10 00:00:00'::timestamp,2
+v,v.CreationDate <= '2014-09-10 00:00:00'::timestamp,1
+v,v.VoteTypeId = 2 AND v.CreationDate >= '2010-07-27 00:00:00'::timestamp,1
+v,v.VoteTypeId = 5,1
+v,v.VoteTypeId = 15,1
+v,v.VoteTypeId = 2,2
+v,v.VoteTypeId = 5,1
+v,v.BountyAmount <= 50,1
+v,v.CreationDate >= '2010-07-19 00:00:00'::timestamp AND v.CreationDate <= '2014-09-10 00:00:00'::timestamp,1
+v,v.CreationDate <= '2014-09-11 00:00:00'::timestamp,1
+v,v.CreationDate <= '2014-09-12 00:00:00'::timestamp,1
+v,v.VoteTypeId = 2,3
+v,v.VoteTypeId = 5 AND v.CreationDate >= '2010-07-19 00:00:00'::timestamp AND v.CreationDate <= '2014-09-13 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-22 00:00:00'::timestamp AND v.CreationDate <= '2014-09-14 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-20 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-20 00:00:00'::timestamp AND v.CreationDate <= '2014-09-03 00:00:00'::timestamp,1
+v,v.CreationDate <= '2014-09-10 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.CreationDate >= '2010-05-19 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.BountyAmount <= 100 AND v.CreationDate >= '2010-07-26 00:00:00'::timestamp,1
+v,v.BountyAmount >= 0 AND v.CreationDate >= '2010-07-20 00:00:00'::timestamp AND v.CreationDate <= '2014-09-11 00:00:00'::timestamp,1
+v,v.CreationDate >= '2009-02-02 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-19 00:00:00'::timestamp AND v.CreationDate <= '2014-08-31 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-21 00:00:00'::timestamp AND v.CreationDate <= '2014-09-14 00:00:00'::timestamp,1
+v,v.VoteTypeId = 2 AND v.CreationDate <= '2014-09-10 00:00:00'::timestamp,1
+v,v.CreationDate >= '2010-07-21 00:00:00'::timestamp,1

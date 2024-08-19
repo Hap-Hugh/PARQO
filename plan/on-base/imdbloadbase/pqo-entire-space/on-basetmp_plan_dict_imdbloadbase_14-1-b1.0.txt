@@ -1,0 +1,7 @@
+{
+  "0": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(mi)\nSeqScan(it1)\nIndexScan(mi_idx)\nSeqScan(it2)\nSeqScan(kt)\nNestLoop ( k mk )\nNestLoop ( k mk t )\nNestLoop ( k mk t mi )\nNestLoop ( k mk t mi it1 )\nNestLoop ( k mk t mi it1 mi_idx )\nNestLoop ( k mk t mi it1 mi_idx it2 )\nNestLoop ( k mk t mi it1 mi_idx it2 kt )\nLeading ( ( ( ( ( ( ( ( k mk ) t ) mi ) it1 ) mi_idx ) it2 ) kt ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(mi_idx)\nIndexScan(t)\nIndexScan(mi)\nSeqScan(it1)\nSeqScan(it2)\nSeqScan(kt)\nNestLoop ( k mk )\nNestLoop ( k mk mi_idx )\nNestLoop ( k mk mi_idx t )\nNestLoop ( k mk mi_idx t mi )\nNestLoop ( k mk mi_idx t mi it1 )\nNestLoop ( k mk mi_idx t mi it1 it2 )\nNestLoop ( k mk mi_idx t mi it1 it2 kt )\nLeading ( ( ( ( ( ( ( ( k mk ) mi_idx ) t ) mi ) it1 ) it2 ) kt ) ) */",
+    "/*+\nSeqScan(mi_idx)\nSeqScan(it2)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(mi)\nIndexScan(it1)\nSeqScan(kt)\nHashJoin ( mi_idx it2 )\nNestLoop ( k mk )\nHashJoin ( mi_idx it2 k mk )\nNestLoop ( mi_idx it2 k mk t )\nNestLoop ( mi_idx it2 k mk t mi )\nNestLoop ( mi_idx it2 k mk t mi it1 )\nNestLoop ( mi_idx it2 k mk t mi it1 kt )\nLeading ( ( ( ( ( ( ( mi_idx it2 ) ( k mk ) ) t ) mi ) it1 ) kt ) ) */"
+  ]
+}

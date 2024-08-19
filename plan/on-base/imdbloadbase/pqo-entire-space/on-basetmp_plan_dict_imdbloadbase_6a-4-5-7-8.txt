@@ -1,0 +1,14 @@
+{
+  "0": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(ci)\nIndexScan(n)\nNestLoop ( k mk )\nNestLoop ( k mk t )\nNestLoop ( k mk t ci )\nNestLoop ( k mk t ci n )\nLeading ( ( ( ( ( k mk ) t ) ci ) n ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(t)\nNestLoop ( k mk )\nNestLoop ( k mk ci )\nNestLoop ( k mk ci n )\nNestLoop ( k mk ci n t )\nLeading ( ( ( ( ( k mk ) ci ) n ) t ) ) */",
+    "/*+\nSeqScan(n)\nIndexScan(ci)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nNestLoop ( n ci )\nNestLoop ( k mk )\nHashJoin ( n ci k mk )\nNestLoop ( n ci k mk t )\nLeading ( ( ( ( n ci ) ( k mk ) ) t ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexScan(n)\nNestLoop ( k mk )\nMergeJoin ( t k mk )\nNestLoop ( t k mk ci )\nNestLoop ( t k mk ci n )\nLeading ( ( ( ( t ( k mk ) ) ci ) n ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nSeqScan(n)\nNestLoop ( k mk )\nHashJoin ( t k mk )\nNestLoop ( t k mk ci )\nHashJoin ( t k mk ci n )\nLeading ( ( ( ( t ( k mk ) ) ci ) n ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nSeqScan(n)\nIndexScan(t)\nNestLoop ( k mk )\nNestLoop ( k mk ci )\nHashJoin ( k mk ci n )\nNestLoop ( k mk ci n t )\nLeading ( ( ( ( ( k mk ) ci ) n ) t ) ) */",
+    "/*+\nSeqScan(n)\nIndexScan(ci)\nIndexScan(t)\nIndexScan(mk)\nIndexScan(k)\nNestLoop ( n ci )\nNestLoop ( n ci t )\nNestLoop ( n ci t mk )\nNestLoop ( n ci t mk k )\nLeading ( ( ( ( ( n ci ) t ) mk ) k ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t)\nIndexScan(ci)\nSeqScan(n)\nNestLoop ( k mk )\nNestLoop ( k mk t )\nNestLoop ( k mk t ci )\nHashJoin ( k mk t ci n )\nLeading ( ( ( ( ( k mk ) t ) ci ) n ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ci)\nIndexScan(n)\nNestLoop ( k mk )\nHashJoin ( t k mk )\nNestLoop ( t k mk ci )\nNestLoop ( t k mk ci n )\nLeading ( ( ( ( t ( k mk ) ) ci ) n ) ) */",
+    "/*+\nSeqScan(n)\nIndexScan(ci)\nIndexScan(t)\nIndexScan(mk)\nSeqScan(k)\nNestLoop ( n ci )\nNestLoop ( n ci t )\nNestLoop ( n ci t mk )\nHashJoin ( n ci t mk k )\nLeading ( ( ( ( ( n ci ) t ) mk ) k ) ) */"
+  ]
+}

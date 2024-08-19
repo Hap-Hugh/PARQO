@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nSeqScan(ml)\nSeqScan(lt)\nIndexScan(t)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(pi)\nSeqScan(it)\nHashJoin ( ml lt )\nNestLoop ( ml lt t )\nNestLoop ( ml lt t ci )\nNestLoop ( ml lt t ci n )\nNestLoop ( ml lt t ci n an )\nNestLoop ( ml lt t ci n an pi )\nNestLoop ( ml lt t ci n an pi it )\nLeading ( ( ( ( ( ( ( ( ml lt ) t ) ci ) n ) an ) pi ) it ) ) */",
+    "/*+\nSeqScan(pi)\nSeqScan(it)\nIndexScan(n)\nIndexScan(ci)\nIndexScan(an)\nIndexScan(ml)\nIndexScan(lt)\nIndexScan(t)\nHashJoin ( pi it )\nNestLoop ( pi it n )\nNestLoop ( pi it n ci )\nNestLoop ( pi it n ci an )\nNestLoop ( pi it n ci an ml )\nNestLoop ( pi it n ci an ml lt )\nNestLoop ( pi it n ci an ml lt t )\nLeading ( ( ( ( ( ( ( ( pi it ) n ) ci ) an ) ml ) lt ) t ) ) */",
+    "/*+\nSeqScan(an)\nSeqScan(ml)\nSeqScan(lt)\nIndexScan(t)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(pi)\nIndexScan(it)\nHashJoin ( ml lt )\nNestLoop ( ml lt t )\nNestLoop ( ml lt t ci )\nHashJoin ( an ml lt t ci )\nNestLoop ( an ml lt t ci n )\nNestLoop ( an ml lt t ci n pi )\nNestLoop ( an ml lt t ci n pi it )\nLeading ( ( ( ( ( an ( ( ( ml lt ) t ) ci ) ) n ) pi ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(ml)\nSeqScan(lt)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(pi)\nIndexScan(it)\nHashJoin ( ml lt )\nHashJoin ( t ml lt )\nNestLoop ( t ml lt ci )\nNestLoop ( t ml lt ci n )\nNestLoop ( t ml lt ci n an )\nNestLoop ( t ml lt ci n an pi )\nNestLoop ( t ml lt ci n an pi it )\nLeading ( ( ( ( ( ( ( t ( ml lt ) ) ci ) n ) an ) pi ) it ) ) */",
+    "/*+\nSeqScan(t)\nSeqScan(ml)\nSeqScan(lt)\nIndexScan(ci)\nIndexScan(n)\nIndexScan(an)\nIndexScan(pi)\nIndexScan(it)\nHashJoin ( ml lt )\nMergeJoin ( t ml lt )\nNestLoop ( t ml lt ci )\nNestLoop ( t ml lt ci n )\nNestLoop ( t ml lt ci n an )\nNestLoop ( t ml lt ci n an pi )\nNestLoop ( t ml lt ci n an pi it )\nLeading ( ( ( ( ( ( ( t ( ml lt ) ) ci ) n ) an ) pi ) it ) ) */"
+  ]
+}

@@ -1,0 +1,278 @@
+Table,Condition,Frequency
+catalog_returns,cr_reason_sk = 1,2
+catalog_returns,cr_reason_sk = 10,1
+catalog_returns,cr_reason_sk = 11,2
+catalog_returns,cr_reason_sk = 12,2
+catalog_returns,cr_reason_sk = 13,1
+catalog_returns,cr_reason_sk = 14,1
+catalog_returns,cr_reason_sk = 15,2
+catalog_returns,cr_reason_sk = 16,1
+catalog_returns,cr_reason_sk = 17,2
+catalog_returns,cr_reason_sk = 18,1
+catalog_returns,cr_reason_sk = 19,4
+catalog_returns,cr_reason_sk = 22,1
+catalog_returns,cr_reason_sk = 23,1
+catalog_returns,cr_reason_sk = 24,1
+catalog_returns,cr_reason_sk = 25,1
+catalog_returns,cr_reason_sk = 26,3
+catalog_returns,cr_reason_sk = 27,1
+catalog_returns,cr_reason_sk = 28,1
+catalog_returns,cr_reason_sk = 29,1
+catalog_returns,cr_reason_sk = 30,3
+catalog_returns,cr_reason_sk = 33,1
+catalog_returns,cr_reason_sk = 35,3
+catalog_returns,cr_reason_sk = 36,4
+catalog_returns,cr_reason_sk = 37,5
+catalog_returns,cr_reason_sk = 38,1
+catalog_returns,cr_reason_sk = 39,2
+catalog_returns,cr_reason_sk = 41,2
+catalog_returns,cr_reason_sk = 44,1
+catalog_returns,cr_reason_sk = 46,2
+catalog_returns,cr_reason_sk = 47,1
+catalog_returns,cr_reason_sk = 48,3
+catalog_returns,cr_reason_sk = 49,3
+catalog_returns,cr_reason_sk = 5,3
+catalog_returns,cr_reason_sk = 50,1
+catalog_returns,cr_reason_sk = 52,1
+catalog_returns,cr_reason_sk = 54,2
+catalog_returns,cr_reason_sk = 55,1
+catalog_returns,cr_reason_sk = 56,1
+catalog_returns,cr_reason_sk = 57,2
+catalog_returns,cr_reason_sk = 58,1
+catalog_returns,cr_reason_sk = 6,2
+catalog_returns,cr_reason_sk = 60,1
+catalog_returns,cr_reason_sk = 61,2
+catalog_returns,cr_reason_sk = 63,1
+catalog_returns,cr_reason_sk = 64,1
+catalog_returns,cr_reason_sk = 67,3
+catalog_returns,cr_reason_sk = 68,1
+catalog_returns,cr_reason_sk = 69,2
+catalog_returns,cr_reason_sk = 70,3
+catalog_returns,cr_reason_sk = 71,3
+catalog_returns,cr_reason_sk = 72,1
+catalog_returns,cr_reason_sk = 74,1
+catalog_returns,cr_reason_sk = 75,5
+catalog_returns,cr_reason_sk = 8,1
+catalog_returns,cr_reason_sk = 9,1
+catalog_sales,cs_wholesale_cost BETWEEN 11 AND 30,1
+catalog_sales,cs_wholesale_cost BETWEEN 13 AND 32,1
+catalog_sales,cs_wholesale_cost BETWEEN 14 AND 33,1
+catalog_sales,cs_wholesale_cost BETWEEN 16 AND 35,1
+catalog_sales,cs_wholesale_cost BETWEEN 18 AND 37,3
+catalog_sales,cs_wholesale_cost BETWEEN 24 AND 43,2
+catalog_sales,cs_wholesale_cost BETWEEN 26 AND 45,2
+catalog_sales,cs_wholesale_cost BETWEEN 27 AND 46,1
+catalog_sales,cs_wholesale_cost BETWEEN 28 AND 47,4
+catalog_sales,cs_wholesale_cost BETWEEN 29 AND 48,1
+catalog_sales,cs_wholesale_cost BETWEEN 3 AND 22,1
+catalog_sales,cs_wholesale_cost BETWEEN 30 AND 49,1
+catalog_sales,cs_wholesale_cost BETWEEN 32 AND 51,2
+catalog_sales,cs_wholesale_cost BETWEEN 33 AND 52,3
+catalog_sales,cs_wholesale_cost BETWEEN 34 AND 53,1
+catalog_sales,cs_wholesale_cost BETWEEN 35 AND 54,1
+catalog_sales,cs_wholesale_cost BETWEEN 36 AND 55,4
+catalog_sales,cs_wholesale_cost BETWEEN 37 AND 56,2
+catalog_sales,cs_wholesale_cost BETWEEN 38 AND 57,1
+catalog_sales,cs_wholesale_cost BETWEEN 39 AND 58,1
+catalog_sales,cs_wholesale_cost BETWEEN 43 AND 62,4
+catalog_sales,cs_wholesale_cost BETWEEN 44 AND 63,1
+catalog_sales,cs_wholesale_cost BETWEEN 45 AND 64,2
+catalog_sales,cs_wholesale_cost BETWEEN 47 AND 66,1
+catalog_sales,cs_wholesale_cost BETWEEN 48 AND 67,1
+catalog_sales,cs_wholesale_cost BETWEEN 49 AND 68,1
+catalog_sales,cs_wholesale_cost BETWEEN 5 AND 24,3
+catalog_sales,cs_wholesale_cost BETWEEN 50 AND 69,3
+catalog_sales,cs_wholesale_cost BETWEEN 51 AND 70,3
+catalog_sales,cs_wholesale_cost BETWEEN 55 AND 74,1
+catalog_sales,cs_wholesale_cost BETWEEN 59 AND 78,2
+catalog_sales,cs_wholesale_cost BETWEEN 62 AND 81,1
+catalog_sales,cs_wholesale_cost BETWEEN 63 AND 82,1
+catalog_sales,cs_wholesale_cost BETWEEN 64 AND 83,1
+catalog_sales,cs_wholesale_cost BETWEEN 66 AND 85,1
+catalog_sales,cs_wholesale_cost BETWEEN 67 AND 86,1
+catalog_sales,cs_wholesale_cost BETWEEN 68 AND 87,1
+catalog_sales,cs_wholesale_cost BETWEEN 70 AND 89,1
+catalog_sales,cs_wholesale_cost BETWEEN 71 AND 90,3
+catalog_sales,cs_wholesale_cost BETWEEN 72 AND 91,3
+catalog_sales,cs_wholesale_cost BETWEEN 74 AND 93,1
+catalog_sales,cs_wholesale_cost BETWEEN 75 AND 94,3
+catalog_sales,cs_wholesale_cost BETWEEN 77 AND 96,3
+catalog_sales,cs_wholesale_cost BETWEEN 79 AND 98,1
+catalog_sales,cs_wholesale_cost BETWEEN 80 AND 99,1
+catalog_sales,cs_wholesale_cost BETWEEN 81 AND 100,20
+catalog_sales,cs_wholesale_cost BETWEEN 9 AND 28,2
+date_dim,d_date BETWEEN (CAST ('1998-02-14' AS date) - interval '30 day') AND (CAST ('1998-02-14' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-02-18' AS date) - interval '30 day') AND (CAST ('1998-02-18' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-02-19' AS date) - interval '30 day') AND (CAST ('1998-02-19' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-03-01' AS date) - interval '30 day') AND (CAST ('1998-03-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-03-08' AS date) - interval '30 day') AND (CAST ('1998-03-08' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-03-14' AS date) - interval '30 day') AND (CAST ('1998-03-14' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-03-26' AS date) - interval '30 day') AND (CAST ('1998-03-26' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-04-09' AS date) - interval '30 day') AND (CAST ('1998-04-09' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-04-16' AS date) - interval '30 day') AND (CAST ('1998-04-16' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-04-21' AS date) - interval '30 day') AND (CAST ('1998-04-21' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-04-29' AS date) - interval '30 day') AND (CAST ('1998-04-29' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-05-02' AS date) - interval '30 day') AND (CAST ('1998-05-02' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-05-16' AS date) - interval '30 day') AND (CAST ('1998-05-16' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-07' AS date) - interval '30 day') AND (CAST ('1998-06-07' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-10' AS date) - interval '30 day') AND (CAST ('1998-06-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-17' AS date) - interval '30 day') AND (CAST ('1998-06-17' AS date) + interval '30 day'),2
+date_dim,d_date BETWEEN (CAST ('1998-06-18' AS date) - interval '30 day') AND (CAST ('1998-06-18' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-20' AS date) - interval '30 day') AND (CAST ('1998-06-20' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-24' AS date) - interval '30 day') AND (CAST ('1998-06-24' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-26' AS date) - interval '30 day') AND (CAST ('1998-06-26' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1998-06-29' AS date) - interval '30 day') AND (CAST ('1998-06-29' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-02-08' AS date) - interval '30 day') AND (CAST ('1999-02-08' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-02-13' AS date) - interval '30 day') AND (CAST ('1999-02-13' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-02-18' AS date) - interval '30 day') AND (CAST ('1999-02-18' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-01' AS date) - interval '30 day') AND (CAST ('1999-03-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-04' AS date) - interval '30 day') AND (CAST ('1999-03-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-09' AS date) - interval '30 day') AND (CAST ('1999-03-09' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-16' AS date) - interval '30 day') AND (CAST ('1999-03-16' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-20' AS date) - interval '30 day') AND (CAST ('1999-03-20' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-21' AS date) - interval '30 day') AND (CAST ('1999-03-21' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-03-25' AS date) - interval '30 day') AND (CAST ('1999-03-25' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-04-08' AS date) - interval '30 day') AND (CAST ('1999-04-08' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-04-10' AS date) - interval '30 day') AND (CAST ('1999-04-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-04-18' AS date) - interval '30 day') AND (CAST ('1999-04-18' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-05-06' AS date) - interval '30 day') AND (CAST ('1999-05-06' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-05-12' AS date) - interval '30 day') AND (CAST ('1999-05-12' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-05-15' AS date) - interval '30 day') AND (CAST ('1999-05-15' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-06-14' AS date) - interval '30 day') AND (CAST ('1999-06-14' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-06-17' AS date) - interval '30 day') AND (CAST ('1999-06-17' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-06-19' AS date) - interval '30 day') AND (CAST ('1999-06-19' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('1999-06-24' AS date) - interval '30 day') AND (CAST ('1999-06-24' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-02-03' AS date) - interval '30 day') AND (CAST ('2000-02-03' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-02-05' AS date) - interval '30 day') AND (CAST ('2000-02-05' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-02-16' AS date) - interval '30 day') AND (CAST ('2000-02-16' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-02-17' AS date) - interval '30 day') AND (CAST ('2000-02-17' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-03-06' AS date) - interval '30 day') AND (CAST ('2000-03-06' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-03-07' AS date) - interval '30 day') AND (CAST ('2000-03-07' AS date) + interval '30 day'),2
+date_dim,d_date BETWEEN (CAST ('2000-03-14' AS date) - interval '30 day') AND (CAST ('2000-03-14' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-03-19' AS date) - interval '30 day') AND (CAST ('2000-03-19' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-03-20' AS date) - interval '30 day') AND (CAST ('2000-03-20' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-04-04' AS date) - interval '30 day') AND (CAST ('2000-04-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-04-11' AS date) - interval '30 day') AND (CAST ('2000-04-11' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-04-21' AS date) - interval '30 day') AND (CAST ('2000-04-21' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-05-01' AS date) - interval '30 day') AND (CAST ('2000-05-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-05-04' AS date) - interval '30 day') AND (CAST ('2000-05-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-05-15' AS date) - interval '30 day') AND (CAST ('2000-05-15' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-05-25' AS date) - interval '30 day') AND (CAST ('2000-05-25' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-06-14' AS date) - interval '30 day') AND (CAST ('2000-06-14' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-06-17' AS date) - interval '30 day') AND (CAST ('2000-06-17' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2000-06-29' AS date) - interval '30 day') AND (CAST ('2000-06-29' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-02-10' AS date) - interval '30 day') AND (CAST ('2001-02-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-02-18' AS date) - interval '30 day') AND (CAST ('2001-02-18' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-02-24' AS date) - interval '30 day') AND (CAST ('2001-02-24' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-03-07' AS date) - interval '30 day') AND (CAST ('2001-03-07' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-04-01' AS date) - interval '30 day') AND (CAST ('2001-04-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-04-06' AS date) - interval '30 day') AND (CAST ('2001-04-06' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-04-11' AS date) - interval '30 day') AND (CAST ('2001-04-11' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-04-27' AS date) - interval '30 day') AND (CAST ('2001-04-27' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-04-30' AS date) - interval '30 day') AND (CAST ('2001-04-30' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-05-04' AS date) - interval '30 day') AND (CAST ('2001-05-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-05-07' AS date) - interval '30 day') AND (CAST ('2001-05-07' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-05-12' AS date) - interval '30 day') AND (CAST ('2001-05-12' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-05-24' AS date) - interval '30 day') AND (CAST ('2001-05-24' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-05-30' AS date) - interval '30 day') AND (CAST ('2001-05-30' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-06-08' AS date) - interval '30 day') AND (CAST ('2001-06-08' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-06-15' AS date) - interval '30 day') AND (CAST ('2001-06-15' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2001-06-20' AS date) - interval '30 day') AND (CAST ('2001-06-20' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-02-01' AS date) - interval '30 day') AND (CAST ('2002-02-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-02-06' AS date) - interval '30 day') AND (CAST ('2002-02-06' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-02-12' AS date) - interval '30 day') AND (CAST ('2002-02-12' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-02-17' AS date) - interval '30 day') AND (CAST ('2002-02-17' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-03-08' AS date) - interval '30 day') AND (CAST ('2002-03-08' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-03-10' AS date) - interval '30 day') AND (CAST ('2002-03-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-03-25' AS date) - interval '30 day') AND (CAST ('2002-03-25' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-03-29' AS date) - interval '30 day') AND (CAST ('2002-03-29' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-04-06' AS date) - interval '30 day') AND (CAST ('2002-04-06' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-04-15' AS date) - interval '30 day') AND (CAST ('2002-04-15' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-04-16' AS date) - interval '30 day') AND (CAST ('2002-04-16' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-01' AS date) - interval '30 day') AND (CAST ('2002-05-01' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-04' AS date) - interval '30 day') AND (CAST ('2002-05-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-09' AS date) - interval '30 day') AND (CAST ('2002-05-09' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-10' AS date) - interval '30 day') AND (CAST ('2002-05-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-15' AS date) - interval '30 day') AND (CAST ('2002-05-15' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-05-28' AS date) - interval '30 day') AND (CAST ('2002-05-28' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-06-03' AS date) - interval '30 day') AND (CAST ('2002-06-03' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-06-04' AS date) - interval '30 day') AND (CAST ('2002-06-04' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-06-10' AS date) - interval '30 day') AND (CAST ('2002-06-10' AS date) + interval '30 day'),1
+date_dim,d_date BETWEEN (CAST ('2002-06-14' AS date) - interval '30 day') AND (CAST ('2002-06-14' AS date) + interval '30 day'),1
+item,i_category = 'Books' AND i_manager_id BETWEEN 13 AND 52,1
+item,i_category = 'Books' AND i_manager_id BETWEEN 23 AND 62,1
+item,i_category = 'Books' AND i_manager_id BETWEEN 28 AND 67,1
+item,i_category = 'Books' AND i_manager_id BETWEEN 44 AND 83,1
+item,i_category = 'Books' AND i_manager_id BETWEEN 6 AND 45,1
+item,i_category = 'Books' AND i_manager_id BETWEEN 61 AND 100,2
+item,i_category = 'Children' AND i_manager_id BETWEEN 10 AND 49,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 24 AND 63,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 26 AND 65,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 3 AND 42,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 40 AND 79,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 45 AND 84,2
+item,i_category = 'Children' AND i_manager_id BETWEEN 46 AND 85,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 48 AND 87,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 51 AND 90,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 55 AND 94,1
+item,i_category = 'Children' AND i_manager_id BETWEEN 61 AND 100,10
+item,i_category = 'Children' AND i_manager_id BETWEEN 8 AND 47,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 15 AND 54,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 21 AND 60,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 22 AND 61,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 26 AND 65,2
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 27 AND 66,2
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 3 AND 42,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 36 AND 75,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 39 AND 78,2
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 43 AND 82,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 50 AND 89,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 51 AND 90,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 57 AND 96,1
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 61 AND 100,7
+item,i_category = 'Electronics' AND i_manager_id BETWEEN 7 AND 46,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 2 AND 41,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 34 AND 73,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 36 AND 75,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 38 AND 77,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 43 AND 82,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 50 AND 89,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 60 AND 99,2
+item,i_category = 'Home' AND i_manager_id BETWEEN 61 AND 100,4
+item,i_category = 'Home' AND i_manager_id BETWEEN 8 AND 47,1
+item,i_category = 'Home' AND i_manager_id BETWEEN 9 AND 48,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 10 AND 49,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 17 AND 56,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 24 AND 63,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 37 AND 76,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 4 AND 43,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 60 AND 99,1
+item,i_category = 'Jewelry' AND i_manager_id BETWEEN 61 AND 100,10
+item,i_category = 'Men' AND i_manager_id BETWEEN 12 AND 51,1
+item,i_category = 'Men' AND i_manager_id BETWEEN 31 AND 70,1
+item,i_category = 'Men' AND i_manager_id BETWEEN 61 AND 100,3
+item,i_category = 'Shoes' AND i_manager_id BETWEEN 51 AND 90,1
+item,i_category = 'Shoes' AND i_manager_id BETWEEN 61 AND 100,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 23 AND 62,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 26 AND 65,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 44 AND 83,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 47 AND 86,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 53 AND 92,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 60 AND 99,1
+item,i_category = 'Women' AND i_manager_id BETWEEN 61 AND 100,4
+item,i_category = 'Women' AND i_manager_id BETWEEN 7 AND 46,1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

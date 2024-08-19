@@ -1,0 +1,9 @@
+{
+  "0": [
+    "/*+\nIndexOnlyScan(u)\nSeqScan(pl)\nSeqScan(p)\nIndexScan(c)\nIndexScan(v)\nIndexOnlyScan(ph)\nIndexScan(b)\nHashJoin ( pl p )\nNestLoop ( pl p c )\nMergeJoin ( u pl p c )\nNestLoop ( u pl p c v )\nNestLoop ( u pl p c v ph )\nMergeJoin ( u pl p c v ph b )\nLeading ( ( ( ( ( u ( ( pl p ) c ) ) v ) ph ) b ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(u)\nSeqScan(v)\nSeqScan(pl)\nSeqScan(p)\nIndexOnlyScan(ph)\nSeqScan(b)\nHashJoin ( c u )\nHashJoin ( pl p )\nNestLoop ( pl p ph )\nHashJoin ( v pl p ph )\nHashJoin ( c u v pl p ph )\nMergeJoin ( c u v pl p ph b )\nLeading ( ( ( ( c u ) ( v ( ( pl p ) ph ) ) ) b ) ) */",
+    "/*+\nSeqScan(b)\nSeqScan(pl)\nSeqScan(p)\nIndexScan(c)\nIndexOnlyScan(u)\nIndexScan(v)\nIndexOnlyScan(ph)\nHashJoin ( pl p )\nNestLoop ( pl p c )\nNestLoop ( pl p c u )\nNestLoop ( pl p c u v )\nNestLoop ( pl p c u v ph )\nHashJoin ( b pl p c u v ph )\nLeading ( ( b ( ( ( ( ( pl p ) c ) u ) v ) ph ) ) ) */",
+    "/*+\nSeqScan(pl)\nSeqScan(p)\nIndexScan(c)\nIndexOnlyScan(u)\nIndexScan(v)\nIndexOnlyScan(ph)\nIndexScan(b)\nHashJoin ( pl p )\nNestLoop ( pl p c )\nNestLoop ( pl p c u )\nNestLoop ( pl p c u v )\nNestLoop ( pl p c u v ph )\nNestLoop ( pl p c u v ph b )\nLeading ( ( ( ( ( ( ( pl p ) c ) u ) v ) ph ) b ) ) */",
+    "/*+\nIndexScan(c)\nIndexOnlyScan(u)\nIndexScan(b)\nSeqScan(v)\nSeqScan(pl)\nSeqScan(p)\nIndexOnlyScan(ph)\nMergeJoin ( c u )\nMergeJoin ( c u b )\nHashJoin ( pl p )\nNestLoop ( pl p ph )\nHashJoin ( v pl p ph )\nHashJoin ( c u b v pl p ph )\nLeading ( ( ( ( c u ) b ) ( v ( ( pl p ) ph ) ) ) ) */"
+  ]
+}

@@ -1,0 +1,180 @@
+Table,Condition,Frequency
+customer,c_birth_month = 1,6
+customer,c_birth_month = 10,8
+customer,c_birth_month = 11,7
+customer,c_birth_month = 12,10
+customer,c_birth_month = 2,7
+customer,c_birth_month = 3,10
+customer,c_birth_month = 4,9
+customer,c_birth_month = 5,8
+customer,c_birth_month = 6,6
+customer,c_birth_month = 7,13
+customer,c_birth_month = 8,11
+customer,c_birth_month = 9,5
+customer_address,ca_state  = 'AL',2
+customer_address,ca_state  = 'AR',1
+customer_address,ca_state  = 'CA',1
+customer_address,ca_state  = 'CO',1
+customer_address,ca_state  = 'FL',2
+customer_address,ca_state  = 'GA',6
+customer_address,ca_state  = 'ID',1
+customer_address,ca_state  = 'IL',3
+customer_address,ca_state  = 'IN',1
+customer_address,ca_state  = 'KS',4
+customer_address,ca_state  = 'KY',2
+customer_address,ca_state  = 'LA',1
+customer_address,ca_state  = 'MA',1
+customer_address,ca_state  = 'MD',2
+customer_address,ca_state  = 'ME',3
+customer_address,ca_state  = 'MI',2
+customer_address,ca_state  = 'MN',5
+customer_address,ca_state  = 'MO',2
+customer_address,ca_state  = 'MS',5
+customer_address,ca_state  = 'MT',1
+customer_address,ca_state  = 'NC',3
+customer_address,ca_state  = 'ND',2
+customer_address,ca_state  = 'NE',3
+customer_address,ca_state  = 'NM',1
+customer_address,ca_state  = 'NV',3
+customer_address,ca_state  = 'OH',1
+customer_address,ca_state  = 'OK',3
+customer_address,ca_state  = 'OR',1
+customer_address,ca_state  = 'PA',2
+customer_address,ca_state  = 'SC',5
+customer_address,ca_state  = 'SD',2
+customer_address,ca_state  = 'TN',4
+customer_address,ca_state  = 'TX',14
+customer_address,ca_state  = 'UT',1
+customer_address,ca_state  = 'VA',3
+customer_address,ca_state  = 'VT',1
+customer_address,ca_state  = 'WI',1
+customer_address,ca_state  = 'WV',2
+customer_address,ca_state  = 'WY',2
+date_dim,d_year=1998 and d_moy = 10,4
+date_dim,d_year=1998 and d_moy = 12,2
+date_dim,d_year=1998 and d_moy = 2,4
+date_dim,d_year=1998 and d_moy = 3,2
+date_dim,d_year=1998 and d_moy = 5,2
+date_dim,d_year=1998 and d_moy = 6,3
+date_dim,d_year=1998 and d_moy = 7,3
+date_dim,d_year=1998 and d_moy = 8,2
+date_dim,d_year=1998 and d_moy = 9,2
+date_dim,d_year=1999 and d_moy = 10,1
+date_dim,d_year=1999 and d_moy = 11,1
+date_dim,d_year=1999 and d_moy = 2,1
+date_dim,d_year=1999 and d_moy = 3,2
+date_dim,d_year=1999 and d_moy = 4,2
+date_dim,d_year=1999 and d_moy = 5,2
+date_dim,d_year=1999 and d_moy = 6,1
+date_dim,d_year=1999 and d_moy = 7,3
+date_dim,d_year=1999 and d_moy = 8,2
+date_dim,d_year=2000 and d_moy = 1,2
+date_dim,d_year=2000 and d_moy = 10,1
+date_dim,d_year=2000 and d_moy = 11,2
+date_dim,d_year=2000 and d_moy = 12,2
+date_dim,d_year=2000 and d_moy = 3,2
+date_dim,d_year=2000 and d_moy = 4,3
+date_dim,d_year=2000 and d_moy = 5,1
+date_dim,d_year=2000 and d_moy = 6,1
+date_dim,d_year=2000 and d_moy = 8,2
+date_dim,d_year=2000 and d_moy = 9,3
+date_dim,d_year=2001 and d_moy = 1,1
+date_dim,d_year=2001 and d_moy = 10,1
+date_dim,d_year=2001 and d_moy = 11,2
+date_dim,d_year=2001 and d_moy = 12,1
+date_dim,d_year=2001 and d_moy = 3,1
+date_dim,d_year=2001 and d_moy = 4,1
+date_dim,d_year=2001 and d_moy = 5,3
+date_dim,d_year=2001 and d_moy = 8,2
+date_dim,d_year=2001 and d_moy = 9,3
+date_dim,d_year=2002 and d_moy = 1,3
+date_dim,d_year=2002 and d_moy = 10,3
+date_dim,d_year=2002 and d_moy = 11,3
+date_dim,d_year=2002 and d_moy = 12,3
+date_dim,d_year=2002 and d_moy = 2,3
+date_dim,d_year=2002 and d_moy = 3,1
+date_dim,d_year=2002 and d_moy = 5,2
+date_dim,d_year=2002 and d_moy = 6,4
+date_dim,d_year=2002 and d_moy = 8,2
+date_dim,d_year=2002 and d_moy = 9,3
+item,i_category  = 'Books',7
+item,i_category  = 'Children',22
+item,i_category  = 'Electronics',23
+item,i_category  = 'Home',14
+item,i_category  = 'Jewelry',16
+item,i_category  = 'Men',5
+item,i_category  = 'Shoes',2
+item,i_category  = 'Women',11
+store_sales,ss_wholesale_cost BETWEEN 1 AND 21,1
+store_sales,ss_wholesale_cost BETWEEN 10 AND 30,2
+store_sales,ss_wholesale_cost BETWEEN 11 AND 31,2
+store_sales,ss_wholesale_cost BETWEEN 12 AND 32,1
+store_sales,ss_wholesale_cost BETWEEN 13 AND 33,3
+store_sales,ss_wholesale_cost BETWEEN 15 AND 35,1
+store_sales,ss_wholesale_cost BETWEEN 16 AND 36,1
+store_sales,ss_wholesale_cost BETWEEN 17 AND 37,2
+store_sales,ss_wholesale_cost BETWEEN 19 AND 39,1
+store_sales,ss_wholesale_cost BETWEEN 2 AND 22,2
+store_sales,ss_wholesale_cost BETWEEN 20 AND 40,2
+store_sales,ss_wholesale_cost BETWEEN 22 AND 42,2
+store_sales,ss_wholesale_cost BETWEEN 23 AND 43,2
+store_sales,ss_wholesale_cost BETWEEN 24 AND 44,2
+store_sales,ss_wholesale_cost BETWEEN 28 AND 48,1
+store_sales,ss_wholesale_cost BETWEEN 29 AND 49,1
+store_sales,ss_wholesale_cost BETWEEN 3 AND 23,1
+store_sales,ss_wholesale_cost BETWEEN 33 AND 53,1
+store_sales,ss_wholesale_cost BETWEEN 34 AND 54,1
+store_sales,ss_wholesale_cost BETWEEN 35 AND 55,1
+store_sales,ss_wholesale_cost BETWEEN 36 AND 56,1
+store_sales,ss_wholesale_cost BETWEEN 39 AND 59,1
+store_sales,ss_wholesale_cost BETWEEN 4 AND 24,2
+store_sales,ss_wholesale_cost BETWEEN 40 AND 60,1
+store_sales,ss_wholesale_cost BETWEEN 41 AND 61,2
+store_sales,ss_wholesale_cost BETWEEN 42 AND 62,1
+store_sales,ss_wholesale_cost BETWEEN 43 AND 63,2
+store_sales,ss_wholesale_cost BETWEEN 44 AND 64,3
+store_sales,ss_wholesale_cost BETWEEN 45 AND 65,1
+store_sales,ss_wholesale_cost BETWEEN 46 AND 66,1
+store_sales,ss_wholesale_cost BETWEEN 49 AND 69,2
+store_sales,ss_wholesale_cost BETWEEN 5 AND 25,1
+store_sales,ss_wholesale_cost BETWEEN 50 AND 70,2
+store_sales,ss_wholesale_cost BETWEEN 51 AND 71,1
+store_sales,ss_wholesale_cost BETWEEN 52 AND 72,1
+store_sales,ss_wholesale_cost BETWEEN 53 AND 73,2
+store_sales,ss_wholesale_cost BETWEEN 54 AND 74,1
+store_sales,ss_wholesale_cost BETWEEN 55 AND 75,1
+store_sales,ss_wholesale_cost BETWEEN 56 AND 76,1
+store_sales,ss_wholesale_cost BETWEEN 57 AND 77,1
+store_sales,ss_wholesale_cost BETWEEN 58 AND 78,1
+store_sales,ss_wholesale_cost BETWEEN 59 AND 79,1
+store_sales,ss_wholesale_cost BETWEEN 61 AND 81,1
+store_sales,ss_wholesale_cost BETWEEN 62 AND 82,1
+store_sales,ss_wholesale_cost BETWEEN 63 AND 83,3
+store_sales,ss_wholesale_cost BETWEEN 64 AND 84,1
+store_sales,ss_wholesale_cost BETWEEN 65 AND 85,1
+store_sales,ss_wholesale_cost BETWEEN 68 AND 88,1
+store_sales,ss_wholesale_cost BETWEEN 7 AND 27,1
+store_sales,ss_wholesale_cost BETWEEN 70 AND 90,1
+store_sales,ss_wholesale_cost BETWEEN 71 AND 91,2
+store_sales,ss_wholesale_cost BETWEEN 75 AND 95,1
+store_sales,ss_wholesale_cost BETWEEN 76 AND 96,2
+store_sales,ss_wholesale_cost BETWEEN 77 AND 97,4
+store_sales,ss_wholesale_cost BETWEEN 79 AND 99,1
+store_sales,ss_wholesale_cost BETWEEN 8 AND 28,2
+store_sales,ss_wholesale_cost BETWEEN 80 AND 100,17
+store_sales,ss_wholesale_cost BETWEEN 9 AND 29,1
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

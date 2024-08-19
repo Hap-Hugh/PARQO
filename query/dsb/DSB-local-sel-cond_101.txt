@@ -1,0 +1,500 @@
+ca_state in ('AK', 'IA', 'IN', 'ME', 'TX')
+ca_state in ('AL', 'AR', 'GA', 'OR', 'TN')
+ca_state in ('AL', 'AR', 'KY', 'NC', 'WI')
+ca_state in ('AL', 'FL', 'KY', 'NJ', 'WI')
+ca_state in ('AL', 'FL', 'MO', 'OK', 'WV')
+ca_state in ('AL', 'GA', 'MS', 'SC', 'SD')
+ca_state in ('AL', 'GA', 'MT', 'OH', 'WI')
+ca_state in ('AL', 'GA', 'ND', 'OK', 'WI')
+ca_state in ('AL', 'IA', 'ME', 'TX', 'WV')
+ca_state in ('AL', 'KS', 'MS', 'ND', 'WV')
+ca_state in ('AL', 'KY', 'OR', 'SD', 'TN')
+ca_state in ('AL', 'MT', 'OR', 'UT', 'WI')
+ca_state in ('AL', 'OH', 'SC', 'TX', 'WY')
+ca_state in ('AR', 'CT', 'PA', 'SD', 'WI')
+ca_state in ('AR', 'FL', 'IA', 'MA', 'TX')
+ca_state in ('AR', 'GA', 'ID', 'MN', 'VT')
+ca_state in ('AR', 'GA', 'LA', 'NC', 'NE')
+ca_state in ('AR', 'GA', 'MI', 'TN', 'WA')
+ca_state in ('AR', 'IA', 'MS', 'NE', 'PA')
+ca_state in ('AR', 'NC', 'TX', 'WA', 'WV')
+ca_state in ('CA', 'FL', 'IA', 'NM', 'TX')
+ca_state in ('CA', 'FL', 'MT', 'TX', 'WI')
+ca_state in ('CA', 'GA', 'ID', 'MA', 'NC')
+ca_state in ('CA', 'GA', 'IL', 'MS', 'WI')
+ca_state in ('CA', 'IA', 'IN', 'OK', 'WI')
+ca_state in ('CA', 'ID', 'MI', 'ND', 'TX')
+ca_state in ('CA', 'IL', 'KY', 'MN', 'TN')
+ca_state in ('CA', 'IL', 'MN', 'SC', 'SD')
+ca_state in ('CA', 'LA', 'MN', 'OH', 'WY')
+ca_state in ('CA', 'MI', 'MO', 'OR', 'VA')
+ca_state in ('CA', 'MN', 'SC', 'TX', 'VA')
+ca_state in ('CO', 'GA', 'MO', 'OK', 'TX')
+ca_state in ('CO', 'IA', 'MS', 'MT', 'NE')
+ca_state in ('CO', 'MO', 'SC', 'TN', 'VA')
+ca_state in ('CO', 'ND', 'TX', 'WI', 'WV')
+ca_state in ('FL', 'GA', 'IN', 'LA', 'MO')
+ca_state in ('FL', 'GA', 'MS', 'PA', 'TN')
+ca_state in ('FL', 'GA', 'NC', 'OH', 'OK')
+ca_state in ('FL', 'IL', 'NE', 'OH', 'SC')
+ca_state in ('FL', 'IL', 'NE', 'TN', 'TX')
+ca_state in ('FL', 'IN', 'KY', 'SD', 'TX')
+ca_state in ('FL', 'KS', 'MD', 'WV', 'WY')
+ca_state in ('FL', 'KY', 'LA', 'NY', 'OK')
+ca_state in ('FL', 'MI', 'MO', 'TN', 'TX')
+ca_state in ('FL', 'MI', 'MO', 'UT', 'WI')
+ca_state in ('FL', 'MN', 'MT', 'UT', 'VA')
+ca_state in ('GA', 'HI', 'IL', 'IN', 'TX')
+ca_state in ('GA', 'IA', 'KY', 'MN', 'NV')
+ca_state in ('GA', 'ID', 'LA', 'OR', 'TX')
+ca_state in ('GA', 'IL', 'KS', 'NE', 'TX')
+ca_state in ('GA', 'IL', 'KY', 'MO', 'VA')
+ca_state in ('GA', 'IL', 'LA', 'NM', 'WI')
+ca_state in ('GA', 'IL', 'ME', 'SD', 'TX')
+ca_state in ('GA', 'IL', 'MO', 'PA', 'TX')
+ca_state in ('GA', 'IL', 'MO', 'TX', 'WI')
+ca_state in ('GA', 'IL', 'NE', 'NV', 'TN')
+ca_state in ('GA', 'IN', 'MN', 'MS', 'OR')
+ca_state in ('GA', 'IN', 'OH', 'PA', 'TX')
+ca_state in ('GA', 'KS', 'MI', 'ND', 'OK')
+ca_state in ('GA', 'KS', 'NV', 'OH', 'TX')
+ca_state in ('GA', 'MI', 'NY', 'SD', 'TX')
+ca_state in ('GA', 'MO', 'OK', 'OR', 'WV')
+ca_state in ('GA', 'MO', 'SC', 'TN', 'TX')
+ca_state in ('GA', 'MS', 'NC', 'NV', 'PA')
+ca_state in ('GA', 'MS', 'NE', 'NY', 'TX')
+ca_state in ('GA', 'NE', 'OK', 'OR', 'UT')
+ca_state in ('GA', 'OR', 'PA', 'TX', 'WI')
+ca_state in ('IA', 'IN', 'KS', 'TN', 'TX')
+ca_state in ('IA', 'IN', 'LA', 'ND', 'WI')
+ca_state in ('IA', 'IN', 'ND', 'OH', 'OR')
+ca_state in ('IA', 'KY', 'MI', 'OH', 'TX')
+ca_state in ('IA', 'NE', 'TN', 'TX', 'WV')
+ca_state in ('IA', 'NJ', 'OK', 'TX', 'VA')
+ca_state in ('ID', 'IL', 'IN', 'NJ', 'SD')
+ca_state in ('IL', 'IN', 'MO', 'MT', 'PA')
+ca_state in ('IL', 'ME', 'NY', 'TN', 'UT')
+ca_state in ('IL', 'MN', 'NJ', 'TN', 'TX')
+ca_state in ('IL', 'ND', 'VA', 'WI', 'WV')
+ca_state in ('IN', 'KY', 'MI', 'SD', 'TX')
+ca_state in ('IN', 'LA', 'NE', 'VA', 'WV')
+ca_state in ('KS', 'KY', 'NC', 'PA', 'RI')
+ca_state in ('KS', 'LA', 'MO', 'NY', 'TX')
+ca_state in ('KS', 'MA', 'MO', 'WI', 'WV')
+ca_state in ('KS', 'MI', 'ND', 'SD', 'TN')
+ca_state in ('KS', 'MI', 'NE', 'OK', 'WV')
+ca_state in ('KS', 'MO', 'TN', 'TX', 'VA')
+ca_state in ('KS', 'NC', 'NE', 'SD', 'TX')
+ca_state in ('KS', 'NJ', 'OK', 'SC', 'TX')
+ca_state in ('KY', 'MS', 'OH', 'OR', 'VA')
+ca_state in ('LA', 'MA', 'MO', 'NC', 'TN')
+ca_state in ('MA', 'ND', 'NM', 'NY', 'WA')
+ca_state in ('MN', 'NM', 'NY', 'TX', 'WV')
+ca_state in ('MO', 'MS', 'ND', 'OK', 'WA')
+ca_state in ('MO', 'NY', 'TX', 'VA', 'WV')
+ca_state in ('MO', 'OH', 'SD', 'TX', 'WA')
+ca_state in ('MS', 'OH', 'TX', 'VA', 'WI')
+ca_state in ('MT', 'ND', 'NY', 'OH', 'VA')
+ca_state in ('MT', 'ND', 'TX', 'VA', 'WY')
+ca_state in ('NC', 'NE', 'OH', 'SC', 'TX')
+ca_state in ('NC', 'NV', 'OH', 'TN', 'TX')
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1998
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 1999
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+d1.d_year = 2000
+hd_income_band_sk BETWEEN 0 AND 6 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 0 AND 6 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 0 AND 6 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 1 AND 7 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 1 AND 7 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 1 AND 7 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 1 AND 7 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 10 AND 16 AND hd_buy_potential = '1001-5000'
+hd_income_band_sk BETWEEN 10 AND 16 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 10 AND 16 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 11 AND 17 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 11 AND 17 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 12 AND 18 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 12 AND 18 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 12 AND 18 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 12 AND 18 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 12 AND 18 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '1001-5000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 13 AND 19 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '1001-5000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '1001-5000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 14 AND 20 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 2 AND 8 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 20 AND 26 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 3 AND 9 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 4 AND 10 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 4 AND 10 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 5 AND 11 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 6 AND 12 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 7 AND 13 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 7 AND 13 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 7 AND 13 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 7 AND 13 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '0-500'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 8 AND 14 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = '5001-10000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = '501-1000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = '>10000'
+hd_income_band_sk BETWEEN 9 AND 15 AND hd_buy_potential = '>10000'
+i_category IN ('Books', 'Children', 'Home')
+i_category IN ('Books', 'Children', 'Home')
+i_category IN ('Books', 'Children', 'Jewelry')
+i_category IN ('Books', 'Children', 'Jewelry')
+i_category IN ('Books', 'Children', 'Men')
+i_category IN ('Books', 'Children', 'Men')
+i_category IN ('Books', 'Children', 'Women')
+i_category IN ('Books', 'Electronics', 'Men')
+i_category IN ('Books', 'Electronics', 'Women')
+i_category IN ('Books', 'Home', 'Jewelry')
+i_category IN ('Books', 'Home', 'Women')
+i_category IN ('Books', 'Home', 'Women')
+i_category IN ('Books', 'Jewelry', 'Women')
+i_category IN ('Children', 'Electronics', 'Home')
+i_category IN ('Children', 'Electronics', 'Home')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Jewelry')
+i_category IN ('Children', 'Electronics', 'Men')
+i_category IN ('Children', 'Electronics', 'Men')
+i_category IN ('Children', 'Electronics', 'Men')
+i_category IN ('Children', 'Electronics', 'Men')
+i_category IN ('Children', 'Electronics', 'Shoes')
+i_category IN ('Children', 'Electronics', 'Women')
+i_category IN ('Children', 'Electronics', 'Women')
+i_category IN ('Children', 'Electronics', 'Women')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Jewelry')
+i_category IN ('Children', 'Home', 'Men')
+i_category IN ('Children', 'Home', 'Men')
+i_category IN ('Children', 'Home', 'Men')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Home', 'Women')
+i_category IN ('Children', 'Jewelry', 'Men')
+i_category IN ('Children', 'Jewelry', 'Men')
+i_category IN ('Children', 'Jewelry', 'Men')
+i_category IN ('Children', 'Jewelry', 'Music')
+i_category IN ('Children', 'Jewelry', 'Shoes')
+i_category IN ('Children', 'Jewelry', 'Women')
+i_category IN ('Children', 'Jewelry', 'Women')
+i_category IN ('Children', 'Jewelry', 'Women')
+i_category IN ('Children', 'Jewelry', 'Women')
+i_category IN ('Children', 'Jewelry', 'Women')
+i_category IN ('Children', 'Men', 'Shoes')
+i_category IN ('Children', 'Men', 'Women')
+i_category IN ('Electronics', 'Home', 'Jewelry')
+i_category IN ('Electronics', 'Home', 'Jewelry')
+i_category IN ('Electronics', 'Home', 'Jewelry')
+i_category IN ('Electronics', 'Home', 'Jewelry')
+i_category IN ('Electronics', 'Home', 'Jewelry')
+i_category IN ('Electronics', 'Home', 'Men')
+i_category IN ('Electronics', 'Home', 'Men')
+i_category IN ('Electronics', 'Home', 'Women')
+i_category IN ('Electronics', 'Home', 'Women')
+i_category IN ('Electronics', 'Home', 'Women')
+i_category IN ('Electronics', 'Home', 'Women')
+i_category IN ('Electronics', 'Home', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Men')
+i_category IN ('Electronics', 'Jewelry', 'Sports')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Jewelry', 'Women')
+i_category IN ('Electronics', 'Men', 'Sports')
+i_category IN ('Electronics', 'Men', 'Women')
+i_category IN ('Home', 'Jewelry', 'Music')
+i_category IN ('Home', 'Jewelry', 'Women')
+i_category IN ('Home', 'Jewelry', 'Women')
+i_category IN ('Home', 'Men', 'Music')
+i_category IN ('Jewelry', 'Men', 'Sports')
+i_category IN ('Jewelry', 'Shoes', 'Women')
+ss_sales_price / ss_list_price BETWEEN 0 * 0.01 AND 20 * 0.01
+ss_sales_price / ss_list_price BETWEEN 1 * 0.01 AND 21 * 0.01
+ss_sales_price / ss_list_price BETWEEN 1 * 0.01 AND 21 * 0.01
+ss_sales_price / ss_list_price BETWEEN 10 * 0.01 AND 30 * 0.01
+ss_sales_price / ss_list_price BETWEEN 12 * 0.01 AND 32 * 0.01
+ss_sales_price / ss_list_price BETWEEN 12 * 0.01 AND 32 * 0.01
+ss_sales_price / ss_list_price BETWEEN 12 * 0.01 AND 32 * 0.01
+ss_sales_price / ss_list_price BETWEEN 13 * 0.01 AND 33 * 0.01
+ss_sales_price / ss_list_price BETWEEN 13 * 0.01 AND 33 * 0.01
+ss_sales_price / ss_list_price BETWEEN 13 * 0.01 AND 33 * 0.01
+ss_sales_price / ss_list_price BETWEEN 13 * 0.01 AND 33 * 0.01
+ss_sales_price / ss_list_price BETWEEN 16 * 0.01 AND 36 * 0.01
+ss_sales_price / ss_list_price BETWEEN 17 * 0.01 AND 37 * 0.01
+ss_sales_price / ss_list_price BETWEEN 17 * 0.01 AND 37 * 0.01
+ss_sales_price / ss_list_price BETWEEN 17 * 0.01 AND 37 * 0.01
+ss_sales_price / ss_list_price BETWEEN 18 * 0.01 AND 38 * 0.01
+ss_sales_price / ss_list_price BETWEEN 18 * 0.01 AND 38 * 0.01
+ss_sales_price / ss_list_price BETWEEN 19 * 0.01 AND 39 * 0.01
+ss_sales_price / ss_list_price BETWEEN 19 * 0.01 AND 39 * 0.01
+ss_sales_price / ss_list_price BETWEEN 2 * 0.01 AND 22 * 0.01
+ss_sales_price / ss_list_price BETWEEN 21 * 0.01 AND 41 * 0.01
+ss_sales_price / ss_list_price BETWEEN 22 * 0.01 AND 42 * 0.01
+ss_sales_price / ss_list_price BETWEEN 23 * 0.01 AND 43 * 0.01
+ss_sales_price / ss_list_price BETWEEN 24 * 0.01 AND 44 * 0.01
+ss_sales_price / ss_list_price BETWEEN 24 * 0.01 AND 44 * 0.01
+ss_sales_price / ss_list_price BETWEEN 24 * 0.01 AND 44 * 0.01
+ss_sales_price / ss_list_price BETWEEN 25 * 0.01 AND 45 * 0.01
+ss_sales_price / ss_list_price BETWEEN 26 * 0.01 AND 46 * 0.01
+ss_sales_price / ss_list_price BETWEEN 26 * 0.01 AND 46 * 0.01
+ss_sales_price / ss_list_price BETWEEN 28 * 0.01 AND 48 * 0.01
+ss_sales_price / ss_list_price BETWEEN 28 * 0.01 AND 48 * 0.01
+ss_sales_price / ss_list_price BETWEEN 29 * 0.01 AND 49 * 0.01
+ss_sales_price / ss_list_price BETWEEN 29 * 0.01 AND 49 * 0.01
+ss_sales_price / ss_list_price BETWEEN 29 * 0.01 AND 49 * 0.01
+ss_sales_price / ss_list_price BETWEEN 3 * 0.01 AND 23 * 0.01
+ss_sales_price / ss_list_price BETWEEN 3 * 0.01 AND 23 * 0.01
+ss_sales_price / ss_list_price BETWEEN 30 * 0.01 AND 50 * 0.01
+ss_sales_price / ss_list_price BETWEEN 32 * 0.01 AND 52 * 0.01
+ss_sales_price / ss_list_price BETWEEN 35 * 0.01 AND 55 * 0.01
+ss_sales_price / ss_list_price BETWEEN 36 * 0.01 AND 56 * 0.01
+ss_sales_price / ss_list_price BETWEEN 38 * 0.01 AND 58 * 0.01
+ss_sales_price / ss_list_price BETWEEN 38 * 0.01 AND 58 * 0.01
+ss_sales_price / ss_list_price BETWEEN 4 * 0.01 AND 24 * 0.01
+ss_sales_price / ss_list_price BETWEEN 40 * 0.01 AND 60 * 0.01
+ss_sales_price / ss_list_price BETWEEN 41 * 0.01 AND 61 * 0.01
+ss_sales_price / ss_list_price BETWEEN 42 * 0.01 AND 62 * 0.01
+ss_sales_price / ss_list_price BETWEEN 42 * 0.01 AND 62 * 0.01
+ss_sales_price / ss_list_price BETWEEN 42 * 0.01 AND 62 * 0.01
+ss_sales_price / ss_list_price BETWEEN 43 * 0.01 AND 63 * 0.01
+ss_sales_price / ss_list_price BETWEEN 43 * 0.01 AND 63 * 0.01
+ss_sales_price / ss_list_price BETWEEN 46 * 0.01 AND 66 * 0.01
+ss_sales_price / ss_list_price BETWEEN 47 * 0.01 AND 67 * 0.01
+ss_sales_price / ss_list_price BETWEEN 48 * 0.01 AND 68 * 0.01
+ss_sales_price / ss_list_price BETWEEN 50 * 0.01 AND 70 * 0.01
+ss_sales_price / ss_list_price BETWEEN 51 * 0.01 AND 71 * 0.01
+ss_sales_price / ss_list_price BETWEEN 51 * 0.01 AND 71 * 0.01
+ss_sales_price / ss_list_price BETWEEN 53 * 0.01 AND 73 * 0.01
+ss_sales_price / ss_list_price BETWEEN 53 * 0.01 AND 73 * 0.01
+ss_sales_price / ss_list_price BETWEEN 58 * 0.01 AND 78 * 0.01
+ss_sales_price / ss_list_price BETWEEN 58 * 0.01 AND 78 * 0.01
+ss_sales_price / ss_list_price BETWEEN 59 * 0.01 AND 79 * 0.01
+ss_sales_price / ss_list_price BETWEEN 6 * 0.01 AND 26 * 0.01
+ss_sales_price / ss_list_price BETWEEN 63 * 0.01 AND 83 * 0.01
+ss_sales_price / ss_list_price BETWEEN 64 * 0.01 AND 84 * 0.01
+ss_sales_price / ss_list_price BETWEEN 64 * 0.01 AND 84 * 0.01
+ss_sales_price / ss_list_price BETWEEN 65 * 0.01 AND 85 * 0.01
+ss_sales_price / ss_list_price BETWEEN 65 * 0.01 AND 85 * 0.01
+ss_sales_price / ss_list_price BETWEEN 66 * 0.01 AND 86 * 0.01
+ss_sales_price / ss_list_price BETWEEN 66 * 0.01 AND 86 * 0.01
+ss_sales_price / ss_list_price BETWEEN 66 * 0.01 AND 86 * 0.01
+ss_sales_price / ss_list_price BETWEEN 66 * 0.01 AND 86 * 0.01
+ss_sales_price / ss_list_price BETWEEN 67 * 0.01 AND 87 * 0.01
+ss_sales_price / ss_list_price BETWEEN 69 * 0.01 AND 89 * 0.01
+ss_sales_price / ss_list_price BETWEEN 72 * 0.01 AND 92 * 0.01
+ss_sales_price / ss_list_price BETWEEN 73 * 0.01 AND 93 * 0.01
+ss_sales_price / ss_list_price BETWEEN 74 * 0.01 AND 94 * 0.01
+ss_sales_price / ss_list_price BETWEEN 76 * 0.01 AND 96 * 0.01
+ss_sales_price / ss_list_price BETWEEN 77 * 0.01 AND 97 * 0.01
+ss_sales_price / ss_list_price BETWEEN 77 * 0.01 AND 97 * 0.01
+ss_sales_price / ss_list_price BETWEEN 79 * 0.01 AND 99 * 0.01
+ss_sales_price / ss_list_price BETWEEN 79 * 0.01 AND 99 * 0.01
+ss_sales_price / ss_list_price BETWEEN 8 * 0.01 AND 28 * 0.01
+ss_sales_price / ss_list_price BETWEEN 8 * 0.01 AND 28 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01
+ss_sales_price / ss_list_price BETWEEN 80 * 0.01 AND 100 * 0.01

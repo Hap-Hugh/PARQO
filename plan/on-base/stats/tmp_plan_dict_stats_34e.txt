@@ -1,0 +1,14 @@
+{
+  "0": [
+    "/*+\nIndexOnlyScan(b)\nSeqScan(p)\nIndexOnlyScan(ph)\nSeqScan(c)\nSeqScan(u)\nMergeJoin ( b p )\nNestLoop ( b p ph )\nHashJoin ( c u )\nHashJoin ( b p ph c u )\nLeading ( ( ( ( b p ) ph ) ( c u ) ) ) */",
+    "/*+\nIndexOnlyScan(b)\nSeqScan(p)\nSeqScan(ph)\nSeqScan(c)\nSeqScan(u)\nMergeJoin ( b p )\nHashJoin ( c u )\nHashJoin ( ph c u )\nHashJoin ( b p ph c u )\nLeading ( ( ( b p ) ( ph ( c u ) ) ) ) */",
+    "/*+\nIndexOnlyScan(ph)\nIndexOnlyScan(b)\nSeqScan(c)\nSeqScan(p)\nSeqScan(u)\nNestLoop ( ph b )\nHashJoin ( p u )\nHashJoin ( c p u )\nHashJoin ( ph b c p u )\nLeading ( ( ( ph b ) ( c ( p u ) ) ) ) */",
+    "/*+\nIndexOnlyScan(ph)\nSeqScan(c)\nSeqScan(u)\nSeqScan(p)\nIndexOnlyScan(b)\nHashJoin ( c u )\nMergeJoin ( ph c u )\nNestLoop ( p b )\nMergeJoin ( ph c u p b )\nLeading ( ( ( ph ( c u ) ) ( p b ) ) ) */",
+    "/*+\nSeqScan(c)\nIndexOnlyScan(ph)\nIndexScan(u)\nSeqScan(p)\nIndexOnlyScan(b)\nMergeJoin ( u p )\nNestLoop ( u p b )\nMergeJoin ( ph u p b )\nHashJoin ( c ph u p b )\nLeading ( ( c ( ph ( ( u p ) b ) ) ) ) */",
+    "/*+\nSeqScan(c)\nIndexOnlyScan(ph)\nSeqScan(p)\nSeqScan(u)\nIndexOnlyScan(b)\nHashJoin ( p u )\nNestLoop ( p u b )\nMergeJoin ( ph p u b )\nHashJoin ( c ph p u b )\nLeading ( ( c ( ph ( ( p u ) b ) ) ) ) */",
+    "/*+\nSeqScan(c)\nIndexOnlyScan(b)\nSeqScan(p)\nSeqScan(u)\nIndexOnlyScan(ph)\nHashJoin ( p u )\nMergeJoin ( b p u )\nNestLoop ( b p u ph )\nHashJoin ( c b p u ph )\nLeading ( ( c ( ( b ( p u ) ) ph ) ) ) */",
+    "/*+\nIndexOnlyScan(ph)\nSeqScan(c)\nSeqScan(u)\nIndexScan(p)\nIndexOnlyScan(b)\nHashJoin ( c u )\nMergeJoin ( ph c u )\nNestLoop ( p b )\nMergeJoin ( ph c u p b )\nLeading ( ( ( ph ( c u ) ) ( p b ) ) ) */",
+    "/*+\nSeqScan(c)\nIndexOnlyScan(ph)\nIndexOnlyScan(b)\nSeqScan(p)\nSeqScan(u)\nNestLoop ( c ph )\nHashJoin ( p u )\nMergeJoin ( b p u )\nHashJoin ( c ph b p u )\nLeading ( ( ( c ph ) ( b ( p u ) ) ) ) */",
+    "/*+\nIndexOnlyScan(ph)\nIndexOnlyScan(b)\nSeqScan(c)\nSeqScan(u)\nSeqScan(p)\nNestLoop ( ph b )\nHashJoin ( c u )\nMergeJoin ( c u p )\nHashJoin ( ph b c u p )\nLeading ( ( ( ph b ) ( ( c u ) p ) ) ) */"
+  ]
+}

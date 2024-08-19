@@ -1,0 +1,7 @@
+{
+  "0": [
+    "/*+\nSeqScan(c)\nIndexOnlyScan(v)\nSeqScan(p)\nSeqScan(u)\nHashJoin ( p u )\nMergeJoin ( v p u )\nHashJoin ( c v p u )\nLeading ( ( c ( v ( p u ) ) ) ) */",
+    "/*+\nIndexOnlyScan(v)\nSeqScan(p)\nSeqScan(c)\nSeqScan(u)\nMergeJoin ( v p )\nHashJoin ( c u )\nHashJoin ( v p c u )\nLeading ( ( ( v p ) ( c u ) ) ) */",
+    "/*+\nSeqScan(c)\nSeqScan(u)\nSeqScan(p)\nIndexOnlyScan(v)\nHashJoin ( c u )\nMergeJoin ( c u p )\nMergeJoin ( c u p v )\nLeading ( ( ( ( c u ) p ) v ) ) */"
+  ]
+}

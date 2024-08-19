@@ -1,0 +1,70 @@
+Table,Condition,Frequency
+customer_address,ca_gmt_offset = -6,57
+customer_address,ca_gmt_offset = -7,43
+date_dim,d_year = 1998 and d_moy = 1,1
+date_dim,d_year = 1998 and d_moy = 10,1
+date_dim,d_year = 1998 and d_moy = 11,1
+date_dim,d_year = 1998 and d_moy = 12,3
+date_dim,d_year = 1998 and d_moy = 2,1
+date_dim,d_year = 1998 and d_moy = 3,4
+date_dim,d_year = 1998 and d_moy = 4,3
+date_dim,d_year = 1998 and d_moy = 5,2
+date_dim,d_year = 1998 and d_moy = 6,4
+date_dim,d_year = 1998 and d_moy = 8,5
+date_dim,d_year = 1998 and d_moy = 9,2
+date_dim,d_year = 1999 and d_moy = 1,1
+date_dim,d_year = 1999 and d_moy = 10,2
+date_dim,d_year = 1999 and d_moy = 11,1
+date_dim,d_year = 1999 and d_moy = 12,1
+date_dim,d_year = 1999 and d_moy = 2,2
+date_dim,d_year = 1999 and d_moy = 3,4
+date_dim,d_year = 1999 and d_moy = 4,1
+date_dim,d_year = 1999 and d_moy = 5,2
+date_dim,d_year = 1999 and d_moy = 6,4
+date_dim,d_year = 1999 and d_moy = 7,2
+date_dim,d_year = 1999 and d_moy = 8,1
+date_dim,d_year = 1999 and d_moy = 9,3
+date_dim,d_year = 2000 and d_moy = 1,1
+date_dim,d_year = 2000 and d_moy = 10,2
+date_dim,d_year = 2000 and d_moy = 11,2
+date_dim,d_year = 2000 and d_moy = 12,2
+date_dim,d_year = 2000 and d_moy = 4,2
+date_dim,d_year = 2000 and d_moy = 5,1
+date_dim,d_year = 2000 and d_moy = 6,2
+date_dim,d_year = 2000 and d_moy = 8,4
+date_dim,d_year = 2000 and d_moy = 9,1
+date_dim,d_year = 2001 and d_moy = 1,4
+date_dim,d_year = 2001 and d_moy = 4,2
+date_dim,d_year = 2001 and d_moy = 5,5
+date_dim,d_year = 2001 and d_moy = 8,2
+date_dim,d_year = 2001 and d_moy = 9,3
+date_dim,d_year = 2002 and d_moy = 10,1
+date_dim,d_year = 2002 and d_moy = 11,2
+date_dim,d_year = 2002 and d_moy = 12,3
+date_dim,d_year = 2002 and d_moy = 2,1
+date_dim,d_year = 2002 and d_moy = 4,1
+date_dim,d_year = 2002 and d_moy = 6,1
+date_dim,d_year = 2002 and d_moy = 7,1
+date_dim,d_year = 2002 and d_moy = 8,2
+date_dim,d_year = 2002 and d_moy = 9,4
+household_demographics,hd_buy_potential like '0-500%',13
+household_demographics,hd_buy_potential like '1001-5000%',19
+household_demographics,hd_buy_potential like '5001-10000%',14
+household_demographics,hd_buy_potential like '501-1000%',18
+household_demographics,hd_buy_potential like '>10000%',18
+household_demographics,hd_buy_potential like 'Unknown%',18
+web_sales,1=1,20
+warehouse,1=1,20
+ship_mode,1=1,20
+store_sales,1=1,20
+store,1=1,20
+income_band,1=1,20
+item,1=1,20
+household_demographics,1=1,20
+date_dim,1=1,20
+catalog_sales,1=1,20
+catalog_returns,1=1,20
+customer_demographics,1=1,20
+call_center,1=1,20
+customer_address,1=1,20
+customer,1=1,20

@@ -1,0 +1,31 @@
+{
+  "0": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */"
+  ],
+  "1": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */"
+  ],
+  "2": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t1)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk t1 )\nNestLoop ( k mk t1 ml )\nNestLoop ( k mk t1 ml lt )\nNestLoop ( k mk t1 ml lt t2 )\nLeading ( ( ( ( ( ( k mk ) t1 ) ml ) lt ) t2 ) ) */"
+  ],
+  "3": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */"
+  ],
+  "4": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(t1)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk t1 )\nNestLoop ( k mk t1 ml )\nNestLoop ( k mk t1 ml lt )\nNestLoop ( k mk t1 ml lt t2 )\nLeading ( ( ( ( ( ( k mk ) t1 ) ml ) lt ) t2 ) ) */"
+  ],
+  "5": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t2)\nSeqScan(lt)\nIndexScan(t1)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml t2 )\nNestLoop ( k mk ml t2 lt )\nNestLoop ( k mk ml t2 lt t1 )\nLeading ( ( ( ( ( ( k mk ) ml ) t2 ) lt ) t1 ) ) */"
+  ],
+  "-1": [
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nHashJoin ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(lt)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nMergeJoin ( lt k mk ml )\nNestLoop ( lt k mk ml t1 )\nNestLoop ( lt k mk ml t1 t2 )\nLeading ( ( ( ( lt ( ( k mk ) ml ) ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(lt)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t1)\nSeqScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nHashJoin ( lt k mk ml )\nNestLoop ( lt k mk ml t1 )\nNestLoop ( lt k mk ml t1 t2 )\nLeading ( ( ( ( lt ( ( k mk ) ml ) ) t1 ) t2 ) ) */",
+    "/*+\nIndexScan(lt)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nMergeJoin ( lt k mk ml )\nNestLoop ( lt k mk ml t1 )\nNestLoop ( lt k mk ml t1 t2 )\nLeading ( ( ( ( lt ( ( k mk ) ml ) ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(lt)\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nHashJoin ( lt k mk ml )\nNestLoop ( lt k mk ml t1 )\nNestLoop ( lt k mk ml t1 t2 )\nLeading ( ( ( ( lt ( ( k mk ) ml ) ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nMergeJoin ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nSeqScan(lt)\nIndexScan(t1)\nIndexScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */",
+    "/*+\nSeqScan(k)\nIndexScan(mk)\nIndexScan(ml)\nIndexScan(lt)\nIndexScan(t1)\nSeqScan(t2)\nNestLoop ( k mk )\nNestLoop ( k mk ml )\nNestLoop ( k mk ml lt )\nNestLoop ( k mk ml lt t1 )\nNestLoop ( k mk ml lt t1 t2 )\nLeading ( ( ( ( ( ( k mk ) ml ) lt ) t1 ) t2 ) ) */"
+  ]
+}

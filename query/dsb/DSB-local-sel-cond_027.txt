@@ -1,0 +1,400 @@
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Secondary'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'D' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'M' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'S' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'U' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '2 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = '4 yr Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Advanced Degree'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'College'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Primary'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Unknown'
+cd_gender = 'F' AND cd_marital_status = 'W' AND cd_education_status = 'Unknown'
+cd_gender = 'M' AND cd_marital_status = 'D' AND cd_education_status = 'College'
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1998
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 1999
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2000
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2001
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+d_year = 2002
+i_category = 'Books' 
+i_category = 'Books' 
+i_category = 'Books' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Children' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Electronics' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Home' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Jewelry' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Men' 
+i_category = 'Sports' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+i_category = 'Women' 
+s_state = 'AK'
+s_state = 'AL'
+s_state = 'AL'
+s_state = 'AR'
+s_state = 'AR'
+s_state = 'AR'
+s_state = 'CA'
+s_state = 'CA'
+s_state = 'CA'
+s_state = 'CT'
+s_state = 'FL'
+s_state = 'FL'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'GA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IA'
+s_state = 'IL'
+s_state = 'IL'
+s_state = 'IL'
+s_state = 'IN'
+s_state = 'IN'
+s_state = 'IN'
+s_state = 'KY'
+s_state = 'KY'
+s_state = 'KY'
+s_state = 'LA'
+s_state = 'LA'
+s_state = 'MD'
+s_state = 'ME'
+s_state = 'MI'
+s_state = 'MN'
+s_state = 'MN'
+s_state = 'MN'
+s_state = 'MO'
+s_state = 'MO'
+s_state = 'MO'
+s_state = 'MS'
+s_state = 'MS'
+s_state = 'MS'
+s_state = 'MS'
+s_state = 'MS'
+s_state = 'NC'
+s_state = 'NC'
+s_state = 'NC'
+s_state = 'ND'
+s_state = 'NE'
+s_state = 'NH'
+s_state = 'NJ'
+s_state = 'NJ'
+s_state = 'NM'
+s_state = 'NY'
+s_state = 'NY'
+s_state = 'OH'
+s_state = 'OH'
+s_state = 'OH'
+s_state = 'OH'
+s_state = 'OH'
+s_state = 'OH'
+s_state = 'OK'
+s_state = 'OR'
+s_state = 'OR'
+s_state = 'PA'
+s_state = 'PA'
+s_state = 'PA'
+s_state = 'SC'
+s_state = 'SC'
+s_state = 'SC'
+s_state = 'SC'
+s_state = 'SC'
+s_state = 'SC'
+s_state = 'SD'
+s_state = 'SD'
+s_state = 'TN'
+s_state = 'TN'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'TX'
+s_state = 'UT'
+s_state = 'VA'
+s_state = 'VA'
+s_state = 'WA'
+s_state = 'WA'
+s_state = 'WI'
+s_state = 'WV'
+s_state = 'WY'

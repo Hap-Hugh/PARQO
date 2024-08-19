@@ -1,0 +1,256 @@
+cd_marital_status = 'D' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'D' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'D' and cd_education_status = 'College'
+cd_marital_status = 'D' and cd_education_status = 'Primary'
+cd_marital_status = 'D' and cd_education_status = 'Unknown'
+cd_marital_status = 'M' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'M' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'M' and cd_education_status = 'College'
+cd_marital_status = 'M' and cd_education_status = 'Unknown'
+cd_marital_status = 'S' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'S' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'S' and cd_education_status = 'College'
+cd_marital_status = 'U' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = '2 yr Degree'
+cd_marital_status = 'W' and cd_education_status = '4 yr Degree'
+cd_marital_status = 'W' and cd_education_status = 'Advanced Degree'
+cd_marital_status = 'W' and cd_education_status = 'College'
+cd_marital_status = 'W' and cd_education_status = 'Primary'
+cd_marital_status = 'W' and cd_education_status = 'Unknown'
+d_year between 1998 and 1998 + 1
+d_year between 1999 and 1999 + 1
+d_year between 2000 and 2000 + 1
+item1.i_category in ('Books', 'Children')
+item1.i_category in ('Books', 'Electronics')
+item1.i_category in ('Books', 'Home')
+item1.i_category in ('Books', 'Jewelry')
+item1.i_category in ('Books', 'Women')
+item1.i_category in ('Children', 'Electronics')
+item1.i_category in ('Children', 'Home')
+item1.i_category in ('Children', 'Jewelry')
+item1.i_category in ('Children', 'Men')
+item1.i_category in ('Children', 'Sports')
+item1.i_category in ('Children', 'Women')
+item1.i_category in ('Electronics', 'Home')
+item1.i_category in ('Electronics', 'Jewelry')
+item1.i_category in ('Electronics', 'Men')
+item1.i_category in ('Electronics', 'Music')
+item1.i_category in ('Electronics', 'Women')
+item1.i_category in ('Home', 'Jewelry')
+item1.i_category in ('Home', 'Men')
+item1.i_category in ('Home', 'Women')
+item1.i_category in ('Jewelry', 'Men')
+item1.i_category in ('Jewelry', 'Women')
+item1.i_category in ('Men', 'Music')
+item1.i_category in ('Men', 'Women')
+item2.i_manager_id between 10 and 29
+item2.i_manager_id between 100 and 119
+item2.i_manager_id between 11 and 30
+item2.i_manager_id between 13 and 32
+item2.i_manager_id between 15 and 34
+item2.i_manager_id between 17 and 36
+item2.i_manager_id between 21 and 40
+item2.i_manager_id between 23 and 42
+item2.i_manager_id between 24 and 43
+item2.i_manager_id between 25 and 44
+item2.i_manager_id between 26 and 45
+item2.i_manager_id between 27 and 46
+item2.i_manager_id between 28 and 47
+item2.i_manager_id between 3 and 22
+item2.i_manager_id between 33 and 52
+item2.i_manager_id between 34 and 53
+item2.i_manager_id between 35 and 54
+item2.i_manager_id between 36 and 55
+item2.i_manager_id between 37 and 56
+item2.i_manager_id between 38 and 57
+item2.i_manager_id between 39 and 58
+item2.i_manager_id between 41 and 60
+item2.i_manager_id between 43 and 62
+item2.i_manager_id between 44 and 63
+item2.i_manager_id between 45 and 64
+item2.i_manager_id between 46 and 65
+item2.i_manager_id between 48 and 67
+item2.i_manager_id between 49 and 68
+item2.i_manager_id between 50 and 69
+item2.i_manager_id between 53 and 72
+item2.i_manager_id between 54 and 73
+item2.i_manager_id between 55 and 74
+item2.i_manager_id between 6 and 25
+item2.i_manager_id between 62 and 81
+item2.i_manager_id between 63 and 82
+item2.i_manager_id between 64 and 83
+item2.i_manager_id between 66 and 85
+item2.i_manager_id between 67 and 86
+item2.i_manager_id between 69 and 88
+item2.i_manager_id between 7 and 26
+item2.i_manager_id between 71 and 90
+item2.i_manager_id between 72 and 91
+item2.i_manager_id between 73 and 92
+item2.i_manager_id between 75 and 94
+item2.i_manager_id between 76 and 95
+item2.i_manager_id between 77 and 96
+item2.i_manager_id between 78 and 97
+item2.i_manager_id between 81 and 100
+item2.i_manager_id between 9 and 28
+s1.ss_list_price between 1 and 15
+s1.ss_list_price between 106 and 120
+s1.ss_list_price between 109 and 123
+s1.ss_list_price between 110 and 124
+s1.ss_list_price between 111 and 125
+s1.ss_list_price between 114 and 128
+s1.ss_list_price between 115 and 129
+s1.ss_list_price between 116 and 130
+s1.ss_list_price between 119 and 133
+s1.ss_list_price between 120 and 134
+s1.ss_list_price between 122 and 136
+s1.ss_list_price between 123 and 137
+s1.ss_list_price between 125 and 139
+s1.ss_list_price between 129 and 143
+s1.ss_list_price between 13 and 27
+s1.ss_list_price between 130 and 144
+s1.ss_list_price between 133 and 147
+s1.ss_list_price between 137 and 151
+s1.ss_list_price between 141 and 155
+s1.ss_list_price between 142 and 156
+s1.ss_list_price between 15 and 29
+s1.ss_list_price between 150 and 164
+s1.ss_list_price between 152 and 166
+s1.ss_list_price between 155 and 169
+s1.ss_list_price between 156 and 170
+s1.ss_list_price between 158 and 172
+s1.ss_list_price between 159 and 173
+s1.ss_list_price between 16 and 30
+s1.ss_list_price between 163 and 177
+s1.ss_list_price between 168 and 182
+s1.ss_list_price between 171 and 185
+s1.ss_list_price between 174 and 188
+s1.ss_list_price between 175 and 189
+s1.ss_list_price between 195 and 209
+s1.ss_list_price between 20 and 34
+s1.ss_list_price between 200 and 214
+s1.ss_list_price between 202 and 216
+s1.ss_list_price between 204 and 218
+s1.ss_list_price between 208 and 222
+s1.ss_list_price between 209 and 223
+s1.ss_list_price between 211 and 225
+s1.ss_list_price between 223 and 237
+s1.ss_list_price between 235 and 249
+s1.ss_list_price between 236 and 250
+s1.ss_list_price between 239 and 253
+s1.ss_list_price between 24 and 38
+s1.ss_list_price between 243 and 257
+s1.ss_list_price between 251 and 265
+s1.ss_list_price between 255 and 269
+s1.ss_list_price between 257 and 271
+s1.ss_list_price between 260 and 274
+s1.ss_list_price between 262 and 276
+s1.ss_list_price between 266 and 280
+s1.ss_list_price between 267 and 281
+s1.ss_list_price between 272 and 286
+s1.ss_list_price between 273 and 287
+s1.ss_list_price between 280 and 294
+s1.ss_list_price between 286 and 300
+s1.ss_list_price between 30 and 44
+s1.ss_list_price between 32 and 46
+s1.ss_list_price between 33 and 47
+s1.ss_list_price between 35 and 49
+s1.ss_list_price between 36 and 50
+s1.ss_list_price between 37 and 51
+s1.ss_list_price between 38 and 52
+s1.ss_list_price between 44 and 58
+s1.ss_list_price between 45 and 59
+s1.ss_list_price between 49 and 63
+s1.ss_list_price between 62 and 76
+s1.ss_list_price between 65 and 79
+s1.ss_list_price between 66 and 80
+s1.ss_list_price between 69 and 83
+s1.ss_list_price between 71 and 85
+s1.ss_list_price between 73 and 87
+s1.ss_list_price between 8 and 22
+s1.ss_list_price between 80 and 94
+s1.ss_list_price between 81 and 95
+s1.ss_list_price between 83 and 97
+s1.ss_list_price between 95 and 109
+s1.ss_list_price between 96 and 110
+s1.ss_list_price between 98 and 112
+s2.ss_list_price between 1 and 15
+s2.ss_list_price between 106 and 120
+s2.ss_list_price between 109 and 123
+s2.ss_list_price between 110 and 124
+s2.ss_list_price between 111 and 125
+s2.ss_list_price between 114 and 128
+s2.ss_list_price between 115 and 129
+s2.ss_list_price between 116 and 130
+s2.ss_list_price between 119 and 133
+s2.ss_list_price between 120 and 134
+s2.ss_list_price between 122 and 136
+s2.ss_list_price between 123 and 137
+s2.ss_list_price between 125 and 139
+s2.ss_list_price between 129 and 143
+s2.ss_list_price between 13 and 27
+s2.ss_list_price between 130 and 144
+s2.ss_list_price between 133 and 147
+s2.ss_list_price between 137 and 151
+s2.ss_list_price between 141 and 155
+s2.ss_list_price between 142 and 156
+s2.ss_list_price between 15 and 29
+s2.ss_list_price between 150 and 164
+s2.ss_list_price between 152 and 166
+s2.ss_list_price between 155 and 169
+s2.ss_list_price between 156 and 170
+s2.ss_list_price between 158 and 172
+s2.ss_list_price between 159 and 173
+s2.ss_list_price between 16 and 30
+s2.ss_list_price between 163 and 177
+s2.ss_list_price between 168 and 182
+s2.ss_list_price between 171 and 185
+s2.ss_list_price between 174 and 188
+s2.ss_list_price between 175 and 189
+s2.ss_list_price between 195 and 209
+s2.ss_list_price between 20 and 34
+s2.ss_list_price between 200 and 214
+s2.ss_list_price between 202 and 216
+s2.ss_list_price between 204 and 218
+s2.ss_list_price between 208 and 222
+s2.ss_list_price between 209 and 223
+s2.ss_list_price between 211 and 225
+s2.ss_list_price between 223 and 237
+s2.ss_list_price between 235 and 249
+s2.ss_list_price between 236 and 250
+s2.ss_list_price between 239 and 253
+s2.ss_list_price between 24 and 38
+s2.ss_list_price between 243 and 257
+s2.ss_list_price between 251 and 265
+s2.ss_list_price between 255 and 269
+s2.ss_list_price between 257 and 271
+s2.ss_list_price between 260 and 274
+s2.ss_list_price between 262 and 276
+s2.ss_list_price between 266 and 280
+s2.ss_list_price between 267 and 281
+s2.ss_list_price between 272 and 286
+s2.ss_list_price between 273 and 287
+s2.ss_list_price between 280 and 294
+s2.ss_list_price between 286 and 300
+s2.ss_list_price between 30 and 44
+s2.ss_list_price between 32 and 46
+s2.ss_list_price between 33 and 47
+s2.ss_list_price between 35 and 49
+s2.ss_list_price between 36 and 50
+s2.ss_list_price between 37 and 51
+s2.ss_list_price between 38 and 52
+s2.ss_list_price between 44 and 58
+s2.ss_list_price between 45 and 59
+s2.ss_list_price between 49 and 63
+s2.ss_list_price between 62 and 76
+s2.ss_list_price between 65 and 79
+s2.ss_list_price between 66 and 80
+s2.ss_list_price between 69 and 83
+s2.ss_list_price between 71 and 85
+s2.ss_list_price between 73 and 87
+s2.ss_list_price between 8 and 22
+s2.ss_list_price between 80 and 94
+s2.ss_list_price between 81 and 95
+s2.ss_list_price between 83 and 97
+s2.ss_list_price between 95 and 109
+s2.ss_list_price between 96 and 110
+s2.ss_list_price between 98 and 112

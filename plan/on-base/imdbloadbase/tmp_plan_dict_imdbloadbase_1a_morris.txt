@@ -1,0 +1,7 @@
+{
+  "0": [
+    "/*+\nSeqScan(mc)\nSeqScan(ct)\nIndexScan(mi_idx)\nSeqScan(it)\nIndexScan(t)\nHashJoin ( mc ct )\nNestLoop ( mc ct mi_idx )\nHashJoin ( mc ct mi_idx it )\nNestLoop ( mc ct mi_idx it t )\nLeading ( ( ( ( ( mc ct ) mi_idx ) it ) t ) ) */",
+    "/*+\nSeqScan(mi_idx)\nSeqScan(it)\nIndexScan(mc)\nIndexScan(ct)\nIndexScan(t)\nHashJoin ( mi_idx it )\nNestLoop ( mi_idx it mc )\nNestLoop ( mi_idx it mc ct )\nNestLoop ( mi_idx it mc ct t )\nLeading ( ( ( ( ( mi_idx it ) mc ) ct ) t ) ) */",
+    "/*+\nSeqScan(mi_idx)\nSeqScan(it)\nIndexScan(t)\nIndexScan(mc)\nIndexScan(ct)\nHashJoin ( mi_idx it )\nNestLoop ( mi_idx it t )\nNestLoop ( mi_idx it t mc )\nNestLoop ( mi_idx it t mc ct )\nLeading ( ( ( ( ( mi_idx it ) t ) mc ) ct ) ) */"
+  ]
+}
